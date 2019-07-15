@@ -1,0 +1,21 @@
+geolocation: Belgium
+lastAccountName: _CrazyPandaBoy_
+timestamps:
+  login: 1562424071077
+  lastteleport: 1562424640741
+  logout: 1562424969577
+ipAddress: 84.197.211.112
+lastlocation:
+  world: survival
+  x: 412.9493773539231
+  y: 84.0
+  z: -9.99520246213435
+  yaw: -291.82846
+  pitch: -15.670325
+logoutlocation:
+  world: survival
+  x: -159.12535023813575
+  y: 67.0
+  z: -386.2258221522074
+  yaw: -86.00659
+  pitch: -28.832855

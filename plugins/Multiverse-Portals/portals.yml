@@ -1,0 +1,21 @@
+portals:
+  factions-portal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: nandopatel
+    location: -1.0,51.0,6.0:1.0,53.0,6.0
+    world: Lobby-World
+    destination: survival
+  creative-portal:
+    entryfee:
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: nandopatel
+    location: -6.0,51.0,-1.0:-6.0,53.0,1.0
+    world: Lobby-World
+    destination: world

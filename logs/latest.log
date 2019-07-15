@@ -1,0 +1,959 @@
+[13:54:35] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[13:54:35] [Server thread/INFO]: Loading properties
+[13:54:35] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-d05d3c1-a2275f1 (MC: 1.14.3) (Implementing API version 1.14.3-R0.1-SNAPSHOT)
+[13:54:36] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:54:36] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:54:36] [Server thread/INFO]: Debug logging is disabled
+[13:54:36] [Server thread/INFO]: Default game type: SURVIVAL
+[13:54:36] [Server thread/INFO]: Generating keypair
+[13:54:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:54:37] [Server thread/INFO]: Using epoll channel type
+[13:54:46] [Server thread/WARN]: Plugin PermissionsEx v1.23.4 does not specify an api-version.
+[13:54:48] [Server thread/WARN]: Plugin Plan v4.8.6 does not specify an api-version.
+[13:54:48] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.51
+[13:54:48] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0;214af8a
+[13:54:49] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2e92b2a9]
+[13:54:49] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.0.6
+[13:54:49] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[13:54:49] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[13:54:49] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.0.0-b766
+[13:54:49] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.1-beta-01;14e7525
+[13:54:49] [Server thread/INFO]: [GUIShop] Loading GUIShop v7.1.5
+[13:54:49] [Server thread/INFO]: [NPCAuctions] Loading NPCAuctions v1.0.62
+[13:54:49] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.0.0
+[13:54:49] [Server thread/INFO]: [Multiverse-SignPortals] Loading Multiverse-SignPortals v4.0.0-b742
+[13:54:49] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.0.0
+[13:54:49] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.0.0
+[13:54:49] [Server thread/INFO]: [mcMMO] Loading mcMMO v2.1.95-SNAPSHOT
+[13:54:49] [Server thread/INFO]: mcMMO has registered WG flags successfully!
+[13:54:49] [Server thread/INFO]: [PerWorldInventory] Loading PerWorldInventory v2.3.1
+[13:54:49] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.0.0-b799
+[13:54:49] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.0.0
+[13:54:49] [Server thread/INFO]: [Factions] Loading Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA
+[13:54:49] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.0.0
+[13:54:49] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.0.0
+[13:54:49] [Server thread/INFO]: [Plan] Loading Plan v4.8.6
+[13:54:49] [Server thread/INFO]: [RandomTP] Loading RandomTP v1.0.7.2
+[13:54:49] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v4.0.0-b757
+[13:54:49] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0;214af8a
+[13:54:49] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:54:49] [Server thread/WARN]: [WorldEdit] ====================================================
+[13:54:49] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[13:54:49] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[13:54:49] [Server thread/WARN]: [WorldEdit]   
+[13:54:49] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[13:54:49] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[13:54:49] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[13:54:49] [Server thread/WARN]: [WorldEdit]   
+[13:54:49] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[13:54:49] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[13:54:49] [Server thread/WARN]: [WorldEdit]   
+[13:54:49] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[13:54:49] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[13:54:49] [Server thread/WARN]: [WorldEdit]   
+[13:54:49] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[13:54:49] [Server thread/WARN]: [WorldEdit] ====================================================
+[13:54:49] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[13:54:49] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[13:54:49] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[13:54:49] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:54:49] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[13:54:49] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[13:54:49] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[13:54:49] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.1.95-SNAPSHOT
+[13:54:50] [Server thread/INFO]: [mcMMO] enabling Acrobatics Skills
+[13:54:50] [Server thread/INFO]: [mcMMO] registered subskill: Roll
+[13:54:51] [Server thread/INFO]: [mcMMO] 0 entries in mcMMO World Blacklist
+[13:54:51] [Server thread/INFO]: Preparing level "world"
+[13:54:51] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[13:54:53] [Server thread/INFO]: Loaded 6 recipes
+[13:54:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:54:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:54:54] [Server thread/INFO]: Mob Spawn Range: 6
+[13:54:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:54:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:54:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:54:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:54:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:54:54] [Server thread/INFO]: Max TNT Explosions: 100
+[13:54:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:54:54] [Server thread/INFO]: View Distance: 10
+[13:54:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:54:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:54:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:54:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:54:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:54:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:54:55] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R2 as the Bukkit adapter
+[13:54:56] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[13:54:56] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:54:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:54:56] [Server thread/INFO]: Mob Spawn Range: 6
+[13:54:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:54:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:54:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:54:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:54:56] [Server thread/INFO]: Max TNT Explosions: 100
+[13:54:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:54:56] [Server thread/INFO]: View Distance: 10
+[13:54:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:54:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:54:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:54:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:54:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:54:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:54:56] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:54:56] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:54:56] [Server thread/INFO]: Mob Spawn Range: 6
+[13:54:56] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:54:56] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:54:56] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:54:56] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:54:56] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:54:56] [Server thread/INFO]: Max TNT Explosions: 100
+[13:54:56] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:54:56] [Server thread/INFO]: View Distance: 10
+[13:54:56] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:54:56] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:54:56] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:54:56] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:54:56] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:54:56] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:54:57] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[13:55:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:00] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:22] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:23] [Server thread/INFO]: Preparing spawn area: 49%
+[13:55:24] [Server thread/INFO]: Time elapsed: 26841 ms
+[13:55:24] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[13:55:26] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:26] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:26] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:26] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:26] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:26] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:27] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:27] [Server thread/INFO]: Time elapsed: 3734 ms
+[13:55:27] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[13:55:28] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:28] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:28] [Server thread/INFO]: Time elapsed: 834 ms
+[13:55:28] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.51
+[13:55:28] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.0.6
+[13:55:28] [Server thread/INFO]: [ClearLag] Loading modules...
+[13:55:28] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[13:55:28] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[13:55:28] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[13:55:28] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[13:55:28] [Thread-10/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.14]...
+[13:55:28] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[13:55:28] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[13:55:29] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[13:55:29] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[13:55:29] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx_Chat hooked.
+[13:55:29] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.0.0-b766
+[13:55:29] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.0.0-b766" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Rigby, fernferret, lithium3141, main--, dumptruckman].
+[13:55:29] [Server thread/INFO]: -------- World Settings For [survival_nether] --------
+[13:55:29] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:55:29] [Server thread/INFO]: Mob Spawn Range: 6
+[13:55:29] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:55:29] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:55:29] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:55:29] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:55:29] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:55:29] [Server thread/INFO]: Max TNT Explosions: 100
+[13:55:29] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:55:29] [Server thread/INFO]: View Distance: 10
+[13:55:29] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:55:29] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:55:29] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:55:29] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:55:29] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:55:29] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:55:29] [Server thread/INFO]: Preparing start region for dimension 'survival_nether'/minecraft:the_nether
+[13:55:29] [Thread-10/INFO]: [ClearLag] No updates found!
+[13:55:31] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:31] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:31] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:31] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:31] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:32] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:32] [Server thread/INFO]: Time elapsed: 2749 ms
+[13:55:33] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Talarion Land
+[13:55:33] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[13:55:33] [Server thread/INFO]: -------- World Settings For [Lobby-World] --------
+[13:55:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:55:33] [Server thread/INFO]: Mob Spawn Range: 6
+[13:55:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:55:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:55:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:55:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:55:33] [Server thread/INFO]: Max TNT Explosions: 100
+[13:55:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:55:33] [Server thread/INFO]: View Distance: 10
+[13:55:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:55:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:55:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:55:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:55:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:55:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:55:33] [Server thread/INFO]: Preparing start region for dimension 'Lobby-World'/minecraft:overworld
+[13:55:33] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:33] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:33] [Server thread/INFO]: Time elapsed: 687 ms
+[13:55:33] [Server thread/INFO]: -------- World Settings For [survival] --------
+[13:55:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:55:33] [Server thread/INFO]: Mob Spawn Range: 6
+[13:55:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:55:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:55:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:55:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:55:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:55:33] [Server thread/INFO]: Max TNT Explosions: 100
+[13:55:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:55:33] [Server thread/INFO]: View Distance: 10
+[13:55:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:55:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:55:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:55:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:55:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:55:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:55:33] [Server thread/INFO]: Preparing start region for dimension 'survival'/minecraft:overworld
+[13:55:35] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:35] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:35] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:35] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[13:55:36] [Server thread/INFO]: Time elapsed: 2085 ms
+[13:55:36] [Server thread/INFO]: -------- World Settings For [survival_the_end] --------
+[13:55:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:55:36] [Server thread/INFO]: Mob Spawn Range: 6
+[13:55:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:55:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:55:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:55:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:55:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:55:36] [Server thread/INFO]: Max TNT Explosions: 100
+[13:55:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:55:36] [Server thread/INFO]: View Distance: 10
+[13:55:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:55:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:55:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:55:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:55:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:55:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:55:36] [Server thread/INFO]: Preparing start region for dimension 'survival_the_end'/minecraft:the_end
+[13:55:36] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:36] [Server thread/INFO]: Preparing spawn area: 0%
+[13:55:36] [Server thread/INFO]: Time elapsed: 665 ms
+[13:55:36] [Server thread/INFO]: [Multiverse-Core] 7 - World(s) loaded.
+[13:55:37] [Server thread/INFO]: [Multiverse-Core] Version 4.0.0-b766 (API v23) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[13:55:37] [Server thread/INFO]: [Multiverse-Core] Help dumptruckman keep this project alive. Become a patron! https://www.patreon.com/dumptruckman
+[13:55:37] [Server thread/INFO]: [Multiverse-Core] One time donations are also appreciated: https://www.paypal.me/dumptruckman
+[13:55:37] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.1-beta-01;14e7525
+[13:55:37] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/smtpserver/Minecraft/mcv/plugins/WorldGuard/config.yml
+[13:55:37] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/smtpserver/Minecraft/mcv/plugins/WorldGuard/worlds/world/config.yml
+[13:55:37] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/smtpserver/Minecraft/mcv/plugins/WorldGuard/worlds/world/blacklist.txt
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[13:55:37] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/smtpserver/Minecraft/mcv/plugins/WorldGuard/worlds/world_nether/config.yml
+[13:55:37] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/smtpserver/Minecraft/mcv/plugins/WorldGuard/worlds/world_nether/blacklist.txt
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[13:55:37] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/smtpserver/Minecraft/mcv/plugins/WorldGuard/worlds/world_the_end/config.yml
+[13:55:37] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/smtpserver/Minecraft/mcv/plugins/WorldGuard/worlds/world_the_end/blacklist.txt
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival_nether) TNT ignition is PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_nether'
+[13:55:37] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/smtpserver/Minecraft/mcv/plugins/WorldGuard/worlds/Lobby-World/config.yml
+[13:55:37] [Server thread/INFO]: [WorldGuard] Default configuration file written: /home/smtpserver/Minecraft/mcv/plugins/WorldGuard/worlds/Lobby-World/blacklist.txt
+[13:55:37] [Server thread/INFO]: [WorldGuard] (Lobby-World) TNT ignition is PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (Lobby-World) Lighters are PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (Lobby-World) Lava fire is blocked.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (Lobby-World) Fire spread is UNRESTRICTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lobby-World'
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival_the_end) TNT ignition is PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[13:55:37] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[13:55:37] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_the_end'
+[13:55:37] [Server thread/INFO]: [WorldGuard] Loading region data...
+[13:55:37] [Server thread/INFO]: [WorldGuard] Unloading and saving region data that is currently loaded...
+[13:55:38] [Server thread/INFO]: [WorldGuard] Migrating regions in 'Talarion Land' to convert names -> UUIDs...
+[13:55:38] [Server thread/INFO]: [WorldGuard] Migrating regions in 'survival' to convert names -> UUIDs...
+[13:55:38] [Server thread/INFO]: [WorldGuard] Loading region data for loaded worlds...
+[13:55:38] [Server thread/INFO]: [WorldGuard] Loading region data...
+[13:55:38] [Server thread/INFO]: [WorldGuard] Regions saved after UUID migration! This won't happen again unless you change the relevant configuration option in WorldGuard's config.
+[13:55:38] [Server thread/INFO]: [GUIShop] Enabling GUIShop v7.1.5
+[13:55:38] [Server thread/INFO]: [GUIShop] Config all up to date!
+[13:55:38] [Server thread/INFO]: [GUIShop] Server is 1.10+ Implementing fixes.
+[13:55:38] [Server thread/INFO]: [GUIShop] SilkSpawners or EpicSpawners was not installed. Spawners disabled!
+[13:55:38] [Server thread/INFO]: [NPCAuctions] Enabling NPCAuctions v1.0.62
+[13:55:38] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.0.0
+[13:55:38] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[13:55:38] [Server thread/INFO]: No kits found to migrate.
+[13:55:39] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[13:55:39] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[13:55:39] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[13:55:39] [Server thread/INFO]: Loaded 20977 items from items.json.
+[13:55:39] [Server thread/INFO]: Using locale en_US
+[13:55:39] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:55:39] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:55:39] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[13:55:39] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[13:55:39] [Server thread/INFO]: [Multiverse-SignPortals] Enabling Multiverse-SignPortals v4.0.0-b742
+[13:55:39] [Server thread/INFO]: [Multiverse-SignPortals 4.0.0-b742]  Enabled - By Rigby and fernferret
+[13:55:39] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.0.0
+[13:55:39] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.0.0
+[13:55:39] [Server thread/WARN]: Unable to load JDK7 types (annotations, java.nio.file.Path): no Java7 support added
+[13:55:39] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[13:55:39] [Server thread/INFO]: [PerWorldInventory] Enabling PerWorldInventory v2.3.1
+[13:55:40] [Server thread/INFO]: [PerWorldInventory] Vault found! Hooking into it...
+[13:55:40] [Server thread/INFO]: [PerWorldInventory] Hooked into Vault!
+[13:55:40] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.0.0-b799
+[13:55:40] [Server thread/INFO]: [Multiverse-Portals] - Version 4.0.0-b799 Enabled - By Rigby and fernferret
+[13:55:40] [Server thread/INFO]: [MVPLogging] 2 - Portals(s) loaded
+[13:55:40] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[13:55:40] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.0.0
+[13:55:40] [Server thread/INFO]: [Factions] Enabling Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA
+[13:55:40] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] ==== Setup ====
+[13:55:40] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Minecraft Version 1.14 found.
+[13:55:40] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Starting conversion of legacy material in config to 1.13 materials.
+[13:55:40] [Server thread/INFO]: File was not found for players.json, assuming there is no need to migrate old players.json file.
+[13:55:40] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] ==== End Setup ====
+[13:55:40] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] === ENABLE START ===
+[13:55:40] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Loaded 18 players
+[13:55:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Loaded 6 Factions
+[13:55:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Loading board from disk
+[13:55:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Loaded 144 board locations
+[13:55:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] CoreProtect not found, disabling Inspect
+[13:55:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Enabling Faction Flight!
+[13:55:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Enabling FactionsTop command, this is a very basic /f top please get a dedicated /f top resource if you want land calculation etc.
+[13:55:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Economy integration through Vault plugin successful.
+[13:55:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Minecraft Version 1.9 or higher found, using non packet based particle API
+[13:55:41] [Server thread/INFO]:   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-
+[13:55:41] [Server thread/INFO]:  / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \
+[13:55:41] [Server thread/INFO]: `-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'
+[13:55:41] [Server thread/INFO]: You are using an unstable version of the plugin!
+[13:55:41] [Server thread/INFO]: This comes with risks of small bugs in newer features!
+[13:55:41] [Server thread/INFO]: For support head to: https://github.com/ProSavage/SavageFactions/issues
+[13:55:41] [Server thread/INFO]:   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-
+[13:55:41] [Server thread/INFO]:  / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \
+[13:55:41] [Server thread/INFO]: `-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'
+[13:55:41] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] === ENABLE DONE (Took 762ms) ===
+[13:55:41] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.0.0
+[13:55:41] [Server thread/WARN]: config broken for xmpp
+[13:55:41] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.0.0
+[13:55:41] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[13:55:41] [Server thread/INFO]: [Plan] Enabling Plan v4.8.6
+[13:55:42] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
+[13:55:42] [Server thread/INFO]: [0;32;1m----------------------------------------[m
+[13:55:42] [Server thread/INFO]: [0;32;1mNew Release (4.8.7) is available https://github.com/plan-player-analytics/Plan/releases/tag/4.8.7[m
+[13:55:42] [Server thread/INFO]: [0;32;1m----------------------------------------[m
+[13:55:43] [Server thread/INFO]: [Plan] H2-database connection established.
+[13:55:43] [Server thread/INFO]: [0;33;1mWebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks[m
+[13:55:43] [Server thread/INFO]: [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+[13:55:43] [Server thread/INFO]: [0;33;1mWebServer: User Authorization Disabled! (Not secure over HTTP)[m
+[13:55:43] [Server thread/INFO]: [Plan] Webserver running on PORT 8804 (http://:8804)
+[13:55:43] [Server thread/INFO]: [0;33;1mIP in server.properties is empty & AlternativeIP is not in use. Incorrect links will be given![m
+[13:55:43] [Server thread/INFO]: [Plan] Player Analytics Enabled. (2208 ms)
+[13:55:43] [Server thread/INFO]: [RandomTP] Enabling RandomTP v1.0.7.2
+[13:55:43] [Server thread/INFO]: [0;37;1m[[0;31;1m[21mRandomTP[0;37;1m]  [0;32;1m[0;36;1mLinked with WorldGuard[m
+[13:55:43] [Server thread/INFO]: [0;37;1m[[0;31;1m[21mRandomTP[0;37;1m]  [0;32;1m[0;36;1mLinked with Factions[m
+[13:55:43] [Server thread/INFO]: [0;37;1m[[0;31;1m[21mRandomTP[0;37;1m]  [0;32;1m[0;32;22mThe plugin has been sucessfully enabled![m
+[13:55:43] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v4.0.0-b757
+[13:55:43] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 4.0.0-b757 Enabled - By Rigby and fernferret
+[13:55:44] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:55:45] [Server thread/INFO]: Done (53.754s)! For help, type "help"
+[13:55:45] [Craft Scheduler Thread - 0/INFO]: [Vault] Checking for Updates ... 
+[13:55:45] [Craft Scheduler Thread - 0/INFO]: [Vault] No new version available
+[13:56:16] [User Authenticator #1/INFO]: UUID of player Synchro99 is 7ecc276e-f8a5-47c8-9b5d-3fb1d3ee9966
+[13:56:16] [Plan Non critical-pool-1/ERROR]: [Plan] A PluginData-source caused an exception: Factions, you can disable the integration under 'Plugins.Factions.Enabled'
+[13:56:16] [Plan Non critical-pool-1/WARN]: [Plan] Error was caught by com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator
+java.lang.NoClassDefFoundError: com/massivecraft/factions/entity/FactionColl
+	at com.djrapitops.pluginbridge.plan.factions.FactionsData.getTopFactions(FactionsData.java:128) ~[?:?]
+	at com.djrapitops.pluginbridge.plan.factions.FactionsData.getServerData(FactionsData.java:92) ~[?:?]
+	at com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator.lambda$analyzeAdditionalPluginData$0(AnalysisPluginsTabContentCreator.java:91) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:1.8.0_212]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1382) ~[?:1.8.0_212]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) ~[?:1.8.0_212]
+	at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:291) ~[?:1.8.0_212]
+	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731) ~[?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.doInvoke(ForkJoinTask.java:401) ~[?:1.8.0_212]
+	at java.util.concurrent.ForkJoinTask.invoke(ForkJoinTask.java:734) ~[?:1.8.0_212]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:160) ~[?:1.8.0_212]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:174) ~[?:1.8.0_212]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233) ~[?:1.8.0_212]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418) ~[?:1.8.0_212]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:583) ~[?:1.8.0_212]
+	at com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator.analyzeAdditionalPluginData(AnalysisPluginsTabContentCreator.java:85) ~[?:?]
+	at com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator.createContent(AnalysisPluginsTabContentCreator.java:151) ~[?:?]
+	at com.djrapitops.plan.data.store.containers.AnalysisContainer.lambda$addPluginSuppliers$134(AnalysisContainer.java:498) ~[?:?]
+	at com.djrapitops.plan.data.store.CachingSupplier.get(CachingSupplier.java:50) ~[?:?]
+	at com.djrapitops.plan.data.store.containers.SupplierDataContainer.getUnsafe(SupplierDataContainer.java:106) ~[?:?]
+	at com.djrapitops.plan.data.store.containers.DynamicDataContainer.getUnsafe(DynamicDataContainer.java:80) ~[?:?]
+	at com.djrapitops.plan.data.store.containers.AnalysisContainer.lambda$addPluginSuppliers$137(AnalysisContainer.java:503) ~[?:?]
+	at com.djrapitops.plan.data.store.containers.SupplierDataContainer.getValue(SupplierDataContainer.java:94) ~[?:?]
+	at com.djrapitops.plan.data.store.containers.DynamicDataContainer.getValue(DynamicDataContainer.java:71) ~[?:?]
+	at com.djrapitops.plan.utilities.formatting.PlaceholderReplacer.addPlaceholderFrom(PlaceholderReplacer.java:35) ~[?:?]
+	at com.djrapitops.plan.utilities.formatting.PlaceholderReplacer.addAllPlaceholdersFrom(PlaceholderReplacer.java:40) ~[?:?]
+	at com.djrapitops.plan.utilities.html.pages.AnalysisPage.pluginsTabs(AnalysisPage.java:132) ~[?:?]
+	at com.djrapitops.plan.utilities.html.pages.AnalysisPage.toHtml(AnalysisPage.java:91) ~[?:?]
+	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.analyseAndGetHtml(GenerateAnalysisPageRequest.java:128) ~[?:?]
+	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.generateAndCache(GenerateAnalysisPageRequest.java:113) ~[?:?]
+	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.lambda$null$1(GenerateAnalysisPageRequest.java:105) ~[?:?]
+	at com.djrapitops.plan.system.info.connection.WebExceptionLogger.logIfOccurs(WebExceptionLogger.java:57) ~[?:?]
+	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.lambda$handleRequest$2(GenerateAnalysisPageRequest.java:105) ~[?:?]
+	at com.djrapitops.plan.system.processing.Processing.lambda$submitNonCritical$0(Processing.java:73) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1590) [?:1.8.0_212]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_212]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_212]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+Caused by: java.lang.ClassNotFoundException: com.massivecraft.factions.entity.FactionColl
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382) ~[?:1.8.0_212]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:135) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:81) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_212]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_212]
+	... 39 more
+[13:56:21] [Server thread/INFO]: Synchro99[/174.148.107.197:62711] logged in with entity id 482 at ([world]-423.3880868797884, 65.16909487594181, -166.18911329419336)
+[13:56:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6333ms or 126 ticks behind
+[13:56:22] [Server thread/WARN]: [Essentials] Task #60 for Essentials v2.17.0.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1011) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:959) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:804) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+[13:56:23] [User Authenticator #2/INFO]: UUID of player nandopatel is 4cd1c40c-ec0d-4883-aa97-0ab4ad295706
+[13:56:26] [Server thread/INFO]: nandopatel[/82.27.225.132:57556] logged in with entity id 483 at ([Lobby-World]-48.136425219978044, 101.0, -47.32815069362264)
+[13:56:26] [Server thread/WARN]: [Essentials] Task #73 for Essentials v2.17.0.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1011) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:959) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:804) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+[13:56:29] [User Authenticator #3/INFO]: UUID of player Alfronswig is 5af85cf9-bae4-40a9-afd5-fee1a478157a
+[13:56:30] [Server thread/INFO]: Alfronswig[/62.64.215.170:59677] logged in with entity id 544 at ([world]-589.3000000119209, 71.3067765380669, -331.30000001192093)
+[13:56:30] [Server thread/WARN]: [Essentials] Task #85 for Essentials v2.17.0.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1011) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:959) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:804) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+[13:56:31] [Server thread/INFO]: nandopatel issued server command: /up 1
+[13:56:44] [Async Chat Thread - #0/INFO]: +Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;31;1m[21m[[m[0;31;22mAdmin[0;31;1m[21m][m~╝[m> nigger test #4[m
+[13:56:46] [Server thread/INFO]: nandopatel issued server command: /up 1
+[13:57:15] [Server thread/INFO]: Alfronswig issued server command: /f home
+[13:57:15] [Server thread/WARN]: [PerWorldInventory] Creating a new group on the fly for 'survival'. Please double check your `worlds.yml` file configuration!
+[13:57:26] [Server thread/INFO]: nandopatel issued server command: /up 12
+[13:57:38] [Server thread/INFO]: nandopatel issued server command: /region define spawn
+[13:57:52] [Server thread/INFO]: nandopatel issued server command: /spawn
+[13:58:03] [Server thread/INFO]: Synchro99 issued server command: /tp nandopatel Synchro99
+[13:58:03] [Server thread/WARN]: [PerWorldInventory] Creating a new group on the fly for 'Lobby-World'. Please double check your `worlds.yml` file configuration!
+[13:58:07] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'Lobby-World' have been background saved
+[13:58:12] [Server thread/INFO]: Synchro99 issued server command: /gamemode 0 nandopatel
+[13:58:16] [Server thread/INFO]: Synchro99 issued server command: /gamemode 0
+[13:58:20] [Server thread/INFO]: Synchro99 issued server command: /gamemode 1
+[13:58:41] [Server thread/INFO]: Synchro99 issued server command: /gamemode 0
+[13:58:45] [User Authenticator #4/INFO]: UUID of player Zedphox is 76816463-674c-44bf-bf35-f84aa6ab78e5
+[13:58:47] [Server thread/INFO]: Zedphox[/86.182.158.231:51763] logged in with entity id 1611 at ([world]-591.6999999880791, 68.20000004768372, -325.30000001192093)
+[13:58:47] [Server thread/INFO]: Synchro99 issued server command: /gamemode 1
+[13:58:47] [Server thread/WARN]: [Essentials] Task #109 for Essentials v2.17.0.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1011) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:959) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:804) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+[13:58:56] [Server thread/INFO]: Synchro99 issued server command: /gamemode
+[13:59:05] [Server thread/INFO]: Synchro99 issued server command: /gamemode 0
+[13:59:05] [Server thread/INFO]: Alfronswig issued server command: /warp factions
+[13:59:10] [Server thread/INFO]: Alfronswig issued server command: /warp creative
+[13:59:15] [Server thread/INFO]: Alfronswig issued server command: /day
+[13:59:21] [Server thread/INFO]: Zedphox issued server command: /tp Alfronswig
+[13:59:26] [Server thread/INFO]: nandopatel issued server command: /gmc
+[13:59:39] [Server thread/INFO]: Synchro99 issued server command: /gamemode 1
+[13:59:41] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:00:04] [Server thread/INFO]: nandopatel issued server command: /f claim Safezone
+[14:00:08] [Server thread/INFO]: nandopatel issued server command: /tp Synchro99
+[14:00:14] [Server thread/INFO]: nandopatel issued server command: /tp Synchro99
+[14:01:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8800ms or 176 ticks behind
+[14:02:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:03:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:03:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 8 Entities![m
+[14:06:03] [Server thread/WARN]: nandopatel moved too quickly! 23.953613631994585,0.0,-0.010334433661107312
+[14:06:03] [Server thread/WARN]: Synchro99 moved too quickly! 24.80004604040451,0.0,-6.845758998599531
+[14:06:20] [Server thread/INFO]: nandopatel issued server command: /up 1
+[14:07:02] [Server thread/INFO]: nandopatel issued server command: //set 159:9
+[14:07:20] [Server thread/INFO]: nandopatel issued server command: /flyspeed 3
+[14:07:48] [Server thread/INFO]: Synchro99 issued server command: //
+[14:07:51] [Server thread/INFO]: Synchro99 issued server command: //
+[14:07:59] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:08:12] [Server thread/INFO]: nandopatel issued server command: /home azubase
+[14:08:33] [Server thread/INFO]: Synchro99 lost connection: Disconnected
+[14:08:33] [Server thread/INFO]: Synchro99 left the game
+[14:08:33] [Server thread/WARN]: [Essentials] Task #140 for Essentials v2.17.0.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1011) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:959) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:804) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+[14:08:41] [Server thread/INFO]: nandopatel issued server command: /pex user nandopatel group set Member
+[14:08:42] [Server thread/INFO]: nandopatel issued server command: /home
+[14:08:49] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:09:35] [Server thread/INFO]: nandopatel issued server command: /WARPS
+[14:09:42] [Server thread/INFO]: Alfronswig issued server command: /day
+[14:10:01] [Server thread/INFO]: Zedphox lost connection: Disconnected
+[14:10:01] [Server thread/INFO]: Zedphox left the game
+[14:10:01] [Server thread/WARN]: [Essentials] Task #149 for Essentials v2.17.0.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1011) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:959) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:804) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+[14:10:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:10:23] [Server thread/INFO]: [0;37;1mUser groups set![m
+[14:11:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:11:16] [User Authenticator #5/INFO]: UUID of player Synchro99 is 7ecc276e-f8a5-47c8-9b5d-3fb1d3ee9966
+[14:11:17] [Server thread/INFO]: Synchro99[/174.148.107.197:63007] logged in with entity id 18705 at ([world]-574.781381577463, 69.0, -121.174050956522)
+[14:11:17] [Server thread/WARN]: [Essentials] Task #167 for Essentials v2.17.0.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1011) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:959) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:804) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+[14:11:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 5 Entities![m
+[14:11:32] [Async Chat Thread - #1/INFO]: +Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;31;1m[21m[[m[0;31;22mAdmin[0;31;1m[21m][m~╝[m> Ertyystrhf[m
+[14:11:32] [Async Chat Thread - #1/INFO]: +Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;31;1m[21m[[m[0;31;22mAdmin[0;31;1m[21m][m~╝[m> gshg[m
+[14:11:33] [Async Chat Thread - #1/INFO]: [PLAYER_COMMAND] Synchro99: f
+[14:11:34] [Async Chat Thread - #1/INFO]: +Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;31;1m[21m[[m[0;31;22mAdmin[0;31;1m[21m][m~╝[m> trd[m
+[14:11:43] [Server thread/INFO]: Synchro99 issued server command: /tpa Alfronswig
+[14:11:47] [Server thread/INFO]: Synchro99 issued server command: /tp Alfronswig
+[14:11:56] [Server thread/INFO]: Synchro99 issued server command: /tp nandopatel
+[14:12:34] [Server thread/INFO]: nandopatel issued server command: /regoin
+[14:12:38] [Server thread/INFO]: nandopatel issued server command: /region
+[14:12:58] [Server thread/INFO]: Synchro99 issued server command: /home
+[14:13:02] [Server thread/INFO]: nandopatel issued server command: /region
+[14:13:02] [Server thread/INFO]: nandopatel issued server command: /regions
+[14:13:06] [Server thread/INFO]: Synchro99 issued server command: /spawn
+[14:13:07] [Server thread/INFO]: nandopatel issued server command: /region in
+[14:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5107ms or 102 ticks behind
+[14:13:16] [Server thread/INFO]: nandopatel issued server command: /region info
+[14:13:19] [Server thread/INFO]: Synchro99 issued server command: /gamemode 1
+[14:13:28] [Server thread/INFO]: nandopatel issued server command: /regions
+[14:13:37] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[14:13:55] [Server thread/INFO]: Synchro99 issued server command: /home
+[14:13:57] [Server thread/INFO]: nandopatel issued server command: /region addowner nandopatel
+[14:13:58] [Server thread/INFO]: Synchro99 issued server command: /back
+[14:14:03] [Server thread/INFO]: nandopatel issued server command: /region list
+[14:14:03] [Server thread/INFO]: Synchro99 issued server command: /sethome
+[14:14:07] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:14:08] [Server thread/INFO]: Synchro99 issued server command: /gamemode 1
+[14:14:09] [Server thread/INFO]: nandopatel issued server command: /region list
+[14:14:13] [Server thread/INFO]: nandopatel issued server command: /rg info -w world __global__
+[14:14:21] [Server thread/INFO]: nandopatel issued server command: /rg info -w Lobby-World spawn
+[14:14:35] [Server thread/INFO]: Alfronswig lost connection: Disconnected
+[14:14:35] [Server thread/INFO]: Alfronswig left the game
+[14:14:35] [Server thread/WARN]: [Essentials] Task #187 for Essentials v2.17.0.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1011) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:959) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:804) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+[14:15:01] [Server thread/INFO]: [0;37;1mUser groups set![m
+[14:15:04] [Server thread/INFO]: [0;37;1mUser groups set![m
+[14:15:40] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:15:54] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:16:07] [Server thread/WARN]: nandopatel moved too quickly! -11.184007622635441,0.5009966402674806,0.2620199984052043
+[14:16:09] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:16:43] [Server thread/INFO]: nandopatel issued server command: /rg info
+[14:16:51] [Server thread/INFO]: nandopatel issued server command: /home azubase
+[14:16:56] [Server thread/INFO]: nandopatel issued server command: /gms
+[14:16:56] [Server thread/INFO]: §cnandopatel §4was denied access to command.
+[14:17:02] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:17:12] [Server thread/INFO]: nandopatel issued server command: /home azubase
+[14:17:16] [Server thread/INFO]: nandopatel issued server command: /back
+[14:17:22] [Server thread/INFO]: nandopatel issued server command: /back
+[14:17:38] [Server thread/INFO]: nandopatel issued server command: /mv info
+[14:17:45] [Server thread/INFO]: nandopatel issued server command: //wand
+[14:17:59] [Server thread/INFO]: [0;37;1mUser groups set![m
+[14:18:02] [Async Chat Thread - #2/INFO]: ***Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]nandopatel[m> p[m
+[14:18:04] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:18:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:18:06] [Async Chat Thread - #2/INFO]: +Marx[0;37;1m [[0;37;1msurvival[0;37;1m][m<[0;31;1m[21m[[m[0;31;22mAdmin[0;31;1m[21m][m~╝[m> e[m
+[14:18:08] [Server thread/INFO]: nandopatel issued server command: /rg info
+[14:18:11] [Server thread/INFO]: nandopatel issued server command: /rg flags -w Lobby-World spawn
+[14:18:28] [Server thread/INFO]: nandopatel issued server command: /rg flag -w Lobby-World -h 1 spawn pvp DENY
+[14:18:33] [Server thread/INFO]: nandopatel issued server command: /rg flag -w Lobby-World -h 1 spawn tnt DENY
+[14:18:37] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'Lobby-World' have been background saved
+[14:18:40] [Server thread/INFO]: nandopatel issued server command: /rg flag -w Lobby-World -h 1 spawn block-place DENY
+[14:18:40] [Server thread/INFO]: nandopatel issued server command: /rg flag -w Lobby-World -h 1 spawn block-break DENY
+[14:18:44] [Server thread/INFO]: nandopatel issued server command: /rg flag -w Lobby-World -h 1 spawn build DENY
+[14:18:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:18:59] [Server thread/INFO]: nandopatel issued server command: //wand
+[14:19:03] [Server thread/INFO]: nandopatel issued server command: /rg info
+[14:19:05] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 5 Entities![m
+[14:19:07] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'Lobby-World' have been background saved
+[14:19:09] [Server thread/INFO]: nandopatel issued server command: /rg select __global__
+[14:19:10] [Server thread/INFO]: nandopatel issued server command: /rg select __global__
+[14:19:41] [Server thread/INFO]: nandopatel issued server command: /up 1
+[14:20:08] [Server thread/INFO]: nandopatel issued server command: //expand vert
+[14:20:20] [Server thread/INFO]: nandopatel issued server command: /rg define creative-spawn nandopatel
+[14:20:35] [Server thread/INFO]: nandopatel issued server command: /rg info
+[14:20:37] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[14:20:48] [Server thread/INFO]: nandopatel issued server command: /rg flags -w world creative-spawn
+[14:21:07] [Server thread/INFO]: nandopatel issued server command: /rg flag -w world -h 1 creative-spawn block-break DENY
+[14:21:07] [Server thread/INFO]: nandopatel issued server command: /rg flag -w world -h 1 creative-spawn block-place DENY
+[14:21:07] [Timer-2/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[14:21:42] [Server thread/INFO]: nandopatel issued server command: //set air
+[14:21:45] [Server thread/INFO]: nandopatel issued server command: //undo
+[14:22:07] [Server thread/INFO]: nandopatel issued server command: //set air
+[14:22:11] [Server thread/INFO]: nandopatel issued server command: //set air
+[14:23:30] [Server thread/INFO]: nandopatel issued server command: /warps
+[14:23:52] [Server thread/INFO]: nandopatel issued server command: /warps
+[14:23:54] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:23:57] [Server thread/INFO]: nandopatel issued server command: /setwarp spawn
+[14:23:57] [pool-56-thread-1/INFO]: Creating empty config: /home/smtpserver/Minecraft/mcv/plugins/Essentials/warps/spawn.yml
+[14:24:01] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:24:04] [Server thread/INFO]: nandopatel issued server command: /warps
+[14:24:47] [Server thread/INFO]: nandopatel issued server command: /pwi
+[14:24:50] [Server thread/INFO]: nandopatel issued server command: /pwi group
+[14:24:51] [Server thread/INFO]: nandopatel issued server command: /pwi groups
+[14:24:55] [Server thread/INFO]: nandopatel issued server command: /pwi groups list
+[14:25:03] [Server thread/INFO]: nandopatel issued server command: /pwi group list
+[14:25:10] [Server thread/INFO]: nandopatel issued server command: /pwi group
+[14:25:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:26:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:26:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 7 Entities![m
+[14:26:49] [Server thread/INFO]: nandopatel issued server command: /pwi group list
+[14:27:09] [Server thread/INFO]: nandopatel issued server command: /pwi group delete default
+[14:27:12] [Server thread/INFO]: nandopatel issued server command: /pwi group delete survival
+[14:27:16] [Server thread/INFO]: nandopatel issued server command: /pwi group delete lobby-world
+[14:27:17] [Server thread/INFO]: nandopatel issued server command: /ls
+[14:27:43] [Server thread/INFO]: nandopatel issued server command: /mv list
+[14:28:45] [Server thread/INFO]: nandopatel issued server command: /pwi group create lobby-inv survival Lobby-World
+[14:28:54] [Server thread/INFO]: nandopatel issued server command: /pwi group list
+[14:29:20] [Server thread/INFO]: nandopatel issued server command: /pwi group create factions-inv survival survival
+[14:29:22] [Server thread/INFO]: nandopatel issued server command: /pwi group list
+[14:29:49] [Server thread/INFO]: nandopatel issued server command: /pwi group create factions-inv survival survival_nether survival_the_end
+[14:30:00] [Server thread/INFO]: nandopatel issued server command: /pwi group addworld factions-inv survival survival_nether survival_the_end
+[14:30:13] [Server thread/INFO]: nandopatel issued server command: /pwi group addworld factions-inv survival_nether survival_the_end
+[14:30:16] [Server thread/INFO]: nandopatel issued server command: /pwi group list
+[14:30:28] [Server thread/INFO]: nandopatel issued server command: /pwi group delete factions-inv
+[14:30:54] [Server thread/INFO]: nandopatel issued server command: /pwi group create factions-inv survival survival survival_nether survival_the_end
+[14:31:16] [Server thread/INFO]: nandopatel issued server command: /back
+[14:31:22] [Server thread/INFO]: nandopatel issued server command: /pwi group list
+[14:31:34] [Server thread/INFO]: nandopatel issued server command: /mv list
+[14:32:21] [Server thread/INFO]: nandopatel issued server command: /pwi group create creative-inv creative world world_the_end world_nether
+[14:32:28] [Server thread/INFO]: CONSOLE issued server command: /kill nandopatel
+[14:32:28] [Server thread/INFO]: nandopatel died
+[14:32:28] [Server thread/INFO]: [0;33;22mKilled[0;31;1m [0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]nandopatel[m[0;33;22m.[m
+[14:32:37] [Server thread/INFO]: [0;37;1mUser groups set![m
+[14:32:40] [Server thread/INFO]: CONSOLE issued server command: /kill nandopatel
+[14:32:40] [Server thread/INFO]: [0;33;22mKilled[0;31;1m [0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]nandopatel[m[0;33;22m.[m
+[14:32:48] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:33:00] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:33:19] [Server thread/INFO]: nandopatel issued server command: /homes
+[14:33:23] [Server thread/INFO]: nandopatel issued server command: /home azubase
+[14:33:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:33:30] [Server thread/INFO]: nandopatel issued server command: /gms
+[14:33:30] [Server thread/INFO]: §cnandopatel §4was denied access to command.
+[14:33:36] [Server thread/INFO]: CONSOLE issued server command: /gms nandopatel
+[14:33:36] [Server thread/INFO]: [0;33;22mSet game mode[0;31;1m survival [0;33;22mfor [0;31;1m[0;33;22m[21m[[m[0;33;1mMember[0;33;22m[21m][mnandopatel[m[0;33;22m.[m
+[14:33:56] [Server thread/INFO]: nandopatel issued server command: /warp factions
+[14:34:05] [Server thread/INFO]: nandopatel issued server command: /pwi
+[14:34:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:34:25] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 4 Entities![m
+[14:35:29] [Server thread/INFO]: nandopatel issued server command: /pwi ?
+[14:35:31] [Server thread/INFO]: nandopatel issued server command: /pwi help
+[14:35:46] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:36:04] [Server thread/INFO]: nandopatel issued server command: /pwi reload
+[14:39:26] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:39:36] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:39:39] [Async Chat Thread - #3/INFO]: ***Marx[0;37;1m [[0;37;1msurvival[0;37;1m][m<[0;33;22m[21m[[m[0;33;1mMember[0;33;22m[21m][mnandopatel[m> t[m
+[14:39:44] [Server thread/INFO]: nandopatel issued server command: /kill nandoptel
+[14:39:44] [Server thread/INFO]: §cnandopatel §4was denied access to command.
+[14:39:57] [Server thread/INFO]: nandopatel was shot by Skeleton
+[14:40:06] [Server thread/INFO]: nandopatel issued server command: /spawn
+[14:41:05] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:41:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:41:48] [Server thread/INFO]: nandopatel issued server command: /tp Synchro
+[14:41:48] [Server thread/INFO]: §cnandopatel §4was denied access to command.
+[14:42:05] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 7 Entities![m
+[14:42:05] [Server thread/INFO]: Synchro99 issued server command: /home
+[14:42:11] [Server thread/INFO]: [0;37;1mUser groups set![m
+[14:42:50] [Server thread/INFO]: nandopatel issued server command: /deop InfectionZoey
+[14:42:50] [Server thread/INFO]: [nandopatel: Made InfectionZoey no longer a server operator]
+[14:43:01] [Async Chat Thread - #4/INFO]: ***Marx[0;37;1m [[0;37;1mLobby-World[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]nandopatel[m> t[m
+[14:43:13] [Server thread/INFO]: nandopatel issued server command: /mv
+[14:43:18] [Server thread/INFO]: nandopatel issued server command: /mv rename
+[14:43:36] [Async Chat Thread - #4/INFO]: ***Marx[0;37;1m [[0;37;1mLobby-World[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]nandopatel[m> p[m
+[14:43:51] [Server thread/INFO]: nandopatel issued server command: /tp Synchro99
+[14:43:56] [Server thread/INFO]: nandopatel issued server command: /gms
+[14:43:59] [Server thread/INFO]: nandopatel issued server command: /gmc
+[14:44:22] [User Authenticator #6/INFO]: UUID of player Alfronswig is 5af85cf9-bae4-40a9-afd5-fee1a478157a
+[14:44:22] [Server thread/INFO]: Alfronswig[/62.64.215.170:50643] logged in with entity id 22872 at ([world]-475.69999998807907, 58.0, -270.643656378893)
+[14:44:22] [Server thread/WARN]: [Essentials] Task #316 for Essentials v2.17.0.0 generated an exception
+java.lang.NullPointerException: null
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
+	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftTask.run(CraftTask.java:81) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at org.bukkit.craftbukkit.v1_14_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:394) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.b(MinecraftServer.java:1011) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.DedicatedServer.b(DedicatedServer.java:396) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:959) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:804) [spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+[14:44:28] [Server thread/INFO]: Alfronswig issued server command: /day
+[14:44:32] [Async Chat Thread - #4/INFO]: **Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]Alfronswig[m> what's up niggas[m
+[14:44:36] [Async Chat Thread - #4/INFO]: ***Marx[0;37;1m [[0;37;1msurvival[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]nandopatel[m> banned[m
+[14:44:40] [Server thread/INFO]: nandopatel issued server command: /demote Alfronswig
+[14:44:40] [Server thread/ERROR]: [PermissionsEx] Ranking Error (nandopatel demotes 5af85cf9-bae4-40a9-afd5-fee1a478157a/Alfronswig): Promoter don't have high enough rank to change 5af85cf9-bae4-40a9-afd5-fee1a478157a/Alfronswig's rank
+[14:44:42] [Async Chat Thread - #4/INFO]: **Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]Alfronswig[m> WOAH[m
+[14:44:58] [Server thread/INFO]: User 5af85cf9-bae4-40a9-afd5-fee1a478157a/Alfronswig demoted to Admin group[m
+[14:44:58] [Server thread/INFO]: [PermissionsEx] User 5af85cf9-bae4-40a9-afd5-fee1a478157a/Alfronswig has been demoted to Admin group on default ladder by console
+[14:45:03] [Async Chat Thread - #4/INFO]: ***Marx[0;37;1m [[0;37;1msurvival[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]nandopatel[m> rekt[m
+[14:45:39] [Server thread/INFO]: nandopatel issued server command: /invsee Alfronswig
+[14:45:49] [Server thread/INFO]: nandopatel issued server command: /tp Synchro99
+[14:46:08] [Server thread/INFO]: nandopatel issued server command: /tp Alfronswig
+[14:46:38] [Async Chat Thread - #5/INFO]: ***Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]nandopatel[m> disc[m
+[14:46:40] [Async Chat Thread - #5/INFO]: ***Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]nandopatel[m> bitch[m
+[14:46:44] [Async Chat Thread - #5/INFO]: **Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;31;1m[21m[[m[0;31;22mAdmin[0;31;1m[21m][mAlfronswig[m> k[m
+[14:47:04] [Server thread/INFO]: nandopatel issued server command: /nick nandopatel &3ipay4this
+[14:47:05] [Async Chat Thread - #5/INFO]: ***Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]~[0;36;22mipay4this[m> t[m
+[14:47:20] [Server thread/INFO]: Alfronswig issued server command: /tp Synchro99
+[14:47:28] [Server thread/INFO]: nandopatel issued server command: /nick Alfronswig &ciamgay
+[14:47:30] [Async Chat Thread - #5/INFO]: ***Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]~[0;36;22mipay4this[m> hah[m
+[14:47:48] [Async Chat Thread - #5/INFO]: **Marx[0;37;1m [[0;37;1msurvival[0;37;1m][m<[0;31;1m[21m[[m[0;31;22mAdmin[0;31;1m[21m][m~[0;31;1miamgay[m> vfgf[m
+[14:47:49] [Async Chat Thread - #5/INFO]: +Marx[0;37;1m [[0;37;1msurvival[0;37;1m][m<[0;31;1m[21m[[m[0;31;22mAdmin[0;31;1m[21m][m~╝[m> e[m
+[14:47:55] [Server thread/INFO]: Synchro99 issued server command: /nick nigger
+[14:47:57] [Async Chat Thread - #5/INFO]: +Marx[0;37;1m [[0;37;1msurvival[0;37;1m][m<[0;31;1m[21m[[m[0;31;22mAdmin[0;31;1m[21m][m~nigger[m> bruh[m
+[14:48:05] [Server thread/INFO]: Synchro99 issued server command: /nick rawr XD
+[14:48:07] [Server thread/INFO]: Synchro99 issued server command: /nick rawrXD
+[14:48:10] [Async Chat Thread - #5/INFO]: +Marx[0;37;1m [[0;37;1msurvival[0;37;1m][m<[0;31;1m[21m[[m[0;31;22mAdmin[0;31;1m[21m][m~rawrXD[m> bruh[m
+[14:48:26] [Async Chat Thread - #5/INFO]: ***Marx[0;37;1m [[0;37;1mworld[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]~[0;36;22mipay4this[m> clear[m
+[14:48:29] [Server thread/INFO]: User 5af85cf9-bae4-40a9-afd5-fee1a478157a/Alfronswig promoted to Owner group[m
+[14:48:29] [Server thread/INFO]: [PermissionsEx] User 5af85cf9-bae4-40a9-afd5-fee1a478157a/Alfronswig has been promoted to Owner group on default ladder by console
+[14:48:42] [Server thread/INFO]: Alfronswig issued server command: /nick Alfronswig
+[14:48:45] [Async Chat Thread - #5/INFO]: **Marx[0;37;1m [[0;37;1msurvival[0;37;1m][m<[0;33;22m[21m[[m[0;35;22m[4mOwner[0;33;22m[21m]Alfronswig[m> oof[m
+[14:48:45] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
+[14:49:10] [Server thread/INFO]: Alfronswig issued server command: /gmsp
+[14:49:25] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
+[14:49:40] [Server thread/INFO]: Alfronswig issued server command: /gmc
+[14:49:45] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 21 Entities![m
+[14:49:48] [Server thread/INFO]: Alfronswig issued server command: /warp creative
+[14:51:10] [Server thread/INFO]: Synchro99 issued server command: /nick God
+[14:53:11] [Server thread/INFO]: Alfronswig issued server command: /day

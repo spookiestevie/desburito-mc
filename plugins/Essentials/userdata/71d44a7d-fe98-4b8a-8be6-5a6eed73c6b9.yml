@@ -1,0 +1,22 @@
+lastAccountName: mijanto
+timestamps:
+  login: 1563038055865
+  lastteleport: 1562938453559
+  logout: 1563038079028
+ipAddress: 78.98.236.142
+geolocation: Slovakia
+lastlocation:
+  world: survival
+  x: -121.37028891121693
+  y: 61.0
+  z: -238.5848844823703
+  yaw: 269.46594
+  pitch: -30.144066
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -200.87462986161572
+  y: 56.0
+  z: -263.1402547071247
+  yaw: -71.07208
+  pitch: 18.000156

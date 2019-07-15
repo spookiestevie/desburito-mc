@@ -1,0 +1,22 @@
+geolocation: United Kingdom
+money: '0.0'
+lastAccountName: callumsteele
+timestamps:
+  login: 1563026314313
+  lastteleport: 1563026379194
+  logout: 1563028030937
+ipAddress: 109.158.190.123
+lastlocation:
+  world: world
+  x: -532.9075177093983
+  y: 97.40819109845575
+  z: -266.3251946304189
+  yaw: 195.98135
+  pitch: 23.55012
+logoutlocation:
+  world: world
+  x: -330.0457161204412
+  y: 75.0
+  z: -370.18496547541395
+  yaw: 353.75342
+  pitch: 7.799893

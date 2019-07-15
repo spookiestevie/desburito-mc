@@ -1,0 +1,41 @@
+lastAccountName: nandopatel
+timestamps:
+  login: 1563198986396
+  logout: 1563198226274
+  lastteleport: 1563201968089
+  kits:
+    tools: 1562963977220
+ipAddress: 82.27.225.132
+lastlocation:
+  world: survival
+  x: -265.84808965106646
+  y: 31.0
+  z: 32.36637933508145
+  yaw: -89.083435
+  pitch: 4.4347
+logoutlocation:
+  world: Lobby-World
+  x: -48.136425219978044
+  y: 101.0
+  z: -47.32815069362264
+  yaw: -48.472008
+  pitch: 36.80591
+money: '0.0'
+afk: false
+geolocation: United Kingdom
+homes:
+  home:
+    world: world
+    x: 14661.01242476626
+    y: 78.0
+    z: 13431.545834071372
+    yaw: 94.28329
+    pitch: 12.538483
+  azubase:
+    world: world
+    x: 16535.5
+    y: 27.0
+    z: 13912.5
+    yaw: -270.362
+    pitch: -4.1535425
+nickname: §3ipay4this

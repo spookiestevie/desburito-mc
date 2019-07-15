@@ -1,0 +1,21 @@
+lastAccountName: atactfulcow
+timestamps:
+  login: 1562643525980
+  logout: 1562643738111
+ipAddress: 24.16.103.225
+geolocation: United States
+lastlocation:
+  world: world
+  x: -502.5
+  y: 83.0
+  z: -215.5
+  yaw: 89.73289
+  pitch: 0.32322073
+money: '0.0'
+logoutlocation:
+  world: survival
+  x: -129.33203478066957
+  y: 67.0
+  z: -211.40645882743374
+  yaw: -300.35913
+  pitch: 8.034517

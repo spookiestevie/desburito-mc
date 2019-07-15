@@ -1,0 +1,22 @@
+lastAccountName: BankpLAT
+timestamps:
+  login: 1562520623074
+  lastteleport: 1562520804289
+  logout: 1562521166833
+ipAddress: 151.252.146.82
+geolocation: Sweden
+lastlocation:
+  world: survival
+  x: -336.30000001192093
+  y: 46.0
+  z: -177.30000001192093
+  yaw: 45.97696
+  pitch: -1.5846224
+money: '0.0'
+logoutlocation:
+  world: survival
+  x: -150.48053761080834
+  y: 64.0
+  z: -227.49448525194913
+  yaw: 0.96563536
+  pitch: 0.45594954

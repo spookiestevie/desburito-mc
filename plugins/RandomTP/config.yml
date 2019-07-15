@@ -1,0 +1,44 @@
+MinTeleportFromOrigin: false
+DisabledWorlds:
+  enabled: false
+  worlds:
+  - worldName1
+  - worldName2
+  - worldNameN
+SignFormat:
+- '&7[&cRandom&fTP&7]'
+- '&2Blocks: {DISTANCE}'
+- '&cCost: {COST}'
+- '&a(Click here)'
+Inventory:
+  Rows: 3
+  MenuName: '&7Select &6RandomTP &7Distance'
+  Items:
+    '0':
+      material: gold_block
+      slot: 12
+      name: '&8[&a+&8] &aRandomTP User &8[&a+&8]'
+      cost: 0
+      distance: 2500
+      world: world
+      cooldown: 60
+      permission: randomtp.use.user
+      lore:
+      - '&b- &6Teleport distance: {DISTANCE} blocks'
+      - '&b- &6Cost: ${COST}'
+      - '&b- &6Cooldown of 60 seconds'
+      - '&b- &aClick here to use!'
+    '1':
+      material: diamond_block
+      slot: 14
+      name: '&8[&a+&8] &6RandomTP &e&lVIP &8[&a+&8]'
+      cost: 25
+      distance: 15000
+      world: world
+      cooldown: 300
+      permission: randomtp.use.vip
+      lore:
+      - '&b- &6Teleport distance: {DISTANCE} blocks'
+      - '&b- &6Cost: ${COST}'
+      - '&b- &6Cooldown of 5 minutes'
+      - '&b- &aClick here to use!'

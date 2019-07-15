@@ -1,0 +1,43 @@
+Auction-RefreshRate-inSeconds: 0.5
+NPCSkin_Username: 'null'
+UseVillager: true
+Items:
+  NoItemSlot:
+    Material: GRAY_STAINED_GLASS_PANE
+    data: 0
+  NextPageIcon:
+    Material: GREEN_WOOL
+    data: 0
+  PrevPageIcon:
+    Material: RED_WOOL
+    data: 0
+  AddAuctionIcon:
+    Material: GREEN_WOOL
+    data: 0
+  CancelAuctionIcon:
+    Material: RED_WOOL
+    data: 0
+  CollectAuctionIcon:
+    Material: GOLD_BLOCK
+    data: 0
+SendMessagesWhenSomeoneBid: true
+BlackListedWorlds: []
+autoUpdate: true
+EnableViewLastBidder: false
+Blacklist:
+- BEDROCK
+NPCS:
+  35559742-003c-42d9-84c0-9cdda812a3d1:
+    ==: org.bukkit.Location
+    world: survival
+    x: -138.39918587874925
+    y: 64.1
+    z: -239.32254790061592
+    pitch: 1.1657448
+    yaw: -315.2386
+Auctions:
+  5af85cf9-bae4-40a9-afd5-fee1a478157a: {}
+  4cd1c40c-ec0d-4883-aa97-0ab4ad295706: {}
+  e50c9176-9c51-45af-9441-69aa881da8ab: {}
+4cd1c40c-ec0d-4883-aa97-0ab4ad295706: {}
+e50c9176-9c51-45af-9441-69aa881da8ab: {}

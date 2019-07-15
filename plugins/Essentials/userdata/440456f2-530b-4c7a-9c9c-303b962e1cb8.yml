@@ -1,0 +1,21 @@
+geolocation: Sweden
+lastAccountName: FixingStyle
+timestamps:
+  login: 1562520636025
+  logout: 1562521232075
+ipAddress: 78.72.43.160
+lastlocation:
+  world: survival
+  x: -339.9407542016318
+  y: 46.0
+  z: -176.37978353299675
+  yaw: 87.950356
+  pitch: 82.88149
+money: '0.0'
+logoutlocation:
+  world: survival
+  x: -423.60565741698883
+  y: 66.0
+  z: -228.10131282078652
+  yaw: 17.95874
+  pitch: 15.564268

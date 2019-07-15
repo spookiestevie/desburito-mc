@@ -1,0 +1,35 @@
+{
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2019-04-14 17:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2019-04-14 17:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2019-04-14 17:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2019-04-14 17:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:savanna_plateau": "2019-04-14 17:32:54 +0000",
+      "minecraft:beach": "2019-04-14 20:48:29 +0000",
+      "minecraft:savanna": "2019-04-14 19:19:14 +0000",
+      "minecraft:plains": "2019-04-14 17:27:39 +0000"
+    },
+    "done": false
+  }
+}

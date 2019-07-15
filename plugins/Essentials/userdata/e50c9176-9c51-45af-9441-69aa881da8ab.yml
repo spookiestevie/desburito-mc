@@ -1,0 +1,22 @@
+lastAccountName: Luc1f3rr
+timestamps:
+  login: 1562768286489
+  logout: 1562768912270
+  lastteleport: 1562768476256
+ipAddress: 37.120.143.116
+geolocation: Belgium
+logoutlocation:
+  world: survival
+  x: -153.58096654889994
+  y: 65.0
+  z: -359.00280835109095
+  yaw: 324.9035
+  pitch: 7.0499783
+lastlocation:
+  world: survival
+  x: -174.30000001192093
+  y: 8.0
+  z: -198.0021832720223
+  yaw: 99.37793
+  pitch: 5.23604
+money: '200000'

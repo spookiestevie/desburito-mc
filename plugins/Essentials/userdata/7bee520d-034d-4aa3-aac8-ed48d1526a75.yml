@@ -1,0 +1,44 @@
+lastAccountName: eggslampa
+timestamps:
+  login: 1563030559827
+  lastteleport: 1562979779843
+  logout: 1563030564470
+ipAddress: 86.136.94.250
+geolocation: United Kingdom
+lastlocation:
+  world: world
+  x: 16526.40141132227
+  y: 60.0
+  z: 13888.927924273246
+  yaw: 114.04236
+  pitch: 17.478827
+money: '0.0'
+homes:
+  diamonds:
+    world: world
+    x: 16593.49109430265
+    y: 8.0
+    z: 13911.86326178028
+    yaw: 88.26752
+    pitch: 7.490476
+  surface:
+    world: world
+    x: 16558.885701738785
+    y: 64.0
+    z: 13880.133250707742
+    yaw: 178.66565
+    pitch: -73.62329
+  spawner:
+    world: world
+    x: 16555.4900696898
+    y: 37.0
+    z: 13907.300000011921
+    yaw: 2.564331
+    pitch: 89.54117
+logoutlocation:
+  world: world
+  x: 16552.174042159404
+  y: 31.0
+  z: 13909.699999988079
+  yaw: -267.88657
+  pitch: 26.922222

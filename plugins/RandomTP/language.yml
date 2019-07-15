@@ -1,0 +1,14 @@
+NO_PERMISSION: '&cYou do not have permission to perform this action'
+INSUFFICIENT_MONEY: '&cYou do not have enough money to buy this teleport, it costs
+  ${COST} and you have only {PLAYERMONEY}'
+DISABLED_IN_THIS_WORLD: '&cYou can''t use the random teleportation in this world'
+COOLDOWN_TIMESTAMP:
+  DAYS: Day/s
+  HOURS: Hour/s
+  MINUTES: Minute/s
+  SECONDS: Second/s
+ECONOMY_NOT_FOUND: '&cWe were not able to find a economy plugin to process the teleport
+  shop transaction'
+TRANSACTION_SUCCESS: '&aYou have afforded {COST} to buy this teleport'
+STILL_IN_COOLDOWN: '&bYou are still in cooldown for {COOLDOWNLEFT}'
+YOU_ARE_BEING_TELEPORTED: '&aYou are being teleported!'

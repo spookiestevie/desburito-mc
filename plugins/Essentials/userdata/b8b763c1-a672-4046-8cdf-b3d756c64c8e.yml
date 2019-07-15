@@ -1,0 +1,21 @@
+geolocation: United Kingdom
+lastAccountName: dr_aircondition
+timestamps:
+  login: 1562663075933
+  logout: 1562671021875
+ipAddress: 217.43.90.48
+lastlocation:
+  world: survival
+  x: -696.4069617642615
+  y: 62.40437599579859
+  z: 1658.512842603238
+  yaw: -244.6914
+  pitch: 11.627338
+money: '0.0'
+logoutlocation:
+  world: survival
+  x: -824.1007482184538
+  y: 75.0
+  z: 1741.2458289660178
+  yaw: -76.393555
+  pitch: 30.541895

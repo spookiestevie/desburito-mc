@@ -1,0 +1,327 @@
+groups:
+  default:
+    options:
+      default: true
+      rank: '1000'
+    permissions:
+    - essentials.sell
+    - modifyworld.*
+  Admin:
+    permissions:
+    - Synchro99
+    - essentials.*
+    - modifyworld.*
+    - permissions.*
+    options:
+      prefix: '&c&l[&r&4Admin&c&l]&r'
+      rank: '300'
+    inheritance:
+    - Mod
+  Member:
+    options:
+      prefix: '&6&l[&r&eMember&6&l]&r'
+      default: 'true'
+      rank: '900'
+    permissions:
+    - multiverse.portal.access.*
+    - multiverse.access.survival
+    - multiverse.access.world
+    - multiverse.portal.access.factions-portal
+    - randomtp.sign.*
+    - guishop.use
+    - essentials.sethome.multiple
+    - factions.chest
+    - rtp.tp
+    - essentials.sell.hand
+    - essentials.sell
+    - factions.money.kit.standard
+    - factions.kit.fullplayer
+    - multiverse.access.*
+    - essentials.spawn
+    - essentials.signs.use.warp
+    - essentials.signs.use.trade
+    - essentials.signs.use.sell
+    - essentials.signs.use.repair
+    - essentials.signs.use.info
+    - essentials.signs.use.kit
+    - essentials.signs.use.heal
+    - essentials.signs.use.free
+    - essentials.signs.use.enchant
+    - essentials.signs.use.disposal
+    - essentials.signs.use.buy
+    - essentials.worlds
+    - essentials.warp.list
+    - essentials.warp
+    - essentials.tpdeny
+    - essentials.tpahere
+    - essentials.tpaccept
+    - essentials.tpa
+    - essentials.sethome.bed
+    - essentials.sethome
+    - essentials.home.bed
+    - essentials.home
+    - essentials.delhome
+    - essentials.back.ondeath
+    - essentials.back
+    - essentials.suicide
+    - essentials.realname
+    - essentials.msg.magic
+    - essentials.msg.url
+    - essentials.msg.format
+    - essentials.msg.color
+    - essentials.msg
+    - essentials.me
+    - essentials.mail.send
+    - essentials.mail
+    - essentials.list
+    - essentials.info
+    - essentials.ignore
+    - essentials.helpop
+    - essentials.help
+    - essentials.customtext
+    - essentials.depth
+    - essentials.getpos
+    - essentials.afk
+    - essentials.worth
+    - essentials.pay
+    - essentials.balancetop
+    - essentials.balance.others
+    - essentials.balance
+    - modifyworld.*
+    inheritance:
+    - VIP
+    worlds:
+      world:
+        permissions:
+        - -essentials.sell
+  VIP:
+    options:
+      prefix: '&a[VIP]&r'
+      rank: '800'
+    permissions:
+    - factions.fly
+    - essentials.enderchest
+    - essentials.invsee
+    - essentials.list.hidden
+    - essentials.nick.magic
+    - essentials.nick.format
+    - essentials.nick.color
+    - essentials.nick
+    - modifyworld.*
+    inheritance:
+    - Member
+  Mod:
+    options:
+      prefix: '&2&l[&r&aMod&r&2&l]&r'
+      rank: '500'
+    permissions:
+    - multiverse.access.survival
+    - multiverse.access.world
+    - factions.*
+    - factions.admin
+    - essentials.setwarp
+    - essentials.signs.create.warp
+    - essentials.signs.break.warp
+    - essentials.signs.create.buy
+    - essentials.signs.create.sell
+    - essentials.signs.break.sell
+    - essentials.signs.break.buy
+    - essentials.signs.break.balance
+    - essentials.time.set
+    - essentials.time
+    - essentials.gamemode.survival
+    - essentials.gamemode.creative
+    - worldedit.*
+    - essentials.gamemode.others
+    - essentials.gamemode
+    - essentials.spawner
+    - essentials.seen
+    - essentials.setworth
+    - essentials.pay.multiple
+    - essentials.eco.loan
+    - essentials.eco
+    - essentials.speed.fly
+    - essentials.speed
+    - essentials.repair
+    - essentials.kits.*
+    - essentials.fireworks.fire
+    - essentials.feed.others
+    - essentials.feed
+    - essentials.give
+    - essentials.fly
+    - essentials.firework
+    - essentials.exp.others
+    - essentials.exp.set
+    - essentials.echant
+    - essentials.break
+    - essentials.bigtree
+    - essentials.exp.give
+    - essentials.heal
+    - essentials.hat
+    - essentials.enchant
+    - essentials.kit.others
+    - essentials.kits
+    - essentials.kit
+    - essentials.tree
+    - essentials.tp
+    - essentials.warps.*
+    - essentials.warp.otherplayers
+    - essentials.delwarp
+    - essentials.keepxp
+    - essentials.jump
+    - essentials.delhome.others
+    - essentials.spawn.others
+    - essentials.spawn
+    - essentials.setspawn
+    - essentials.vanish.see
+    - essentials.weather
+    - essentials.vanish.interact
+    - essentials.vanish.others
+    - essentials.vanish
+    - essentials.unbanip
+    - essentials.unban
+    - essentials.tempban.offline
+    - essentials.tempban
+    - essentials.tempbann
+    - essentials.spawnmob
+    - essentials.remove
+    - essentials.ping
+    - essentials.mute.notify
+    - essentials.mute
+    - essentials.lightning.others
+    - essentials.lightning
+    - essentials.kill.force
+    - essentials.kill
+    - essentials.kick.notify
+    - essentials.kick
+    - essentials.jails
+    - essentials.invsee.modify
+    - essentials.gc
+    - essentials.ext
+    - essentials.fireball
+    - essentials.enderchest.others
+    - essentials.enderchest.modify
+    - essentials.deljail
+    - essentials.clearinventory.others
+    - essentials.clearinventory
+    - essentials.burn
+    - essentials.broadcast
+    - essentials.banip
+    - essentials.ban.notify
+    - essentials.ban.offline
+    - essentials.ban.exempt
+    - essentials.ban
+    - essentials.backup
+    - essentials.antioch
+    - essentials.geoip.show
+    - modifyworld.*
+    inheritance:
+    - VIP
+  Owner:
+    options:
+      rank: '1'
+      prefix: '&6&l[&r&5&nOwner&6&l]'
+    permissions:
+    - InfectionZoey
+    - '*'
+    inheritance:
+    - Admin
+schema-version: 1
+users:
+  47b8f927-8582-4305-be07-6dd5cea2cd7c:
+    options:
+      name: HenryXBOX360
+    group:
+    - Admin
+  4cd1c40c-ec0d-4883-aa97-0ab4ad295706:
+    options:
+      name: nandopatel
+      group: Owner
+    group:
+    - Owner
+  5af85cf9-bae4-40a9-afd5-fee1a478157a:
+    options:
+      name: Alfronswig
+    group:
+    - Owner
+  1c223283-883a-4435-8b13-04e0a781e2f2:
+    group:
+    - default
+    - Mod
+    options:
+      name: slomoguido
+  3b31dd5d-be6d-43cf-9edf-5abbe1cbe802:
+    options:
+      name: PirateStoney02
+    group:
+    - VIP
+  76816463-674c-44bf-bf35-f84aa6ab78e5:
+    group:
+    - default
+    - Mod
+    options:
+      name: Zedphox
+  0b1b797c-03cb-431a-99a4-60f228f5016d:
+    group:
+    - default
+    - Member
+    options:
+      name: Otto8th
+  e253d612-8c65-4108-8944-ba82affe49e7:
+    worlds:
+      mod:
+        group:
+        - Mod
+    options:
+      name: Beria_696969
+    group:
+    - default
+    - Mod
+  dbe60449-86c7-434f-b458-003a2dfaad93:
+    group:
+    - default
+    - Mod
+    options:
+      name: callumsteele
+  584ef736-916c-4434-ab3e-e2cc146072f4:
+    group:
+    - default
+    - Mod
+    options:
+      name: BoyBoyWC
+  6e39ab98-ce1d-4279-a43d-4026581e714a:
+    group:
+    - default
+    - VIP
+    options:
+      name: Emithises
+  15482061-f713-49dd-98e7-58043b973460:
+    group:
+    - default
+    - Mod
+    options:
+      name: Custom_Url
+  e50c9176-9c51-45af-9441-69aa881da8ab:
+    group:
+    - default
+    - VIP
+    options:
+      name: Luc1f3rr
+  f76b23d6-50a5-4717-a5ab-1bd527243101:
+    group:
+    - default
+    - VIP
+    options:
+      name: _CrazyPandaBoy_
+  7f82e807-54f8-4c03-8f50-5f4243e53b36:
+    group:
+    - default
+    - Owner
+    options:
+      name: InfectionZoey
+  7ecc276e-f8a5-47c8-9b5d-3fb1d3ee9966:
+    group:
+    - default
+    - Admin
+    options:
+      name: Synchro99

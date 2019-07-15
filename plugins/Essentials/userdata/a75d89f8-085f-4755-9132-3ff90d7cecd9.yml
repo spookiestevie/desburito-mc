@@ -1,0 +1,21 @@
+lastAccountName: NKKK13
+timestamps:
+  login: 1563001412392
+  logout: 1563001414033
+ipAddress: 173.249.30.10
+geolocation: Germany
+lastlocation:
+  world: world
+  x: -502.5
+  y: 83.0
+  z: -215.5
+  yaw: 89.73289
+  pitch: 0.32322073
+money: '0.0'
+logoutlocation:
+  world: survival
+  x: -150.5
+  y: 64.0
+  z: -227.5
+  yaw: 0.96563536
+  pitch: 0.45594954
