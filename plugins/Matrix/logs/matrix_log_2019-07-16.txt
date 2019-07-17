@@ -1,0 +1,209 @@
+(18:03:48) Matrix Enabled!
+(18:03:48) Version: 2.0.5
+(18:09:05) Synchro99 failed Block check | (fast break) nuker protection | blockT: QUARTZ_BLOCK (+1) | vl:1 ping:149 tps:20.0 component: block.fastbreak
+(18:12:41) Synchro99 failed Block check | place block faster than expect: IRON_TRAPDOOR / 0 (+0) | vl:0 ping:237 tps:20.0 component: block.fastplace
+(18:14:12) Synchro99 failed BadPackets check | send 28 moving packets per second (1.037) [27] (+0) | vl:0 ping:152 tps:20.0 component: packet.timer.main
+(18:20:03) Synchro99 failed Phase check | phase into block | block: END_PORTAL_FRAME | box: 1.0,1.0,1.0 | block: AIR (+1) | vl:1 ping:149 tps:20.0 component: phase.main
+(18:20:04) Synchro99 failed Phase check | phase into block | block: END_PORTAL_FRAME | box: 1.0,1.0,1.0 | block: AIR (+1) | vl:2 ping:149 tps:20.0 component: phase.main
+(18:20:04) Synchro99 failed Phase check | phase into block | block: END_PORTAL_FRAME | box: 1.0,1.0,1.0 | block: AIR (+1) | vl:3 ping:149 tps:20.0 component: phase.main
+(18:20:04) Synchro99 failed Phase check | phase into block | block: END_PORTAL_FRAME | box: 1.0,1.0,1.0 | block: AIR (+1) | vl:4 ping:149 tps:20.0 component: phase.main
+(18:20:04) Synchro99 failed Phase check | phase into block | block: END_PORTAL_FRAME | box: 1.0,1.0,1.0 | block: AIR (+1) | vl:5 ping:149 tps:20.0 component: phase.main
+(18:20:04) Synchro99 failed Phase check | phase into block | block: END_PORTAL_FRAME | box: 1.0,1.0,1.0 | block: AIR (+1) | vl:6 ping:149 tps:20.0 component: phase.main
+(18:20:07) Synchro99 failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:149 tps:20.0 component: interact.through
+(18:23:37) Synchro99 failed Block check | place block faster than expect: REDSTONE_LAMP / 1 (+0) | vl:0 ping:153 tps:20.0 component: block.fastplace
+(18:23:46) Synchro99 failed Block check | place block faster than expect: REDSTONE_LAMP / 0 (+0) | vl:0 ping:153 tps:20.0 component: block.fastplace
+(18:23:53) Synchro99 failed Block check | place block faster than expect: REDSTONE_LAMP / 1 (+0) | vl:0 ping:153 tps:20.0 component: block.fastplace
+(18:24:22) Synchro99 failed Block check | place block faster than expect: REDSTONE_LAMP / 1 (+0) | vl:0 ping:151 tps:20.0 component: block.fastplace
+(18:25:31) Synchro99 failed KillAura check | non-human like combat style | confidence: 42.30769230769231 (cp) (+9) | vl:9 ping:139 tps:20.0 component: ka.style
+(18:27:45) Synchro99 failed Speed check | t: spin (+1) | vl:1 ping:141 tps:20.0 component: speed.spin
+(18:29:26) Synchro99 failed Block check | place block faster than expect: REDSTONE_BLOCK / 0 (+0) | vl:0 ping:145 tps:20.0 component: block.fastplace
+(18:29:31) Synchro99 failed Block check | place block faster than expect: REDSTONE_LAMP / 1 (+0) | vl:0 ping:141 tps:20.0 component: block.fastplace
+(18:30:01) Synchro99 failed Block check | place block faster than expect: REDSTONE_BLOCK / 1 (+0) | vl:0 ping:154 tps:20.0 component: block.fastplace
+(18:30:02) Synchro99 failed Block check | place block faster than expect: REDSTONE_LAMP / 1 (+0) | vl:0 ping:154 tps:20.0 component: block.fastplace
+(18:34:14) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 0 (+0) | vl:0 ping:174 tps:20.0 component: block.fastplace
+(18:34:14) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 0 (+0) | vl:0 ping:174 tps:20.0 component: block.fastplace
+(18:34:14) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 0 (+0) | vl:0 ping:174 tps:20.0 component: block.fastplace
+(18:34:17) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 1 (+0) | vl:0 ping:174 tps:20.0 component: block.fastplace
+(18:34:18) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 1 (+0) | vl:0 ping:174 tps:20.0 component: block.fastplace
+(18:34:39) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 0 (+0) | vl:0 ping:153 tps:20.0 component: block.fastplace
+(18:36:38) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 1 (+0) | vl:0 ping:156 tps:20.0 component: block.fastplace
+(18:44:24) Synchro99 failed Phase check | phase into block | block: END_PORTAL_FRAME | box: 1.0,1.0,1.0 | block: END_PORTAL (+1) | vl:1 ping:153 tps:20.0 component: phase.main
+(18:44:24) Synchro99 failed Fly check | ground spoof | tag: fake air packet | loc: -190.957,11.0,-402.608 (+3) | vl:3 ping:153 tps:20.0 component: fly.fg.air
+(18:50:19) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 0 (+0) | vl:0 ping:149 tps:20.0 component: block.fastplace
+(18:56:27) Synchro99 failed FastHeal check | regen health too fast | difficulty: 2 delay: 436 protocol_ver: 14 (+1) | vl:1 ping:153 tps:20.0 component: heal
+(18:56:28) Synchro99 failed FastHeal check | regen health too fast | difficulty: 2 delay: 401 protocol_ver: 14 (+1) | vl:2 ping:146 tps:20.0 component: heal
+(18:59:36) Synchro99 failed Block check | place block faster than expect: POLISHED_ANDESITE / 1 (+0) | vl:0 ping:143 tps:20.0 component: block.fastplace
+(19:00:09) Synchro99 failed Block check | place block faster than expect: POLISHED_ANDESITE / 1 (+0) | vl:0 ping:156 tps:19.73 component: block.fastplace
+(19:05:14) Synchro99 failed Block check | place block faster than expect: REDSTONE_BLOCK / 0 (+0) | vl:0 ping:218 tps:20.0 component: block.fastplace
+(19:12:00) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 1 (+0) | vl:0 ping:164 tps:20.0 component: block.fastplace
+(19:12:18) Synchro99 failed Block check | place block faster than expect: TNT / 1 (+0) | vl:0 ping:164 tps:20.0 component: block.fastplace
+(19:12:19) Synchro99 failed Block check | place block faster than expect: TNT / 0 (+0) | vl:0 ping:164 tps:20.0 component: block.fastplace
+(19:15:32) Synchro99 failed Block check | place block faster than expect: BEDROCK / 0 (+0) | vl:0 ping:152 tps:20.0 component: block.fastplace
+(19:16:25) Synchro99 failed Block check | place block faster than expect: BEDROCK / 1 (+0) | vl:0 ping:149 tps:20.0 component: block.fastplace
+(19:16:25) Synchro99 failed Block check | place block faster than expect: BEDROCK / 0 (+0) | vl:0 ping:149 tps:20.0 component: block.fastplace
+(19:16:30) Synchro99 failed Block check | place block faster than expect: BEDROCK / 1 (+0) | vl:0 ping:144 tps:20.0 component: block.fastplace
+(19:17:20) Synchro99 failed Block check | place block faster than expect: BEDROCK / 1 (+0) | vl:0 ping:142 tps:20.0 component: block.fastplace
+(19:17:49) Synchro99 failed Block check | place block faster than expect: BEDROCK / 0 (+0) | vl:0 ping:188 tps:20.0 component: block.fastplace
+(19:19:41) Synchro99 failed Block check | place block faster than expect: REDSTONE_LAMP / 0 (+0) | vl:0 ping:157 tps:20.0 component: block.fastplace
+(19:24:17) Synchro99 failed Block check | (fast break) nuker protection | blockT: STONE (+1) | vl:1 ping:155 tps:20.0 component: block.fastbreak
+(19:25:37) Synchro99 failed Block check | place block faster than expect: OBSIDIAN / 0 (+0) | vl:0 ping:144 tps:20.0 component: block.fastplace
+(19:25:48) Synchro99 failed Block check | place block faster than expect: OBSIDIAN / 1 (+0) | vl:0 ping:144 tps:20.0 component: block.fastplace
+(19:28:39) Synchro99 failed Block check | place block faster than expect: TNT / 1 (+0) | vl:0 ping:155 tps:20.0 component: block.fastplace
+(19:29:37) Synchro99 failed Block check | place block faster than expect: REDSTONE_LAMP / 1 (+0) | vl:0 ping:146 tps:20.0 component: block.fastplace
+(19:30:32) Synchro99 failed Block check | (fast break) nuker protection | blockT: BEDROCK (+1) | vl:1 ping:157 tps:20.0 component: block.fastbreak
+(19:33:06) Synchro99 failed Speed check | t: spin (+1) | vl:1 ping:153 tps:20.0 component: speed.spin
+(19:33:06) Synchro99 failed Speed check | t: spin (+1) | vl:2 ping:153 tps:20.0 component: speed.spin
+(19:33:45) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 0 (+0) | vl:0 ping:148 tps:20.0 component: block.fastplace
+(19:34:40) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 0 (+0) | vl:0 ping:139 tps:20.0 component: block.fastplace
+(19:34:40) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 0 (+0) | vl:0 ping:139 tps:20.0 component: block.fastplace
+(19:34:40) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 0 (+0) | vl:0 ping:139 tps:20.0 component: block.fastplace
+(19:34:40) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 1 (+0) | vl:0 ping:139 tps:20.0 component: block.fastplace
+(19:36:26) Synchro99 failed Block check | place block faster than expect: QUARTZ_BLOCK / 0 (+0) | vl:0 ping:147 tps:20.0 component: block.fastplace
+(19:54:40) Synchro99 failed Block check | (fast break) nuker protection | blockT: STONE (+1) | vl:1 ping:153 tps:20.0 component: block.fastbreak
+(19:59:40) Synchro99 failed Block check | place block faster than expect: TNT / 0 (+0) | vl:0 ping:147 tps:20.0 component: block.fastplace
+(19:59:40) Synchro99 failed Block check | place block faster than expect: TNT / 0 (+0) | vl:0 ping:147 tps:20.0 component: block.fastplace
+(19:59:40) Synchro99 failed Block check | place block faster than expect: TNT / 0 (+0) | vl:0 ping:147 tps:20.0 component: block.fastplace
+(19:59:40) Synchro99 failed Block check | place block faster than expect: TNT / 0 (+0) | vl:0 ping:147 tps:20.0 component: block.fastplace
+(19:59:40) Synchro99 failed Block check | place block faster than expect: TNT / 0 (+0) | vl:0 ping:147 tps:20.0 component: block.fastplace
+(20:02:11) Synchro99 failed Block check | place block faster than expect: VINE / 1 (+0) | vl:0 ping:151 tps:20.0 component: block.fastplace
+(20:02:16) Synchro99 failed Speed check | fast climb | 0.144 > 0.118 / 16 (+4) | vl:4 ping:151 tps:20.0 component: speed.ladder
+(20:02:16) Synchro99 failed Speed check | fast climb | 0.15 > 0.118 / 17 (+4) | vl:8 ping:151 tps:20.0 component: speed.ladder
+(20:02:17) Synchro99 failed Speed check | fast climb | 0.15 > 0.118 / 18 (+4) | vl:12 ping:151 tps:20.0 component: speed.ladder
+(20:04:15) Synchro99 failed BadPackets check | send 29 moving packets per second (1.074) [27] (+0) | vl:0 ping:152 tps:19.79 component: packet.timer.main
+(20:05:11) Synchro99 failed BadPackets check | send 55 moving packets per second (1.17) [47] (+0) | vl:0 ping:159 tps:13.36 component: packet.timer.main
+(20:05:24) Synchro99 failed Speed check | fast climb | 0.345 > 0.34 / 5 (+4) | vl:4 ping:159 tps:20.0 component: speed.ladder
+(20:32:10) Synchro99 failed BadPackets check | send 29 moving packets per second (1.074) [27] (+0) | vl:0 ping:179 tps:20.0 component: packet.timer.main
+(20:34:26) Synchro99 failed Speed check | fast climb | 0.367 > 0.34 / 3 (+4) | vl:4 ping:152 tps:20.0 component: speed.ladder
+(20:35:22) Synchro99 failed BadPackets check | send 28 moving packets per second (1.037) [27] (+0) | vl:0 ping:155 tps:20.0 component: packet.timer.main
+(20:40:35) Synchro99 failed Block check | place block faster than expect: JUNGLE_WOOD / 0 (+0) | vl:0 ping:155 tps:20.0 component: block.fastplace
+(20:44:31) Synchro99 failed BadPackets check | send 136 moving packets per second (4.25) [32] (+0) | vl:0 ping:219 tps:20.0 component: packet.timer.main
+(20:44:31) Synchro99 failed BadPackets check | send too much moving packets (1.141) [719/30] (+5) | vl:5 ping:219 tps:20.0 component: packet.timer.main
+(20:44:53) Synchro99 failed BadPackets check | send too much moving packets (1.141) [719/30] (+0) | vl:0 ping:191 tps:16.96 component: packet.timer.main
+(20:45:50) Synchro99 failed Phase check | phase into block | block: END_PORTAL_FRAME | box: 1.0,1.0,1.0 | block: END_PORTAL (+1) | vl:1 ping:181 tps:20.0 component: phase.main
+(20:45:51) Synchro99 failed Phase check | phase into block | block: END_PORTAL_FRAME | box: 1.0,1.0,1.0 | block: END_PORTAL (+1) | vl:2 ping:181 tps:20.0 component: phase.main
+(20:45:53) Synchro99 failed Fly check | ground spoof | tag: fake air packet | loc: 100.0,49.0,0.0 (+2) | vl:2 ping:181 tps:18.37 component: fly.fg.air
+(20:46:23) Synchro99 failed Fly check | fast fall | var1:0.44479750865697554 var2:0.44479750865697554 (+4) | vl:4 ping:178 tps:20.0 component: fly.fastfall
+(20:46:40) Synchro99 failed Velocity check | suspicious reduce the knockback distance | type: delay | val: 0.0 val2: true val3: true (+1) | vl:1 ping:178 tps:20.0 component: vel.delay
+(21:17:02) Matrix Enabled!
+(21:17:02) Version: 2.0.5
+(21:27:51) mushroombasher failed Fly check | vertical | val1: 0.4641593749554431 val2: 3 val3: -0.0784000015258789 (+4) | vl:4 ping:241 tps:20.0 component: fly.main
+(21:34:24) Dxwsxn failed Block check | abort breaking | dig | block at: -148.0,65.0,-227.0 type: OAK_LEAVES (+0) | vl:0 ping:34 tps:20.0 component: block.abort
+(21:38:06) mushroombasher failed Jesus check | liquid speed | 0.12207349522945188 >- 0.12 | d: false (+3) | vl:3 ping:27 tps:20.0 component: jesus.speed.in
+(21:38:43) XCL failed Fly check | ground spoof | tag: fake air packet | loc: -162.635,70.0,-255.421 (+4) | vl:4 ping:69 tps:20.0 component: fly.fg.air
+(21:38:52) XCL failed Block check | abort breaking | dig | block at: -211.0,71.0,-278.0 type: GRASS_BLOCK (+0) | vl:0 ping:69 tps:19.56 component: block.abort
+(21:39:50) mushroombasher failed Block check | abort breaking | dig | block at: 335.0,80.0,-427.0 type: STONE (+0) | vl:0 ping:25 tps:20.0 component: block.abort
+(21:40:31) mushroombasher failed KillAura check | machine learning | m: #72,10,1 | amount: 2 | version: 6 (+20) | vl:20 ping:36 tps:20.0 component: ka.ml
+(21:40:32) mushroombasher failed KillAura check | heuristic check | pattern: #2 | val: 25.949951171875/25.9500732421875 (+2) | vl:22 ping:36 tps:20.0 component: ka.heuristic
+(21:40:32) mushroombasher failed KillAura check | t: f (+5) | vl:27 ping:36 tps:20.0 component: ka.f
+(21:42:23) mushroombasher failed Speed check | faster than expected | t-a | 0.216 (+5) | vl:5 ping:36 tps:20.0 component: speed.ground
+(21:46:28) mushroombasher failed Fly check | ground spoof | tag: fake air packet | loc: 310.434,88.0,-425.428 (+4) | vl:4 ping:101 tps:19.85 component: fly.fg.air
+(21:50:00) mushroombasher failed Fly check | ground spoof | tag: fake air packet | loc: 323.499,90.0,-458.48 (+4) | vl:4 ping:35 tps:20.0 component: fly.fg.air
+(21:52:22) XCL failed Block check | abort breaking | dig | block at: 332.0,92.0,-442.0 type: AIR (+0) | vl:0 ping:38 tps:20.0 component: block.abort
+(21:53:04) mushroombasher failed Velocity check | suspicious reduce the knockback distance | type: delay | val: 0.0 val2: true val3: true (+1) | vl:1 ping:193 tps:20.0 component: vel.delay
+(21:54:52) Dxwsxn failed Speed check | t: spin (+1) | vl:1 ping:31 tps:20.0 component: speed.spin
+(21:55:10) XCL failed Block check | abort breaking | dig | block at: 325.0,84.0,-424.0 type: STONE (+0) | vl:0 ping:45 tps:20.0 component: block.abort
+(22:02:22) XCL failed Block check | abort breaking | dig | block at: 354.0,73.0,-424.0 type: DIRT (+0) | vl:0 ping:3 tps:20.0 component: block.abort
+(22:03:58) XCL failed Jesus check | liquid speed | 0.1287606436906751 >- 0.12 | d: false (+3) | vl:3 ping:34 tps:20.0 component: jesus.speed.in
+(22:04:10) mushroombasher failed Speed check | t: spin (+1) | vl:1 ping:27 tps:20.0 component: speed.spin
+(22:09:19) Dxwsxn failed Fly check | flight | tag:e | a:0.035485331755282346 b:10 c:5 d:-0.10753986722000959 (+4) | vl:4 ping:36 tps:20.0 component: fly.main
+(22:09:25) Dxwsxn failed Fly check | ground spoof | tag: fake air packet | loc: 336.5,80.0,-415.5 (+4) | vl:4 ping:36 tps:19.75 component: fly.fg.air
+(22:12:21) mushroombasher failed Block check | fast break | type: b | a:0 b:12 (+4) | vl:4 ping:33 tps:20.0 component: block.fastbreak.time
+(22:12:21) mushroombasher failed Block check | fast break | type: b | a:0 b:12 (+4) | vl:8 ping:33 tps:20.0 component: block.fastbreak.time
+(22:12:23) mushroombasher failed Fly check | ground spoof | tag: fake air packet | loc: 341.438,79.0,-414.3 (+4) | vl:4 ping:33 tps:20.0 component: fly.fg.air
+(22:17:23) Dxwsxn failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:4 ping:38 tps:20.0 component: block.fastbreak.time
+(22:17:23) Dxwsxn failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:1 ping:38 tps:20.0 component: interact.through
+(22:17:23) Dxwsxn failed Fly check | ground spoof | tag: fake air packet | loc: 329.672,79.0,-424.639 (+0) | vl:0 ping:38 tps:8.22 component: fly.fg.air
+(22:17:24) mushroombasher failed Block check | abort breaking | dig | block at: 341.0,68.0,-445.0 type: STONE (+0) | vl:0 ping:21 tps:20.0 component: block.abort
+(22:17:24) Dxwsxn failed Block check | abort breaking | dig | block at: 331.0,80.0,-425.0 type: FURNACE (+0) | vl:0 ping:38 tps:20.0 component: block.abort
+(22:17:24) XCL failed FastHeal check | regen health too fast | difficulty: 2 delay: 245 protocol_ver: 14 (+2) | vl:2 ping:47 tps:20.0 component: heal
+(22:20:43) mushroombasher failed Interact check | break block through walls ,o=STONE b=STONE (+1) | vl:1 ping:23 tps:20.0 component: interact.break
+(22:21:05) Dxwsxn failed Interact check | interact block through walls ,o=OBSIDIAN b=FURNACE (+1) | vl:1 ping:37 tps:19.98 component: interact.through
+(22:22:27) XCL failed Block check | abort breaking | dig | block at: 392.0,53.0,-385.0 type: STONE (+0) | vl:0 ping:47 tps:20.0 component: block.abort
+(22:23:37) XCL failed Velocity check | suspicious velocity pattern: #C1 (0.7447347662798779) (+7) | vl:7 ping:44 tps:20.0 component: vel.pattern
+(22:23:37) mushroombasher failed Phase check | phase into block | block: STONE | box: 1.0,1.0,1.0 | block: LAVA (+1) | vl:1 ping:33 tps:20.0 component: phase.main
+(22:23:41) Dxwsxn failed Block check | place block faster than expect: STONE_BRICKS / 1 (+0) | vl:0 ping:36 tps:20.0 component: block.fastplace
+(22:28:36) XCL failed Block check | place block faster than expect: DIRT / 1 (+0) | vl:0 ping:39 tps:20.0 component: block.fastplace
+(22:28:37) XCL failed Block check | place block faster than expect: DIRT / 0 (+0) | vl:0 ping:39 tps:20.0 component: block.fastplace
+(22:32:17) mushroombasher failed Block check | abort breaking | dig | block at: 363.0,52.0,-445.0 type: STONE (+0) | vl:0 ping:36 tps:20.0 component: block.abort
+(22:33:32) mushroombasher failed Speed check | t: spin (+1) | vl:1 ping:26 tps:20.0 component: speed.spin
+(22:36:26) Dxwsxn failed KillAura check | snap | tag: b (+5) | vl:5 ping:45 tps:20.0 component: ka.snap
+(22:36:29) Dxwsxn failed KillAura check | yaw pattern | 0.5|121 (+5) | vl:10 ping:45 tps:20.0 component: ka.yaw
+(22:40:14) XCL failed Block check | abort breaking | dig | block at: 400.0,46.0,-390.0 type: STONE (+0) | vl:0 ping:54 tps:20.0 component: block.abort
+(22:40:17) mushroombasher failed Velocity check | suspicious velocity pattern: #C1 (0.8444609101563012) (+7) | vl:7 ping:30 tps:20.0 component: vel.pattern
+(22:44:36) XCL failed Block check | abort breaking | dig | block at: 429.0,50.0,-406.0 type: STONE (+0) | vl:0 ping:37 tps:20.0 component: block.abort
+(22:44:53) XCL failed Block check | abort breaking | dig | block at: 429.0,49.0,-405.0 type: GRANITE (+0) | vl:0 ping:54 tps:20.0 component: block.abort
+(22:47:38) mushroombasher failed Phase check | phase into block | block: STONE | box: 1.0,1.0,1.0 | block: LAVA (+1) | vl:1 ping:33 tps:20.0 component: phase.main
+(22:47:38) mushroombasher failed Phase check | phase into block | block: STONE | box: 1.0,1.0,1.0 | block: LAVA (+1) | vl:2 ping:33 tps:20.0 component: phase.main
+(22:48:21) mushroombasher failed Block check | place block faster than expect: GRAVEL / 1 (+0) | vl:0 ping:24 tps:20.0 component: block.fastplace
+(22:52:37) mushroombasher failed Velocity check | suspicious velocity pattern: #C1 (0.27970145560091403) (+7) | vl:7 ping:22 tps:20.0 component: vel.pattern
+(22:52:42) XCL failed Speed check | faster than expected | t-f | mv: -0.07242780368044066 (+3) | vl:3 ping:34 tps:20.0 component: speed.main
+(22:52:52) mushroombasher failed Velocity check | suspicious velocity pattern: #C1 (0.7244793046561719) (+2) | vl:2 ping:275 tps:20.0 component: vel.pattern
+(22:54:01) Dxwsxn failed Block check | place block faster than expect: STONE_BRICKS / 0 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(22:54:13) Dxwsxn failed Block check | place block faster than expect: STONE_BRICKS / 1 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(22:55:41) mushroombasher failed Fly check | fast fall | var1:1 var2:0.16213213901814072 (+10) | vl:10 ping:28 tps:20.0 component: fly.fastfall
+(23:01:12) mushroombasher failed Interact check | break block through walls ,o=STONE b=STONE (+1) | vl:1 ping:31 tps:20.0 component: interact.break
+(23:02:21) XCL failed Block check | fast break | type: b | a:1 b:21 (+4) | vl:4 ping:49 tps:20.0 component: block.fastbreak.time
+(23:02:21) XCL failed Interact check | break block through walls ,o=STONE b=STONE (+1) | vl:1 ping:49 tps:20.0 component: interact.break
+(23:03:35) XCL failed Velocity check | suspicious velocity pattern: #C1 (0.95883321054105) (+7) | vl:7 ping:34 tps:20.0 component: vel.pattern
+(23:03:41) Dxwsxn failed KillAura check | machine learning | m: #53,12,8 | amount: 2 | version: 6 (+20) | vl:20 ping:33 tps:20.0 component: ka.ml
+(23:03:43) mushroombasher failed KillAura check | t: ka.yaw.ag | val1: 1.5165333822369576 val2: 0.09936679154634476 (+2) | vl:2 ping:35 tps:20.0 component: ka.yaw.ag
+(23:05:57) XCL failed BadPackets check | tick rate | 1.01 > 1.000 | val1: 61 val2: 59 val3: 10 (+15) | vl:15 ping:47 tps:20.0 component: packet.tick
+(23:07:21) mushroombasher failed Speed check | faster than expected | t-a | 0.21 (+5) | vl:5 ping:36 tps:20.0 component: speed.ground
+(23:07:24) mushroombasher failed HitBox check | reach: 3.7051576343233696 expected: 3.692829414324964 (+1) | vl:1 ping:36 tps:20.0 component: hb.reach.simple
+(23:12:22) XCL failed Block check | abort breaking | dig | block at: 413.0,58.0,-423.0 type: WATER (+0) | vl:0 ping:57 tps:20.0 component: block.abort
+(23:12:34) mushroombasher failed Fly check | simple flight | tag:#4 | val1:false val2:0.033890786745502055 val3:-0.1552320045166016 val4:0 (+5) | vl:5 ping:24 tps:20.0 component: fly.main
+(23:12:36) mushroombasher failed Fly check | simple flight | tag:#4 | val1:false val2:0.033890786745502055 val3:-0.1552320045166016 val4:0 (+5) | vl:10 ping:24 tps:20.0 component: fly.main
+(23:16:18) XCL failed HitBox check | angle (angle:94.0208888053894 ,reach: 3.147767752326151 ) (+1) | vl:1 ping:37 tps:20.0 component: hb.angle
+(23:16:18) XCL failed HitBox check | angle (angle:93.83663177490234 ,reach: 3.4217945764984172 ) (+1) | vl:2 ping:37 tps:20.0 component: hb.angle
+(23:17:13) Dxwsxn failed Interact check | break block through walls ,o=STONE b=SAND (+1) | vl:1 ping:34 tps:20.0 component: interact.break
+(23:17:23) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:4 ping:55 tps:20.0 component: block.fastbreak.time
+(23:17:23) Dxwsxn failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:4 ping:44 tps:20.0 component: block.fastbreak.time
+(23:17:23) mushroombasher failed Block check | fast break | type: b | a:1 b:21 (+4) | vl:4 ping:29 tps:20.0 component: block.fastbreak.time
+(23:17:23) Dxwsxn failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:8 ping:44 tps:20.0 component: block.fastbreak.time
+(23:17:23) mushroombasher failed Speed check | faster than expected | t-a | 0.418 (+5) | vl:5 ping:29 tps:20.0 component: speed.ground
+(23:17:26) Dxwsxn failed Block check | fast break | type: a | val: 0 (+4) | vl:4 ping:44 tps:20.0 component: block.fastbreak.packet
+(23:17:26) Dxwsxn failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:8 ping:44 tps:20.0 component: block.fastbreak.time
+(23:17:26) mushroombasher failed Block check | abort breaking | dig | block at: 416.0,63.0,-447.0 type: GRASS_BLOCK (+0) | vl:0 ping:29 tps:20.0 component: block.abort
+(23:17:26) mushroombasher failed Block check | fast break | type: b | a:6 b:21 (+4) | vl:4 ping:29 tps:20.0 component: block.fastbreak.time
+(23:17:26) mushroombasher failed Block check | fast break | type: a | val: 0 (+4) | vl:8 ping:29 tps:20.0 component: block.fastbreak.packet
+(23:17:26) Dxwsxn failed Block check | fast break | type: a | val: 15 (+4) | vl:12 ping:44 tps:20.0 component: block.fastbreak.packet
+(23:19:10) Dxwsxn failed Block check | place block faster than expect: STONE_BRICKS / 0 (+0) | vl:0 ping:46 tps:20.0 component: block.fastplace
+(23:22:22) mushroombasher failed Block check | abort breaking | dig | block at: 361.0,67.0,-423.0 type: AIR (+0) | vl:0 ping:34 tps:20.0 component: block.abort
+(23:22:24) mushroombasher failed Fly check | flight | tag:e | a:0.0 b:7 c:5 d:-0.0784000015258789 (+4) | vl:4 ping:34 tps:20.0 component: fly.main
+(23:22:42) mushroombasher failed Fly check | flight | tag:e | a:0.0 b:12 c:5 d:-0.0784000015258789 (+4) | vl:8 ping:30 tps:20.0 component: fly.main
+(23:28:22) Dxwsxn failed Fly check | flight | tag:e | a:0.0 b:7 c:5 d:-0.0784000015258789 (+4) | vl:4 ping:32 tps:20.0 component: fly.main
+(23:28:31) Dxwsxn failed Block check | place block faster than expect: STONE_BRICKS / 0 (+0) | vl:0 ping:32 tps:20.0 component: block.fastplace
+(23:30:42) Dxwsxn failed Block check | abort breaking | dig | block at: 331.0,86.0,-417.0 type: GLASS_PANE (+0) | vl:0 ping:30 tps:20.0 component: block.abort
+(23:31:59) XCL failed Fly check | pattern | type:#f | a:0.41999998688697815 b:-0.1552320045166016 c:2 (+3) | vl:3 ping:45 tps:20.0 component: fly.main
+(23:32:40) XCL failed HitBox check | angle (angle:102.16852068901062 ,reach: 2.0174195765317955 ) (+1) | vl:1 ping:38 tps:20.0 component: hb.angle
+(23:33:28) XCL failed HitBox check | angle (angle:129.0263593196869 ,reach: 1.6605706123511303 ) (+1) | vl:1 ping:41 tps:20.0 component: hb.angle
+(23:33:43) XCL failed HitBox check | angle (angle:99.9722957611084 ,reach: 1.5168358510766307 ) (+1) | vl:2 ping:41 tps:20.0 component: hb.angle
+(23:33:43) XCL failed HitBox check | angle (angle:94.95909333229065 ,reach: 2.83004563948198 ) (+1) | vl:3 ping:41 tps:20.0 component: hb.angle
+(23:35:21) XCL failed KillAura check | non-human like combat style | confidence: 46.666666666666664 (cp) (+10) | vl:10 ping:34 tps:20.0 component: ka.style
+(23:36:18) XCL failed Block check | tower | dt: 1.403784549589933 dl: 216 av: 317 (+2) | vl:2 ping:41 tps:20.0 component: block.tower
+(23:37:22) Dxwsxn failed Block check | abort breaking | dig | block at: 198.0,73.0,-469.0 type: STONE (+0) | vl:0 ping:36 tps:20.0 component: block.abort
+(23:38:24) XCL failed Block check | abort breaking | dig | block at: 173.0,79.0,-440.0 type: STONE (+0) | vl:0 ping:48 tps:20.0 component: block.abort
+(23:38:48) XCL failed KillAura check | auto clicker | delay | d: 56,a: 151 | var: 137 (+3) | vl:3 ping:41 tps:20.0 component: ka.autoclicker.delay
+(23:38:48) XCL failed KillAura check | non-human like combat style | confidence: 52.63157894736842 (cp) (+10) | vl:13 ping:41 tps:20.0 component: ka.style
+(23:39:45) XCL failed Block check | no swing after place block | COBBLESTONE (+2) | vl:2 ping:47 tps:20.0 component: block.noswing
+(23:39:54) XCL failed Block check | abort breaking | dig | block at: 191.0,90.0,-426.0 type: DIRT (+0) | vl:0 ping:47 tps:20.0 component: block.abort
+(23:42:39) Dxwsxn failed KillAura check | snap | tag: b (+5) | vl:5 ping:30 tps:20.0 component: ka.snap
+(23:43:07) XCL failed Block check | abort breaking | dig | block at: 169.0,76.0,-432.0 type: RED_MUSHROOM_BLOCK (+0) | vl:0 ping:52 tps:17.68 component: block.abort
+(23:43:09) Dxwsxn failed Speed check | t: spin (+1) | vl:1 ping:41 tps:19.42 component: speed.spin
+(23:43:27) XCL failed Block check | abort breaking | dig | block at: 152.0,72.0,-437.0 type: GRASS_BLOCK (+0) | vl:0 ping:47 tps:20.0 component: block.abort
+(23:43:32) XCL failed HitBox check | reach: 3.8965464625173607 expected: 3.803449643728029 (+1) | vl:1 ping:47 tps:20.0 component: hb.reach.simple
+(23:45:22) Dxwsxn failed Interact check | interact block through walls ,o=CRAFTING_TABLE b=CHEST (+1) | vl:1 ping:38 tps:20.0 component: interact.through
+(23:47:21) XCL failed Interact check | interact block through walls ,o=OBSIDIAN b=FURNACE (+1) | vl:1 ping:57 tps:20.0 component: interact.through
+(23:47:21) XCL failed Interact check | interact block through walls ,o=OBSIDIAN b=FURNACE (+1) | vl:2 ping:57 tps:20.0 component: interact.through
+(23:47:37) XCL failed Interact check | interact block through walls ,o=STONE b=CHEST (+1) | vl:1 ping:57 tps:20.0 component: interact.through
+(23:49:07) Dxwsxn failed Inventory check | inventory move | simple (+2) | vl:2 ping:39 tps:20.0 component: inv.move
+(23:49:07) Dxwsxn failed Inventory check | inventory move | simple (+2) | vl:4 ping:39 tps:20.0 component: inv.move
+(23:52:55) XCL failed KillAura check | dead hit | (var=6) (+3) | vl:3 ping:58 tps:20.0 component: ka.dead
+(23:53:33) Dxwsxn failed KillAura check | non-human like combat style | confidence: 53.125 (cp) (+10) | vl:10 ping:37 tps:20.0 component: ka.style
+(23:53:39) Dxwsxn failed KillAura check | non-human like combat style | confidence: 51.724137931034484 (cp) (+10) | vl:20 ping:37 tps:20.0 component: ka.style
+(23:54:20) Dxwsxn failed KillAura check | simple packet pattern | var: 0 (+1) | vl:11 ping:38 tps:20.0 component: ka.simple
+(23:54:20) Dxwsxn failed KillAura check | simple packet pattern | var: 0 (+1) | vl:12 ping:38 tps:20.0 component: ka.simple
+(23:54:29) Dxwsxn failed Fly check | simple flight | tag:#4 | val1:false val2:0.0338907867450331 val3:-0.1552320045166016 val4:0 (+5) | vl:5 ping:38 tps:20.0 component: fly.main
+(23:54:39) Dxwsxn failed HitBox check | angle (angle:112.04832673072815 ,reach: 2.875707798397598 ) (+1) | vl:1 ping:38 tps:20.0 component: hb.angle
+(23:54:42) Dxwsxn failed Block check | abort breaking | dig | block at: 123.0,80.0,-399.0 type: GRASS_BLOCK (+0) | vl:0 ping:38 tps:20.0 component: block.abort
+(23:54:59) Dxwsxn failed KillAura check | machine learning | m: #71,5,3 | amount: 2 | version: 6 (+20) | vl:20 ping:30 tps:20.0 component: ka.ml

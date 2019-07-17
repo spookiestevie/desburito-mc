@@ -1,0 +1,30 @@
+geolocation: United Kingdom
+lastAccountName: mushroombasher
+timestamps:
+  login: 1563312461603
+  lastteleport: 1563319071976
+  logout: 1563319569290
+ipAddress: 86.173.243.32
+lastlocation:
+  world: survival
+  x: 415.84306971685305
+  y: 64.0
+  z: -427.30000001192093
+  yaw: -15.143776
+  pitch: 10.64995
+money: '0.0'
+homes:
+  home:
+    world: survival
+    x: 332.13002723504167
+    y: 80.0
+    z: -422.60989588330153
+    yaw: -23.994293
+    pitch: 29.699888
+logoutlocation:
+  world: survival
+  x: 328.6130092233486
+  y: 94.0
+  z: -441.7885278107185
+  yaw: 251.10266
+  pitch: 11.400002

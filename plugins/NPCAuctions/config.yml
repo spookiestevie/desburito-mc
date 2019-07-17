@@ -35,6 +35,14 @@ NPCS:
     z: -239.32254790061592
     pitch: 1.1657448
     yaw: -315.2386
+  033e52d5-a06d-4a7e-946d-dd5fd7ae97db:
+    ==: org.bukkit.Location
+    world: survival
+    x: -138.47307279613335
+    y: 64.1
+    z: -239.44452458339444
+    pitch: 0.25393438
+    yaw: 44.471348
 Auctions:
   5af85cf9-bae4-40a9-afd5-fee1a478157a: {}
   4cd1c40c-ec0d-4883-aa97-0ab4ad295706: {}

@@ -1,0 +1,120 @@
+19-07-16 16:35:58 [INFO] Logger started.
+19-07-16 16:35:58 [INFO] Logging system initialized.
+19-07-16 16:35:58 [INFO] Detected Minecraft version: 1.14.3
+19-07-16 16:36:41 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+19-07-16 16:36:41 [INFO] McAccess set to: 1.4.5-1.12.2|? / CB-Reflect
+19-07-16 16:36:41 [INFO] Added block-info for Minecraft 1.5 blocks.
+19-07-16 16:36:41 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+19-07-16 16:36:41 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+19-07-16 16:36:41 [INFO] Added block-info for Minecraft 1.8 blocks.
+19-07-16 16:36:41 [INFO] Added block-info for Minecraft 1.9 blocks.
+19-07-16 16:36:41 [INFO] Added block-info for Minecraft 1.10 blocks.
+19-07-16 16:36:41 [INFO] Added block-info for Minecraft 1.11 blocks.
+19-07-16 16:36:41 [INFO] Added block-info for Minecraft 1.12 blocks.
+19-07-16 16:36:41 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+19-07-16 16:36:41 [INFO] Packet level access: ProtocolLib is not available.
+19-07-16 16:36:41 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+19-07-16 16:36:41 [INFO] Version 3.16.0-RC-sMD5NET-b1134 is enabled.
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for itself: java.util.Random
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+19-07-16 16:37:02 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+19-07-16 16:37:02 [INFO] Added hook: AllViolations(NCP) [1.0].
+19-07-16 16:37:02 [INFO] Post-enable running...
+19-07-16 16:37:04 [INFO] Post-enable finished.
+19-07-16 16:37:04 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-d05d3c1-a2275f1 ~MC: 1.14.3~
+  detected: 1.14.3
+#### NoCheatPlus ####
+Plugin: 3.16.0-RC-sMD5NET-b1134
+MCAccess: 1.4.5-1.12.2|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11 | BlocksMC1_12
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+19-07-16 16:39:08 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 953.81, 34.02, 1060.26 to 953.81, 33.95, 1060.28 distance 0.08 . VL 11.
+19-07-16 16:41:13 [INFO] Removed hook: AllViolations(NCP) [1.0].
+19-07-16 16:41:13 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 0 | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 1398 (1398/0) |
+19-07-16 16:41:13 [INFO] [GenericInstanceRegistry] Registry cleared.
+19-07-16 16:41:59 [INFO] Logger started.
+19-07-16 16:41:59 [INFO] Logging system initialized.
+19-07-16 16:41:59 [INFO] Detected Minecraft version: 1.14.3
+19-07-16 16:42:37 [WARNING] The Minecraft version seems to be more recent than the one Compat-CB-Reflect has been built with - this might work, but there could be incompatibilities.
+19-07-16 16:42:37 [INFO] McAccess set to: 1.4.5-1.12.2|? / CB-Reflect
+19-07-16 16:42:37 [INFO] Added block-info for Minecraft 1.5 blocks.
+19-07-16 16:42:37 [INFO] Added block-info for Minecraft 1.6.1 blocks.
+19-07-16 16:42:37 [INFO] Added block-info for Minecraft 1.7.2 blocks.
+19-07-16 16:42:37 [INFO] Added block-info for Minecraft 1.8 blocks.
+19-07-16 16:42:37 [INFO] Added block-info for Minecraft 1.9 blocks.
+19-07-16 16:42:37 [INFO] Added block-info for Minecraft 1.10 blocks.
+19-07-16 16:42:37 [INFO] Added block-info for Minecraft 1.11 blocks.
+19-07-16 16:42:37 [INFO] Added block-info for Minecraft 1.12 blocks.
+19-07-16 16:42:37 [INFO] Inventory checks: FastConsume is available, disabled InstantEat.
+19-07-16 16:42:37 [INFO] Packet level access: ProtocolLib is not available.
+19-07-16 16:42:37 [INFO] Force disable FastHeal on Minecraft 1.9 and later.
+19-07-16 16:42:37 [INFO] Version 3.16.0-RC-sMD5NET-b1134 is enabled.
+19-07-16 16:42:55 [INFO] Post-enable running...
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.stats.Counters
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.workaround.WRPT
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.location.tracking.LocationTrace$TraceEntryPool
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.utilities.entity.PassengerUtil
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for itself: java.util.Random
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.IBridgeCrossPlugin: fr.neatmonster.nocheatplus.compat.meta.BridgeCrossPlugin
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.compat.MCAccess: fr.neatmonster.nocheatplus.compat.cbreflect.MCAccessCBReflect
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.utilities.map.BlockCache: fr.neatmonster.nocheatplus.compat.cbreflect.BlockCacheCBReflect
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.modifier.IAttributeAccess: fr.neatmonster.nocheatplus.compat.bukkit.BukkitAttributeAccess
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessLastPositionAndLook: fr.neatmonster.nocheatplus.compat.cbreflect.reflect.ReflectEntityLastPositionAndLook
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for fr.neatmonster.nocheatplus.components.entity.IEntityAccessVehicle: fr.neatmonster.nocheatplus.compat.bukkit.EntityAccessVehicleMultiPassenger
+19-07-16 16:42:55 [INFO] [GenericInstanceRegistry] Registered for itself: fr.neatmonster.nocheatplus.checks.moving.util.AuxMoving
+19-07-16 16:42:55 [INFO] Added hook: AllViolations(NCP) [1.0].
+19-07-16 16:42:56 [INFO] Post-enable finished.
+19-07-16 16:42:56 [INFO] ---- Version information ----
+#### Server ####
+git-Spigot-d05d3c1-a2275f1 ~MC: 1.14.3~
+  detected: 1.14.3
+#### NoCheatPlus ####
+Plugin: 3.16.0-RC-sMD5NET-b1134
+MCAccess: 1.4.5-1.12.2|? / CB-Reflect
+Features:
+  blocks: BlocksMC1_4 | BlocksMC1_5 | BlocksMC1_6_1 | BlocksMC1_7_2 | BlocksMC1_8 | BlocksMC1_9 | BlocksMC1_10 | BlocksMC1_11 | BlocksMC1_12
+  checks: FastConsume | Gutenberg | HotFixFallingBlockPortalEnter
+  defaults: pvpKnockBackVelocity
+Hooks: AllViolations~NCP~ 1.0
+19-07-16 16:43:42 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 954.15, 33.77, 1087.30 to 954.15, 33.69, 1087.28 distance 0.08 . VL 10.
+19-07-16 16:43:48 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 953.49, 33.76, 1087.30 to 953.52, 33.68, 1087.28 distance 0.09 . VL 10.
+19-07-16 16:43:53 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 953.47, 33.77, 1087.30 to 953.49, 33.69, 1087.28 distance 0.08 . VL 22.
+19-07-16 16:43:58 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 953.58, 33.77, 1087.30 to 953.56, 33.69, 1087.28 distance 0.08 . VL 39.
+19-07-16 16:44:06 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 954.24, 33.00, 1085.44 to 954.24, 33.42, 1085.50 distance 0.42 . VL 11.
+19-07-16 16:44:15 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 960.31, 33.00, 1075.30 to 960.35, 33.00, 1075.18 distance 0.13 . VL 11.
+19-07-16 16:45:48 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 960.62, 33.00, 1075.30 to 960.46, 33.00, 1075.25 distance 0.17 . VL 16.
+19-07-16 16:46:56 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 959.98, 33.00, 1075.30 to 959.94, 33.00, 1075.22 distance 0.10 . VL 11.
+19-07-16 16:47:10 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 960.38, 33.00, 1075.30 to 960.33, 33.00, 1075.21 distance 0.10 . VL 10.
+19-07-16 16:47:16 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 955.38, 33.00, 1076.71 to 954.90, 33.42, 1076.71 distance 0.64 . VL 12.
+19-07-16 16:47:21 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 943.30, 37.00, 1077.70 to 943.27, 37.50, 1077.92 distance 0.55 . VL 14.
+19-07-16 16:47:47 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 923.70, 11.02, 1097.43 to 923.70, 10.95, 1097.43 distance 0.08 . VL 10.
+19-07-16 16:47:52 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 923.66, 11.02, 1097.42 to 923.66, 10.95, 1097.42 distance 0.08 . VL 33.
+19-07-16 16:47:56 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 923.78, 11.02, 1097.48 to 923.82, 10.95, 1097.50 distance 0.09 . VL 50.
+19-07-16 16:48:13 [INFO] Synchro99 failed MorePackets: sent too many moves (10 epsacc). VL 10.
+19-07-16 16:50:35 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 953.11, 33.00, 1065.70 to 953.21, 33.00, 1065.71 distance 0.10 . VL 10.
+19-07-16 16:51:40 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 954.46, 33.00, 1085.74 to 954.46, 33.42, 1085.74 distance 0.42 . VL 11.
+19-07-16 16:51:49 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 952.70, 33.00, 1085.86 to 952.70, 33.42, 1085.86 distance 0.42 . VL 11.
+19-07-16 16:51:55 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 943.32, 37.00, 1076.66 to 943.20, 37.50, 1076.63 distance 0.52 . VL 10.
+19-07-16 16:52:00 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 943.32, 37.00, 1076.66 to 943.20, 37.50, 1076.64 distance 0.52 . VL 35.
+19-07-16 16:52:02 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 943.32, 37.00, 1076.66 to 943.20, 37.50, 1076.64 distance 0.52 . VL 50.
+19-07-16 16:52:07 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 943.32, 37.00, 1076.66 to 943.23, 37.50, 1076.69 distance 0.51 . VL 56.
+19-07-16 16:52:20 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 943.47, 37.00, 1076.97 to 943.27, 37.50, 1076.90 distance 0.54 . VL 56.
+19-07-16 16:52:25 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 942.97, 38.02, 1076.76 to 942.90, 37.80, 1076.73 distance 0.24 . VL 58.
+19-07-16 16:52:29 [INFO] Synchro99 failed Passable: moved into a block ([blocktype]) from 943.14, 38.02, 1076.83 to 943.05, 37.80, 1076.79 distance 0.25 . VL 46.
+19-07-16 16:59:48 [INFO] Removed hook: AllViolations(NCP) [1.0].
+19-07-16 16:59:48 [FINE] | cancel.dead 0 | cancel.offline 0 | block.interact.look.current 24 (24/0) | block.interact.look.flying.first 0 | block.interact.look.flying.other 0 | illegalitem 0 | boatsanywhere 0 | throwenderpearl 0 | fakeinvulnerable 0 | eggonentity 0 | event.player.move 3692 (3692/0) |
+19-07-16 16:59:48 [INFO] [GenericInstanceRegistry] Registry cleared.

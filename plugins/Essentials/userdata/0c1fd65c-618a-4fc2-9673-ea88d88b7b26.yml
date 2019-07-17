@@ -1,0 +1,22 @@
+geolocation: Belgium
+lastAccountName: lampmanneke2
+timestamps:
+  login: 1563292639633
+  lastteleport: 1563292678487
+  logout: 1563293237874
+ipAddress: 81.83.126.149
+lastlocation:
+  world: world
+  x: 15414.182553078654
+  y: 98.0
+  z: 12988.854278545541
+  yaw: -244.76987
+  pitch: 49.16449
+money: '0.0'
+logoutlocation:
+  world: survival
+  x: 189.30000001192093
+  y: 64.0
+  z: -105.71916633275825
+  yaw: -330.64978
+  pitch: 2.9071474

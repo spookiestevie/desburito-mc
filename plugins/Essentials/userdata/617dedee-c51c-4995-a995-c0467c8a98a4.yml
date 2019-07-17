@@ -1,0 +1,30 @@
+lastAccountName: XCL
+timestamps:
+  login: 1563312819300
+  lastteleport: 1563321782696
+  logout: 1563322042040
+ipAddress: 82.47.167.211
+geolocation: United Kingdom
+lastlocation:
+  world: survival
+  x: 380.30000001192093
+  y: 55.0
+  z: -390.69999998807907
+  yaw: -343.97446
+  pitch: 13.545261
+money: '0.0'
+homes:
+  home:
+    world: survival
+    x: 331.30000001192093
+    y: 80.0
+    z: -420.07011718046886
+    yaw: -194.04993
+    pitch: 18.587378
+logoutlocation:
+  world: survival
+  x: 372.8228974263301
+  y: 25.0
+  z: -416.61288486507874
+  yaw: -231.909
+  pitch: -90.0

@@ -1,24 +1,24 @@
 geolocation: United States
 lastAccountName: Synchro99
 timestamps:
-  login: 1563199877802
-  logout: 1563199713389
-  lastteleport: 1563201725815
-ipAddress: 174.148.107.197
+  login: 1563308688885
+  logout: 1563310014750
+  lastteleport: 1563310008897
+ipAddress: 97.117.115.249
 logoutlocation:
-  world: world
-  x: -574.781381577463
-  y: 69.0
-  z: -121.174050956522
-  yaw: -95.37384
-  pitch: -90.0
-lastlocation:
   world: survival
-  x: -267.1810475436549
-  y: 31.0
-  z: 1.3000000119209312
-  yaw: -176.10138
-  pitch: 28.05006
+  x: -272.4906317235729
+  y: 72.0
+  z: -14.605813384379239
+  yaw: 53.84967
+  pitch: 46.65002
+lastlocation:
+  world: survival_the_end
+  x: 63.24219389240917
+  y: 57.55321338701522
+  z: -47.39366061717402
+  yaw: -117.60007
+  pitch: -1.1999528
 money: '1169351.00'
 homes:
   home:
@@ -28,4 +28,5 @@ homes:
     z: -14.311032373495081
     yaw: 53.84967
     pitch: 46.65002
-nickname: God
+nickname: §r§lSync
+afk: false

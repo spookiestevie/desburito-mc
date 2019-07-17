@@ -1,0 +1,30 @@
+lastAccountName: Dxwsxn
+timestamps:
+  login: 1563312373916
+  lastteleport: 1563322026636
+  logout: 1563322045888
+ipAddress: 86.15.219.235
+lastlocation:
+  world: survival
+  x: 372.1293920051811
+  y: 24.0
+  z: -416.43995153871197
+  yaw: -115.924866
+  pitch: 24.150019
+geolocation: United Kingdom
+money: '0.0'
+homes:
+  home:
+    world: survival
+    x: 332.24907283304077
+    y: 84.0
+    z: -419.79544057963284
+    yaw: 70.3602
+    pitch: 43.200047
+logoutlocation:
+  world: survival
+  x: 330.9650681951612
+  y: 84.0
+  z: -417.1658751349277
+  yaw: 354.01038
+  pitch: 48.00004

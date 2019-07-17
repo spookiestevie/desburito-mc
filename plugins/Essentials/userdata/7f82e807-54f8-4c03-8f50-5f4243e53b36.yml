@@ -2,9 +2,9 @@ geolocation: United Kingdom
 money: '3356000.0'
 lastAccountName: InfectionZoey
 timestamps:
-  login: 1563194362958
-  logout: 1563194510317
-  lastteleport: 1563194437965
+  login: 1563311903718
+  logout: 1563311980948
+  lastteleport: 1563311916781
 ipAddress: 90.196.77.165
 nickname: §dZoey
 homes:
@@ -17,15 +17,17 @@ homes:
     pitch: 15.355016
 logoutlocation:
   world: survival
-  x: 954.94023562358
-  y: 33.0
-  z: 1076.1742447019133
-  yaw: -307.1167
-  pitch: 11.531094
+  x: 953.6080747382601
+  y: 35.200000047683716
+  z: 1062.0491673385218
+  yaw: -174.37448
+  pitch: 16.086191
 lastlocation:
-  world: survival
-  x: 953.464525610506
-  y: 33.0
-  z: 1064.4139810964803
-  yaw: -50.955944
-  pitch: -0.6753034
+  world: world
+  x: -543.6527255436043
+  y: 55.35503922509858
+  z: -498.4812203271576
+  yaw: -160.67679
+  pitch: 34.724808
+socialspy: true
+afk: false
