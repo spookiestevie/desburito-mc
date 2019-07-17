@@ -34,7 +34,8 @@ http://desburito.com:8804/server/Plan
 | Guishop                  | 7.1.5         | y.          | [Go to Bukkit](https://dev.bukkit.org/projects/gui-shop)|
 | NPCAuctions              | v1.0.62       | y.          | [Go to Bukkit](https://dev.bukkit.org/projects/npcauctions)|
 | RandomTP                 | 1.0.7.2 BETA  | y.          | [Go to Spigot](https://www.spigotmc.org/resources/randomtp-%E1%B4%8F%CA%80%C9%AA%C9%A2%C9%AA%C9%B4%E1%B4%80%CA%9F-sign-gui-menu-now-recoded-best-random-teleport-plugin.5084/history)|
-
+| Matric AC                | v2.0.5        | y.          | [Go to Spigot](https://www.spigotmc.org/resources/matrix-anticheat-hack-killaura-blocker-machine-learning-1-8-1-12-1-13-1-14.64635/updates)|
+| ProtocolLib              | v4.0.5 SNAP   | y.          | [Go to Jenkins](http://ci.dmulloy2.net/job/ProtocolLib/)|
 ## Other (development) :
 The server is **live** in the **mcv/** directory and the **mcv-backup/** is where **backups** are made weekly and where this git repo is initialised
 
