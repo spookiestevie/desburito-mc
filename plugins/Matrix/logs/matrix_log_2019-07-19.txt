@@ -1,0 +1,2 @@
+(00:29:20) Synchro99 failed BadPackets check | send 29 moving packets per second (1.074) [27] (+0) | vl:0 ping:146 tps:20.0 component: packet.timer.main
+(00:31:21) Synchro99 failed BadPackets check | send 28 moving packets per second (1.037) [27] (+0) | vl:0 ping:155 tps:20.0 component: packet.timer.main

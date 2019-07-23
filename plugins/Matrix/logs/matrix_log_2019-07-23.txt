@@ -1,0 +1,12 @@
+(02:38:02) ninjaharg failed Block check | (fast break) nuker protection | blockT: ORANGE_TERRACOTTA (+1) | vl:1 ping:129 tps:20.0 component: block.fastbreak
+(02:43:03) ninjaharg failed Block check | place block faster than expect: GRAY_CONCRETE / 0 (+0) | vl:0 ping:128 tps:20.0 component: block.fastplace
+(02:43:03) ninjaharg failed Block check | place block faster than expect: GRAY_CONCRETE / 0 (+0) | vl:0 ping:128 tps:20.0 component: block.fastplace
+(02:43:03) ninjaharg failed Block check | place block faster than expect: GRAY_CONCRETE / 0 (+0) | vl:0 ping:128 tps:20.0 component: block.fastplace
+(02:43:03) ninjaharg failed Block check | place block faster than expect: GRAY_CONCRETE / 0 (+0) | vl:0 ping:128 tps:20.0 component: block.fastplace
+(03:06:35) Synchro99 failed Block check | (fast break) nuker protection | blockT: TERRACOTTA (+1) | vl:1 ping:156 tps:20.0 component: block.fastbreak
+(03:08:55) Synchro99 failed BadPackets check | send 54 moving packets per second (1.688) [32] (+0) | vl:0 ping:280 tps:20.0 component: packet.timer.main
+(03:09:24) Synchro99 failed Interact check | attack entity through walls (+1) | vl:1 ping:235 tps:19.76 component: interact.attack
+(08:33:26) millermatt1212 failed KillAura check | ka.derp (+10) | vl:10 ping:0 tps:20.0 component: ka.derp
+(08:33:26) millermatt1212 failed Chat check | chat too fast | delay: 241 (+1) | vl:1 ping:0 tps:20.0 component: chat.delay
+(15:59:42) Matrix Enabled!
+(15:59:42) Version: 2.0.5

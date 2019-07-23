@@ -1,0 +1,25 @@
+(00:35:22) ninjaharg failed Block check | place block faster than expect: GLASS / 0 (+0) | vl:0 ping:125 tps:20.0 component: block.fastplace
+(00:35:23) ninjaharg failed Block check | place block faster than expect: GLASS / 1 (+0) | vl:0 ping:125 tps:20.0 component: block.fastplace
+(01:26:37) Synchro99 failed Block check | place block faster than expect: WHITE_STAINED_GLASS / 1 (+0) | vl:0 ping:159 tps:20.0 component: block.fastplace
+(01:28:35) ninjaharg failed KillAura check | heuristic check | pattern: #2 | val: 48.29998779296875/48.29998779296875 (+1) | vl:1 ping:129 tps:20.0 component: ka.heuristic
+(01:32:28) ninjaharg failed BadPackets check | send 29 moving packets per second (1.074) [27] (+0) | vl:0 ping:132 tps:20.0 component: packet.timer.main
+(01:35:04) ninjaharg failed BadPackets check | send 28 moving packets per second (1.037) [27] (+0) | vl:0 ping:130 tps:20.0 component: packet.timer.main
+(01:35:10) ninjaharg failed BadPackets check | send 33 moving packets per second (1.065) [31] (+0) | vl:0 ping:130 tps:18.22 component: packet.timer.main
+(01:35:13) ninjaharg failed BadPackets check | send 31 moving packets per second (1.148) [27] (+0) | vl:0 ping:130 tps:20.0 component: packet.timer.main
+(01:35:21) ninjaharg failed BadPackets check | send 31 moving packets per second (1.148) [27] (+0) | vl:0 ping:125 tps:20.0 component: packet.timer.main
+(01:36:37) ninjaharg failed BadPackets check | send 38 moving packets per second (1.407) [27] (+0) | vl:0 ping:129 tps:20.0 component: packet.timer.main
+(01:39:14) ninjaharg failed Speed check | t: spin (+1) | vl:1 ping:133 tps:20.0 component: speed.spin
+(16:42:51) Matrix Enabled!
+(16:42:51) Version: 2.0.5
+(18:32:03) ninjaharg failed Block check | place block faster than expect: WHITE_STAINED_GLASS / 0 (+0) | vl:0 ping:180 tps:19.99 component: block.fastplace
+(18:33:03) ninjaharg failed Block check | place block faster than expect: RED_STAINED_GLASS / 0 (+0) | vl:0 ping:136 tps:20.0 component: block.fastplace
+(18:33:03) ninjaharg failed Block check | place block faster than expect: RED_STAINED_GLASS / 0 (+0) | vl:0 ping:136 tps:20.0 component: block.fastplace
+(18:33:03) ninjaharg failed Block check | place block faster than expect: RED_STAINED_GLASS / 0 (+0) | vl:0 ping:136 tps:20.0 component: block.fastplace
+(18:33:03) ninjaharg failed Block check | place block faster than expect: RED_STAINED_GLASS / 0 (+0) | vl:0 ping:136 tps:20.0 component: block.fastplace
+(18:58:02) ninjaharg failed Block check | place block faster than expect: OAK_PLANKS / 0 (+0) | vl:0 ping:134 tps:19.97 component: block.fastplace
+(18:58:02) ninjaharg failed Interact check | liquid (+1) | vl:1 ping:134 tps:19.97 component: interact.liquid
+(18:58:02) ninjaharg failed Interact check | liquid (+1) | vl:2 ping:134 tps:19.97 component: interact.liquid
+(18:58:02) ninjaharg failed Interact check | liquid (+1) | vl:3 ping:134 tps:19.97 component: interact.liquid
+(18:58:02) ninjaharg failed Interact check | liquid (+1) | vl:4 ping:134 tps:19.97 component: interact.liquid
+(18:58:03) ninjaharg failed Interact check | liquid (+1) | vl:1 ping:134 tps:17.86 component: interact.liquid
+(18:59:28) ninjaharg failed Block check | place block faster than expect: OAK_PLANKS / 0 (+0) | vl:0 ping:127 tps:20.0 component: block.fastplace

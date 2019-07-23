@@ -1,25 +1,552 @@
-[00:00:41] [Server thread/INFO]: Dxwsxn was slain by Zombie
-[00:00:46] [Server thread/INFO]: Dxwsxn issued server command: /back
-[00:01:25] [Server thread/INFO]: Dxwsxn was slain by Zombie
-[00:01:29] [Server thread/INFO]: Dxwsxn issued server command: /back
-[00:02:31] [Server thread/INFO]: Dxwsxn has made the advancement [Sweet Dreams]
-[00:03:02] [Server thread/INFO]: XCL issued server command: /home
-[00:03:13] [Server thread/INFO]: XCL has made the advancement [Sweet Dreams]
-[00:05:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:05:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:06:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 10 Entities![m
-[00:06:44] [Server thread/INFO]: Dxwsxn issued server command: /tpask XCL
-[00:06:49] [Server thread/INFO]: XCL issued server command: /tpaccept
-[00:07:06] [Server thread/INFO]: Dxwsxn issued server command: /home
-[00:07:22] [Server thread/INFO]: XCL lost connection: Disconnected
-[00:07:22] [Server thread/INFO]: XCL left the game
-[00:07:25] [Server thread/INFO]: Dxwsxn lost connection: Disconnected
-[00:07:25] [Server thread/INFO]: Dxwsxn left the game
-[00:12:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:13:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:13:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[00:17:20] [Plan Non critical-pool-5/ERROR]: [Plan] A PluginData-source caused an exception: Factions, you can disable the integration under 'Plugins.Factions.Enabled'
-[00:17:20] [Plan Non critical-pool-5/WARN]: [Plan] Error was caught by com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator
+[15:58:33] [Server thread/INFO]: Starting minecraft server version 1.14.3
+[15:58:33] [Server thread/INFO]: Loading properties
+[15:58:35] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-d05d3c1-a2275f1 (MC: 1.14.3) (Implementing API version 1.14.3-R0.1-SNAPSHOT)
+[15:58:35] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:58:35] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:58:35] [Server thread/INFO]: Debug logging is disabled
+[15:58:35] [Server thread/INFO]: Default game type: SURVIVAL
+[15:58:35] [Server thread/INFO]: Generating keypair
+[15:58:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:58:36] [Server thread/INFO]: Using epoll channel type
+[15:58:44] [Server thread/WARN]: Plugin PermissionsEx v1.23.4 does not specify an api-version.
+[15:58:46] [Server thread/WARN]: Plugin Plan v4.8.6 does not specify an api-version.
+[15:58:46] [Server thread/INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.51
+[15:58:46] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.0.0;214af8a
+[15:58:47] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5a2111d3]
+[15:58:47] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.0.6
+[15:58:47] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[15:58:47] [Server thread/INFO]: [Vault] Loading Vault v1.7.2-b107
+[15:58:47] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.5.0-SNAPSHOT
+[15:58:47] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.14.3) has not yet been tested! Proceed with caution.
+[15:58:48] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.0.0-b766
+[15:58:48] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.1-beta-01;14e7525
+[15:58:48] [Server thread/INFO]: [GUIShop] Loading GUIShop v7.1.5
+[15:58:48] [Server thread/INFO]: [NPCAuctions] Loading NPCAuctions v1.0.62
+[15:58:48] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.0.0
+[15:58:48] [Server thread/INFO]: [Multiverse-SignPortals] Loading Multiverse-SignPortals v4.0.0-b742
+[15:58:48] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.0.0
+[15:58:48] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.0.0
+[15:58:48] [Server thread/INFO]: [Matrix] Loading Matrix v2.0.5
+[15:58:48] [Server thread/INFO]: [mcMMO] Loading mcMMO v2.1.95-SNAPSHOT
+[15:58:48] [Server thread/INFO]: mcMMO has registered WG flags successfully!
+[15:58:48] [Server thread/INFO]: [PerWorldInventory] Loading PerWorldInventory v2.3.1
+[15:58:48] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v4.0.0-b799
+[15:58:48] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.0.0
+[15:58:48] [Server thread/INFO]: [Factions] Loading Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA
+[15:58:48] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.0.0
+[15:58:48] [Server thread/INFO]: [Plan] Loading Plan v4.8.6
+[15:58:48] [Server thread/INFO]: [RandomTP] Loading RandomTP v1.0.7.2
+[15:58:48] [Server thread/INFO]: [Multiverse-NetherPortals] Loading Multiverse-NetherPortals v4.0.0-b757
+[15:58:48] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.0.0;214af8a
+[15:58:48] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:58:48] [Server thread/WARN]: [WorldEdit] ====================================================
+[15:58:48] [Server thread/WARN]: [WorldEdit]  WorldEdit works better if you use Paper 
+[15:58:48] [Server thread/WARN]: [WorldEdit]  as your server software. 
+[15:58:48] [Server thread/WARN]: [WorldEdit]   
+[15:58:48] [Server thread/WARN]: [WorldEdit]  Paper offers significant performance improvements,
+[15:58:48] [Server thread/WARN]: [WorldEdit]  bug fixes, security enhancements and optional
+[15:58:48] [Server thread/WARN]: [WorldEdit]  features for server owners to enhance their server.
+[15:58:48] [Server thread/WARN]: [WorldEdit]   
+[15:58:48] [Server thread/WARN]: [WorldEdit]  Paper includes Timings v2, which is significantly
+[15:58:48] [Server thread/WARN]: [WorldEdit]  better at diagnosing lag problems over v1.
+[15:58:48] [Server thread/WARN]: [WorldEdit]   
+[15:58:48] [Server thread/WARN]: [WorldEdit]  All of your plugins should still work, and the
+[15:58:48] [Server thread/WARN]: [WorldEdit]  Paper community will gladly help you fix any issues.
+[15:58:48] [Server thread/WARN]: [WorldEdit]   
+[15:58:48] [Server thread/WARN]: [WorldEdit]  Join the Paper Community @ https://papermc.io
+[15:58:48] [Server thread/WARN]: [WorldEdit] ====================================================
+[15:58:48] [Server thread/INFO]: [Vault] Enabling Vault v1.7.2-b107
+[15:58:48] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:58:48] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[15:58:48] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:58:48] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[15:58:48] [Server thread/INFO]: [Vault] Enabled Version 1.7.2-b107
+[15:58:48] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[15:58:48] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.0-SNAPSHOT
+[15:58:48] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[15:58:48] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.1.95-SNAPSHOT
+[15:58:50] [Server thread/INFO]: [mcMMO] enabling Acrobatics Skills
+[15:58:50] [Server thread/INFO]: [mcMMO] registered subskill: Roll
+[15:58:50] [Server thread/INFO]: [mcMMO] 0 entries in mcMMO World Blacklist
+[15:58:50] [Server thread/INFO]: Preparing level "world"
+[15:58:50] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[15:58:52] [Server thread/INFO]: Loaded 6 recipes
+[15:58:54] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:58:54] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:54] [Server thread/INFO]: Mob Spawn Range: 6
+[15:58:54] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:58:54] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:58:54] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:54] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:58:54] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:58:54] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:54] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:54] [Server thread/INFO]: View Distance: 10
+[15:58:54] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:54] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:54] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:54] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:54] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:54] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:55] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R2 as the Bukkit adapter
+[15:58:56] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:58:57] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 6
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:58:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:58:57] [Server thread/INFO]: Mob Spawn Range: 6
+[15:58:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:58:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:58:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:58:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:58:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:58:57] [Server thread/INFO]: Max TNT Explosions: 100
+[15:58:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:58:57] [Server thread/INFO]: View Distance: 10
+[15:58:57] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:58:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:58:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:58:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:58:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:58:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:58:57] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[15:59:01] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:01] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:01] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:01] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:01] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:01] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:01] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:01] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:01] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[15:59:23] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:24] [Server thread/INFO]: Preparing spawn area: 48%
+[15:59:24] [Server thread/INFO]: Time elapsed: 27081 ms
+[15:59:24] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[15:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:28] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:28] [Server thread/INFO]: Time elapsed: 3535 ms
+[15:59:28] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[15:59:28] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:28] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:29] [Server thread/INFO]: Time elapsed: 864 ms
+[15:59:29] [Server thread/INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.51
+[15:59:29] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.0.6
+[15:59:29] [Server thread/INFO]: [ClearLag] Loading modules...
+[15:59:29] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[15:59:29] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[15:59:29] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[15:59:29] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[15:59:29] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:59:29] [Thread-10/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.14]...
+[15:59:29] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:59:29] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:59:29] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[15:59:29] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx_Chat hooked.
+[15:59:29] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.0.0-b766
+[15:59:29] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.0.0-b766" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Rigby, fernferret, lithium3141, main--, dumptruckman].
+[15:59:30] [Server thread/INFO]: -------- World Settings For [survival_nether] --------
+[15:59:30] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:30] [Server thread/INFO]: Mob Spawn Range: 6
+[15:59:30] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:59:30] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:59:30] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:30] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:59:30] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:59:30] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:30] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:30] [Server thread/INFO]: View Distance: 10
+[15:59:30] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:30] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:30] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:30] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:30] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:30] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:30] [Server thread/INFO]: Preparing start region for dimension 'survival_nether'/minecraft:the_nether
+[15:59:30] [Thread-10/INFO]: [ClearLag] No updates found!
+[15:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:32] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:32] [Server thread/INFO]: Time elapsed: 2220 ms
+[15:59:32] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Talarion Land
+[15:59:32] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[15:59:32] [Server thread/INFO]: -------- World Settings For [Lobby-World] --------
+[15:59:32] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:32] [Server thread/INFO]: Mob Spawn Range: 6
+[15:59:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:59:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:59:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:59:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:59:32] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:32] [Server thread/INFO]: View Distance: 10
+[15:59:32] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:32] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:32] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:32] [Server thread/INFO]: Preparing start region for dimension 'Lobby-World'/minecraft:overworld
+[15:59:33] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:33] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:33] [Server thread/INFO]: Time elapsed: 834 ms
+[15:59:33] [Server thread/INFO]: -------- World Settings For [survival] --------
+[15:59:33] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:33] [Server thread/INFO]: Mob Spawn Range: 6
+[15:59:33] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:59:33] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:59:33] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:33] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:59:33] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:59:33] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:33] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:33] [Server thread/INFO]: View Distance: 10
+[15:59:33] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:33] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:33] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:33] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:33] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:33] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:33] [Server thread/INFO]: Preparing start region for dimension 'survival'/minecraft:overworld
+[15:59:36] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:36] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:36] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:36] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:36] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:36] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:36] [Server thread/INFO]: Time elapsed: 2962 ms
+[15:59:36] [Server thread/INFO]: -------- World Settings For [survival_the_end] --------
+[15:59:36] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:59:36] [Server thread/INFO]: Mob Spawn Range: 6
+[15:59:36] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:59:36] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:59:36] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:59:36] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:59:36] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[15:59:36] [Server thread/INFO]: Max TNT Explosions: 100
+[15:59:36] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:59:36] [Server thread/INFO]: View Distance: 10
+[15:59:36] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[15:59:36] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:59:36] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:59:36] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:59:36] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:59:36] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:59:36] [Server thread/INFO]: Preparing start region for dimension 'survival_the_end'/minecraft:the_end
+[15:59:37] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:37] [Server thread/INFO]: Preparing spawn area: 0%
+[15:59:37] [Server thread/INFO]: Time elapsed: 952 ms
+[15:59:37] [Server thread/INFO]: [Multiverse-Core] 7 - World(s) loaded.
+[15:59:38] [Server thread/INFO]: [Multiverse-Core] Version 4.0.0-b766 (API v23) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[15:59:38] [Server thread/INFO]: [Multiverse-Core] Help dumptruckman keep this project alive. Become a patron! https://www.patreon.com/dumptruckman
+[15:59:38] [Server thread/INFO]: [Multiverse-Core] One time donations are also appreciated: https://www.paypal.me/dumptruckman
+[15:59:38] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.1-beta-01;14e7525
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival_nether) TNT ignition is PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival_nether) Lighters are PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival_nether) Lava fire is blocked.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival_nether) Fire spread is UNRESTRICTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_nether'
+[15:59:38] [Server thread/INFO]: [WorldGuard] (Lobby-World) TNT ignition is PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (Lobby-World) Lighters are PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (Lobby-World) Lava fire is blocked.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (Lobby-World) Fire spread is UNRESTRICTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lobby-World'
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival) TNT ignition is PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival) Lighters are PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival) Lava fire is blocked.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival) Fire spread is UNRESTRICTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival'
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival_the_end) TNT ignition is PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lighters are PERMITTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival_the_end) Lava fire is blocked.
+[15:59:38] [Server thread/INFO]: [WorldGuard] (survival_the_end) Fire spread is UNRESTRICTED.
+[15:59:38] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'survival_the_end'
+[15:59:38] [Server thread/INFO]: [WorldGuard] Loading region data...
+[15:59:39] [Server thread/INFO]: [GUIShop] Enabling GUIShop v7.1.5
+[15:59:39] [Server thread/INFO]: [GUIShop] Config all up to date!
+[15:59:39] [Server thread/INFO]: [GUIShop] Server is 1.10+ Implementing fixes.
+[15:59:39] [Server thread/INFO]: [GUIShop] SilkSpawners or EpicSpawners was not installed. Spawners disabled!
+[15:59:39] [Server thread/INFO]: [NPCAuctions] Enabling NPCAuctions v1.0.62
+[15:59:39] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.0.0
+[15:59:39] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[15:59:39] [Server thread/INFO]: No kits found to migrate.
+[15:59:40] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[15:59:40] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[15:59:40] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[15:59:40] [Server thread/INFO]: Loaded 20977 items from items.json.
+[15:59:40] [Server thread/INFO]: Using locale en_US
+[15:59:40] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:59:40] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[15:59:40] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy hooked.
+[15:59:40] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[15:59:40] [Server thread/INFO]: [Multiverse-SignPortals] Enabling Multiverse-SignPortals v4.0.0-b742
+[15:59:40] [Server thread/INFO]: [Multiverse-SignPortals 4.0.0-b742]  Enabled - By Rigby and fernferret
+[15:59:40] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.0.0
+[15:59:40] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.0.0
+[15:59:41] [Server thread/WARN]: Unable to load JDK7 types (annotations, java.nio.file.Path): no Java7 support added
+[15:59:41] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[15:59:41] [Server thread/INFO]: [Matrix] Enabling Matrix v2.0.5
+[15:59:41] [Server thread/INFO]: [0;35;22m   _____[m
+[15:59:41] [Server thread/INFO]: [0;35;22m[21m  |  |  |   [0;32;1mMatrix AntiCheat [0;36;1mv2.0.5[m
+[15:59:41] [Server thread/INFO]: [0;35;22m[21m  |  |  |   [0;30;1mEnvironment: git-Spigot-d05d3c1-a2275f1 (MC: 1.14.3)[m
+[15:59:41] [Server thread/INFO]: [m
+[15:59:41] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22mEnabled 16 checks, Disabled 0 checks[m
+[15:59:41] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22mLoaded all config files[m
+[15:59:42] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22m(Machine Learning) Start loading machine learning models...[m
+[15:59:42] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22m(Machine Learning) Model Version: #6[m
+[15:59:42] [Server thread/INFO]: [0;36;1m[Matrix] [0;37;22m(Machine Learning) Loaded 96 models[m
+[15:59:42] [Server thread/INFO]: [PerWorldInventory] Enabling PerWorldInventory v2.3.1
+[15:59:42] [Server thread/INFO]: [PerWorldInventory] Vault found! Hooking into it...
+[15:59:42] [Server thread/INFO]: [PerWorldInventory] Hooked into Vault!
+[15:59:42] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v4.0.0-b799
+[15:59:42] [Server thread/INFO]: [Multiverse-Portals] - Version 4.0.0-b799 Enabled - By Rigby and fernferret
+[15:59:42] [Server thread/INFO]: [MVPLogging] 2 - Portals(s) loaded
+[15:59:42] [Server thread/INFO]: [Multiverse-Portals] Found WorldEdit. Using it for selections.
+[15:59:42] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.0.0
+[15:59:42] [Server thread/INFO]: [Factions] Enabling Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA
+[15:59:42] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] ==== Setup ====
+[15:59:42] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Minecraft Version 1.14 found.
+[15:59:42] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Starting conversion of legacy material in config to 1.13 materials.
+[15:59:42] [Server thread/INFO]: File was not found for players.json, assuming there is no need to migrate old players.json file.
+[15:59:42] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] ==== End Setup ====
+[15:59:42] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] === ENABLE START ===
+[15:59:43] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Loaded 18 players
+[15:59:43] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Loaded 5 Factions
+[15:59:43] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Loading board from disk
+[15:59:43] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Loaded 68 board locations
+[15:59:43] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] CoreProtect not found, disabling Inspect
+[15:59:43] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Enabling Faction Flight!
+[15:59:43] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Enabling FactionsTop command, this is a very basic /f top please get a dedicated /f top resource if you want land calculation etc.
+[15:59:43] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Economy integration through Vault plugin successful.
+[15:59:43] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] Minecraft Version 1.9 or higher found, using non packet based particle API
+[15:59:43] [Server thread/INFO]:   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-
+[15:59:43] [Server thread/INFO]:  / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \
+[15:59:43] [Server thread/INFO]: `-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'
+[15:59:43] [Server thread/INFO]: You are using an unstable version of the plugin!
+[15:59:43] [Server thread/INFO]: This comes with risks of small bugs in newer features!
+[15:59:43] [Server thread/INFO]: For support head to: https://github.com/ProSavage/SavageFactions/issues
+[15:59:43] [Server thread/INFO]:   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-.   .-.-
+[15:59:43] [Server thread/INFO]:  / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \ \ / / \
+[15:59:43] [Server thread/INFO]: `-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'   `-`-'
+[15:59:43] [Server thread/INFO]: [Factions] [Factions v1.6.9.5-U0.2.1-RC-1.6.2-RC-2.2-BETA] === ENABLE DONE (Took 919ms) ===
+[15:59:43] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.0.0
+[15:59:43] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[15:59:43] [Server thread/INFO]: [Plan] Enabling Plan v4.8.6
+[15:59:44] [Server thread/INFO]: [Plan] Locale: 'English' by Rsl1122
+[15:59:44] [Server thread/INFO]: [0;32;1m----------------------------------------[m
+[15:59:44] [Server thread/INFO]: [0;32;1mNew Release (4.8.7) is available https://github.com/plan-player-analytics/Plan/releases/tag/4.8.7[m
+[15:59:44] [Server thread/INFO]: [0;32;1m----------------------------------------[m
+[15:59:45] [Server thread/INFO]: [Plan] H2-database connection established.
+[15:59:45] [Server thread/INFO]: [0;33;1mWebServer: Certificate KeyStore File not Found: plugins/Plan/Cert.jks[m
+[15:59:45] [Server thread/INFO]: [Plan] WebServer: No Certificate -> Using HTTP-server for Visualization.
+[15:59:45] [Server thread/INFO]: [0;33;1mWebServer: User Authorization Disabled! (Not secure over HTTP)[m
+[15:59:45] [Server thread/INFO]: [Plan] Webserver running on PORT 8804 (http://:8804)
+[15:59:45] [Server thread/INFO]: [0;33;1mIP in server.properties is empty & AlternativeIP is not in use. Incorrect links will be given![m
+[15:59:46] [Server thread/INFO]: [Plan] Player Analytics Enabled. (2006 ms)
+[15:59:46] [Server thread/INFO]: [RandomTP] Enabling RandomTP v1.0.7.2
+[15:59:46] [Server thread/INFO]: [0;37;1m[[0;31;1m[21mRandomTP[0;37;1m]  [0;32;1m[0;36;1mLinked with WorldGuard[m
+[15:59:46] [Server thread/INFO]: [0;37;1m[[0;31;1m[21mRandomTP[0;37;1m]  [0;32;1m[0;36;1mLinked with Factions[m
+[15:59:46] [Server thread/INFO]: [0;37;1m[[0;31;1m[21mRandomTP[0;37;1m]  [0;32;1m[0;32;22mThe plugin has been sucessfully enabled![m
+[15:59:46] [Server thread/INFO]: [Multiverse-NetherPortals] Enabling Multiverse-NetherPortals v4.0.0-b757
+[15:59:46] [Server thread/INFO]: [Multiverse-NetherPortals] - Version 4.0.0-b757 Enabled - By Rigby and fernferret
+[15:59:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:59:47] [Server thread/INFO]: Done (56.514s)! For help, type "help"
+[15:59:47] [Craft Scheduler Thread - 1/INFO]: [0;36;1m[Matrix] [0;37;22mStart checking update....[m
+[15:59:47] [Craft Scheduler Thread - 5/INFO]: [0;36;1m[Matrix] [0;37;22mPlugin Enabled[m
+[15:59:47] [Craft Scheduler Thread - 6/INFO]: [Vault] Checking for Updates ... 
+[15:59:47] [Craft Scheduler Thread - 4/INFO]: [0;36;1m[Matrix] [0;37;22m(Machine Learning) You are using the latest machine learning models[m
+[15:59:47] [Craft Scheduler Thread - 1/INFO]: [0;31;1mMatrix has an update: [0;37;1m2.0.8[0;31;1m, Please download it from spigotmc.org[m
+[15:59:47] [Craft Scheduler Thread - 1/INFO]: [0;31;1mMatrix has an update: [0;37;1m2.0.8[0;31;1m, Please download it from spigotmc.org[m
+[15:59:47] [Craft Scheduler Thread - 1/INFO]: [0;31;1mMatrix has an update: [0;37;1m2.0.8[0;31;1m, Please download it from spigotmc.org[m
+[15:59:47] [Craft Scheduler Thread - 6/INFO]: [Vault] No new version available
+[16:00:19] [Plan Non critical-pool-1/ERROR]: [Plan] A PluginData-source caused an exception: Factions, you can disable the integration under 'Plugins.Factions.Enabled'
+[16:00:19] [Plan Non critical-pool-1/WARN]: [Plan] Error was caught by com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator
 java.lang.NoClassDefFoundError: com/massivecraft/factions/entity/FactionColl
 	at com.djrapitops.pluginbridge.plan.factions.FactionsData.getTopFactions(FactionsData.java:128) ~[?:?]
 	at com.djrapitops.pluginbridge.plan.factions.FactionsData.getServerData(FactionsData.java:92) ~[?:?]
@@ -60,158 +587,10 @@ java.lang.NoClassDefFoundError: com/massivecraft/factions/entity/FactionColl
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_212]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_212]
 	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
-[00:20:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:21:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:21:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[00:28:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:28:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:29:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[00:35:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:36:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:36:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[00:43:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:44:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:44:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[00:51:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:51:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:52:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[00:58:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[00:59:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[00:59:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[01:00:19] [User Authenticator #7/INFO]: UUID of player Alfronswig is 5af85cf9-bae4-40a9-afd5-fee1a478157a
-[01:00:20] [Server thread/INFO]: Alfronswig[/62.64.215.170:64864] logged in with entity id 19795 at ([world]-541.9080687497246, 92.575838827861, -497.6764771025029)
-[01:00:25] [Server thread/INFO]: Alfronswig issued server command: /day
-[01:05:01] [Server thread/INFO]: Alfronswig issued server command: //set gras
-[01:05:07] [Server thread/INFO]: Alfronswig issued server command: //set minecraft:grass_block
-[01:06:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:07:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:07:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[01:11:07] [Server thread/INFO]: Alfronswig issued server command: /day
-[01:14:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:14:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:15:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[01:17:20] [Plan Non critical-pool-2/ERROR]: [Plan] A PluginData-source caused an exception: Factions, you can disable the integration under 'Plugins.Factions.Enabled'
-[01:17:20] [Plan Non critical-pool-2/WARN]: [Plan] Error was caught by com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator
-java.lang.NoClassDefFoundError: com/massivecraft/factions/entity/FactionColl
-	at com.djrapitops.pluginbridge.plan.factions.FactionsData.getTopFactions(FactionsData.java:128) ~[?:?]
-	at com.djrapitops.pluginbridge.plan.factions.FactionsData.getServerData(FactionsData.java:92) ~[?:?]
-	at com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator.lambda$analyzeAdditionalPluginData$0(AnalysisPluginsTabContentCreator.java:91) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:1.8.0_212]
-	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1382) ~[?:1.8.0_212]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) ~[?:1.8.0_212]
-	at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:291) ~[?:1.8.0_212]
-	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731) ~[?:1.8.0_212]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_212]
-	at java.util.concurrent.ForkJoinTask.doInvoke(ForkJoinTask.java:401) ~[?:1.8.0_212]
-	at java.util.concurrent.ForkJoinTask.invoke(ForkJoinTask.java:734) ~[?:1.8.0_212]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:160) ~[?:1.8.0_212]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:174) ~[?:1.8.0_212]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233) ~[?:1.8.0_212]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418) ~[?:1.8.0_212]
-	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:583) ~[?:1.8.0_212]
-	at com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator.analyzeAdditionalPluginData(AnalysisPluginsTabContentCreator.java:85) ~[?:?]
-	at com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator.createContent(AnalysisPluginsTabContentCreator.java:151) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.AnalysisContainer.lambda$addPluginSuppliers$134(AnalysisContainer.java:498) ~[?:?]
-	at com.djrapitops.plan.data.store.CachingSupplier.get(CachingSupplier.java:50) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.SupplierDataContainer.getUnsafe(SupplierDataContainer.java:106) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.DynamicDataContainer.getUnsafe(DynamicDataContainer.java:80) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.AnalysisContainer.lambda$addPluginSuppliers$137(AnalysisContainer.java:503) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.SupplierDataContainer.getValue(SupplierDataContainer.java:94) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.DynamicDataContainer.getValue(DynamicDataContainer.java:71) ~[?:?]
-	at com.djrapitops.plan.utilities.formatting.PlaceholderReplacer.addPlaceholderFrom(PlaceholderReplacer.java:35) ~[?:?]
-	at com.djrapitops.plan.utilities.formatting.PlaceholderReplacer.addAllPlaceholdersFrom(PlaceholderReplacer.java:40) ~[?:?]
-	at com.djrapitops.plan.utilities.html.pages.AnalysisPage.pluginsTabs(AnalysisPage.java:132) ~[?:?]
-	at com.djrapitops.plan.utilities.html.pages.AnalysisPage.toHtml(AnalysisPage.java:91) ~[?:?]
-	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.analyseAndGetHtml(GenerateAnalysisPageRequest.java:128) ~[?:?]
-	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.generateAndCache(GenerateAnalysisPageRequest.java:113) ~[?:?]
-	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.lambda$null$1(GenerateAnalysisPageRequest.java:105) ~[?:?]
-	at com.djrapitops.plan.system.info.connection.WebExceptionLogger.logIfOccurs(WebExceptionLogger.java:57) ~[?:?]
-	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.lambda$handleRequest$2(GenerateAnalysisPageRequest.java:105) ~[?:?]
-	at com.djrapitops.plan.system.processing.Processing.lambda$submitNonCritical$0(Processing.java:73) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1590) [?:1.8.0_212]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_212]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_212]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
-[01:20:45] [Server thread/INFO]: Alfronswig issued server command: /day
-[01:21:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:22:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:22:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[01:29:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:30:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:30:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 83 Entities![m
-[01:31:00] [Server thread/INFO]: Alfronswig issued server command: /day
-[01:33:18] [Server thread/INFO]: Alfronswig has made the advancement [Bring Home the Beacon]
-[01:34:04] [Server thread/INFO]: Alfronswig lost connection: Disconnected
-[01:34:05] [Server thread/INFO]: Alfronswig left the game
-[01:37:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:37:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:38:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[01:44:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:45:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:45:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[01:52:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[01:53:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[01:53:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[02:00:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:00:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:01:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 2 Entities![m
-[02:07:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:08:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:08:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[02:15:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:16:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:16:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[02:17:20] [Plan Non critical-pool-5/ERROR]: [Plan] A PluginData-source caused an exception: Factions, you can disable the integration under 'Plugins.Factions.Enabled'
-[02:17:20] [Plan Non critical-pool-5/WARN]: [Plan] Error was caught by com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator
-java.lang.NoClassDefFoundError: com/massivecraft/factions/entity/FactionColl
-	at com.djrapitops.pluginbridge.plan.factions.FactionsData.getTopFactions(FactionsData.java:128) ~[?:?]
-	at com.djrapitops.pluginbridge.plan.factions.FactionsData.getServerData(FactionsData.java:92) ~[?:?]
-	at com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator.lambda$analyzeAdditionalPluginData$0(AnalysisPluginsTabContentCreator.java:91) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:184) ~[?:1.8.0_212]
-	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1382) ~[?:1.8.0_212]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:482) ~[?:1.8.0_212]
-	at java.util.stream.ForEachOps$ForEachTask.compute(ForEachOps.java:291) ~[?:1.8.0_212]
-	at java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:731) ~[?:1.8.0_212]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289) ~[?:1.8.0_212]
-	at java.util.concurrent.ForkJoinTask.doInvoke(ForkJoinTask.java:401) ~[?:1.8.0_212]
-	at java.util.concurrent.ForkJoinTask.invoke(ForkJoinTask.java:734) ~[?:1.8.0_212]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateParallel(ForEachOps.java:160) ~[?:1.8.0_212]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateParallel(ForEachOps.java:174) ~[?:1.8.0_212]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:233) ~[?:1.8.0_212]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:418) ~[?:1.8.0_212]
-	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:583) ~[?:1.8.0_212]
-	at com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator.analyzeAdditionalPluginData(AnalysisPluginsTabContentCreator.java:85) ~[?:?]
-	at com.djrapitops.plan.utilities.html.structure.AnalysisPluginsTabContentCreator.createContent(AnalysisPluginsTabContentCreator.java:151) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.AnalysisContainer.lambda$addPluginSuppliers$134(AnalysisContainer.java:498) ~[?:?]
-	at com.djrapitops.plan.data.store.CachingSupplier.get(CachingSupplier.java:50) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.SupplierDataContainer.getUnsafe(SupplierDataContainer.java:106) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.DynamicDataContainer.getUnsafe(DynamicDataContainer.java:80) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.AnalysisContainer.lambda$addPluginSuppliers$137(AnalysisContainer.java:503) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.SupplierDataContainer.getValue(SupplierDataContainer.java:94) ~[?:?]
-	at com.djrapitops.plan.data.store.containers.DynamicDataContainer.getValue(DynamicDataContainer.java:71) ~[?:?]
-	at com.djrapitops.plan.utilities.formatting.PlaceholderReplacer.addPlaceholderFrom(PlaceholderReplacer.java:35) ~[?:?]
-	at com.djrapitops.plan.utilities.formatting.PlaceholderReplacer.addAllPlaceholdersFrom(PlaceholderReplacer.java:40) ~[?:?]
-	at com.djrapitops.plan.utilities.html.pages.AnalysisPage.pluginsTabs(AnalysisPage.java:132) ~[?:?]
-	at com.djrapitops.plan.utilities.html.pages.AnalysisPage.toHtml(AnalysisPage.java:91) ~[?:?]
-	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.analyseAndGetHtml(GenerateAnalysisPageRequest.java:128) ~[?:?]
-	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.generateAndCache(GenerateAnalysisPageRequest.java:113) ~[?:?]
-	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.lambda$null$1(GenerateAnalysisPageRequest.java:105) ~[?:?]
-	at com.djrapitops.plan.system.info.connection.WebExceptionLogger.logIfOccurs(WebExceptionLogger.java:57) ~[?:?]
-	at com.djrapitops.plan.system.info.request.GenerateAnalysisPageRequest.lambda$handleRequest$2(GenerateAnalysisPageRequest.java:105) ~[?:?]
-	at com.djrapitops.plan.system.processing.Processing.lambda$submitNonCritical$0(Processing.java:73) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1590) [?:1.8.0_212]
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_212]
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_212]
-	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
-[02:23:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:23:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:24:00] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 1 Entities![m
-[02:30:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:31:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:31:40] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[02:38:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m60 [0;31;1mseconds![m
-[02:39:00] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mWarning Ground items will be removed in [0;37;22m20 [0;31;1mseconds![m
-[02:39:20] [Server thread/INFO]: [0;33;22m[ClearLag] [0;32;1mRemoved 0 Entities![m
-[02:43:40] [Server thread/INFO]: CONSOLE issued server command: /list 
-[02:43:40] [Server thread/INFO]: [0;33;22mThere are [0;31;1m0[0;33;22m out of maximum [0;31;1m50[0;33;22m players online.[m
-[02:43:41] [Thread-3/INFO]: Stopping server
+Caused by: java.lang.ClassNotFoundException: com.massivecraft.factions.entity.FactionColl
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382) ~[?:1.8.0_212]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:135) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:81) ~[spigot-1.14.3.jar:git-Spigot-d05d3c1-a2275f1]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_212]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_212]
+	... 39 more

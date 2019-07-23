@@ -1,21 +1,22 @@
 lastAccountName: Naxtinguisher
 timestamps:
-  login: 1563298466071
-  logout: 1563298618528
+  login: 1563730782049
+  logout: 1563730782676
+  lastteleport: 1563385207498
 ipAddress: 86.0.130.63
 geolocation: United Kingdom
 lastlocation:
-  world: survival
-  x: -248.08613026987052
-  y: 30.0
-  z: 35.56464546080537
-  yaw: 124.499
-  pitch: 22.20005
-money: '0.0'
+  world: Lobby-World
+  x: 0.4661253974971116
+  y: 51.0
+  z: 0.4938547201840333
+  yaw: -8.622028
+  pitch: 29.264069
+money: '1180.0'
 logoutlocation:
   world: survival
-  x: -1012.1381070282674
-  y: 70.99024578541015
-  z: -160.5621679109709
-  yaw: 126.76063
-  pitch: 18.899975
+  x: -325.69433299275033
+  y: 66.0
+  z: 28.183859935535114
+  yaw: 73.804306
+  pitch: 27.149986

@@ -1,23 +1,23 @@
-money: '0.0'
+money: '5760000.0'
 lastAccountName: Alfronswig
 timestamps:
-  login: 1563325220305
-  lastteleport: 1563312615153
-  logout: 1563327244990
+  login: 1563755062878
+  lastteleport: 1563664914338
+  logout: 1563755242984
 ipAddress: 62.64.215.170
 lastlocation:
   world: survival
-  x: -135.99835712380755
-  y: 76.33494267794326
-  z: -229.01802542611193
-  yaw: 296.85034
-  pitch: 25.050007
+  x: 985.3000000119209
+  y: 11.0
+  z: 1011.1124935725176
+  yaw: -354.33862
+  pitch: 17.137047
 logoutlocation:
-  world: world
-  x: -570.5446320646513
-  y: 60.71560823231375
-  z: -544.0283410282854
-  yaw: 279.91064
-  pitch: 20.399973
+  world: survival
+  x: 953.3000000119209
+  y: 33.0
+  z: 1081.8578282527626
+  yaw: -169.86098
+  pitch: 20.099962
 afk: false
 nickname: Alfronswig

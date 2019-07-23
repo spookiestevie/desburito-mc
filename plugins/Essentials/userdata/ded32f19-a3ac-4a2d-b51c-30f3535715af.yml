@@ -1,0 +1,22 @@
+lastAccountName: ninjaharg
+timestamps:
+  login: 1563848660599
+  logout: 1563852849512
+  lastteleport: 1563759244937
+ipAddress: 104.159.179.53
+geolocation: United States
+lastlocation:
+  world: world_nether
+  x: -201.11530638797285
+  y: 51.41999998688698
+  z: -61.8738567774061
+  yaw: 119.39916
+  pitch: -90.0
+money: '0.0'
+logoutlocation:
+  world: world
+  x: -745.7481581271796
+  y: 63.0
+  z: 127.31128303617064
+  yaw: -120.807495
+  pitch: 3.2998633

@@ -1,0 +1,22 @@
+geolocation: United Kingdom
+lastAccountName: MR_SQUEAKY
+timestamps:
+  login: 1563385968722
+  lastteleport: 1563384994384
+  logout: 1563386247373
+ipAddress: 51.7.164.65
+lastlocation:
+  world: survival
+  x: 364.75466323040723
+  y: 12.0
+  z: -465.74525279865696
+  yaw: 131.1958
+  pitch: 20.348257
+money: '0.0'
+logoutlocation:
+  world: survival
+  x: 365.1802631490994
+  y: 13.0
+  z: -454.07991401893264
+  yaw: 122.35907
+  pitch: 25.221153

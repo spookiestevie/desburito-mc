@@ -1,0 +1,21 @@
+geolocation: Netherlands
+lastAccountName: jojamall
+timestamps:
+  login: 1563455128918
+  logout: 1563455648674
+ipAddress: 80.56.68.198
+lastlocation:
+  world: world
+  x: -502.5
+  y: 83.0
+  z: -215.5
+  yaw: 315.0
+  pitch: 0.32322073
+money: '0.0'
+logoutlocation:
+  world: survival
+  x: -167.34070675575154
+  y: 19.0
+  z: -403.41973028132145
+  yaw: -92.96503
+  pitch: -29.933014

@@ -1,3 +1,1101 @@
 (00:01:25) Dxwsxn failed Velocity check | suspicious reduce the knockback distance | type: delay | val: 0.0 val2: true val3: true (+1) | vl:1 ping:36 tps:20.0 component: vel.delay
 (00:02:13) XCL failed KillAura check | auto clicker | delay | d: 46,a: 147 | var: 150 (+3) | vl:3 ping:37 tps:20.0 component: ka.autoclicker.delay
 (00:07:06) XCL failed FastUse check | fast use (+1) | vl:1 ping:45 tps:20.0 component: fastuse
+(02:55:33) Matrix Enabled!
+(02:55:33) Version: 2.0.5
+(11:11:17) mijanto failed Speed check | t: spin (+1) | vl:1 ping:77 tps:20.0 component: speed.spin
+(12:43:17) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:0 tps:20.0 component: packet.timer.main
+(12:43:21) Naxtinguisher failed FastUse check | fast use (+1) | vl:1 ping:0 tps:19.83 component: fastuse
+(12:43:30) Naxtinguisher failed Speed check | faster than expected | t-a | 0.308 > 0.2873 | val: false (+9) | vl:9 ping:0 tps:20.0 component: speed.main
+(12:43:30) Naxtinguisher failed Speed check | faster than expected | t-a | 0.329 > 0.2873 | val: false (+9) | vl:18 ping:0 tps:20.0 component: speed.main
+(12:43:30) Naxtinguisher failed Speed check | faster than expected | t-a | 0.348 > 0.2873 | val: false (+9) | vl:27 ping:0 tps:20.0 component: speed.main
+(12:43:30) Naxtinguisher failed Speed check | faster than expected | t-a | 0.366 > 0.2873 | val: false (+9) | vl:36 ping:0 tps:20.0 component: speed.main
+(12:43:30) Naxtinguisher failed Speed check | faster than expected | t-a | 0.382 > 0.2873 | val: false (+9) | vl:45 ping:0 tps:20.0 component: speed.main
+(12:43:32) Naxtinguisher failed Speed check | faster than expected | t-a | 0.295 > 0.2873 | val: false (+9) | vl:54 ping:0 tps:20.0 component: speed.main
+(12:43:32) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:63 ping:0 tps:20.0 component: speed.main
+(12:43:33) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:72 ping:0 tps:20.0 component: speed.main
+(12:43:33) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:81 ping:0 tps:20.0 component: speed.main
+(12:43:34) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:90 ping:0 tps:20.0 component: speed.main
+(12:43:34) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:99 ping:0 tps:20.0 component: speed.main
+(12:43:35) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:108 ping:0 tps:20.0 component: speed.main
+(12:43:35) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:117 ping:0 tps:20.0 component: speed.main
+(12:43:35) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:126 ping:0 tps:20.0 component: speed.main
+(12:43:36) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:135 ping:0 tps:20.0 component: speed.main
+(12:43:38) Naxtinguisher failed Speed check | faster than expected | t-a | 0.361 > 0.2873 | val: false (+9) | vl:144 ping:0 tps:20.0 component: speed.main
+(12:43:40) Naxtinguisher failed Speed check | faster than expected | t-a | 0.309 > 0.2873 | val: false (+9) | vl:153 ping:36 tps:20.0 component: speed.main
+(12:43:41) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:162 ping:36 tps:20.0 component: speed.main
+(12:43:43) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:36 tps:20.0 component: packet.timer.main
+(12:43:57) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:36 tps:20.0 component: packet.timer.main
+(12:44:05) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:36 tps:20.0 component: packet.timer.main
+(12:44:12) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:1 ping:29 tps:20.0 component: ka.simple
+(12:44:12) Naxtinguisher failed Block check | abort breaking | dig | block at: -1092.0,68.0,-207.0 type: GRASS_BLOCK (+0) | vl:0 ping:29 tps:20.0 component: block.abort
+(12:44:16) Naxtinguisher failed KillAura check | simple packet pattern | var: 1 (+1) | vl:2 ping:29 tps:20.0 component: ka.simple
+(12:44:16) Naxtinguisher failed KillAura check | simple packet pattern | var: 2 (+1) | vl:3 ping:29 tps:20.0 component: ka.simple
+(12:44:16) Naxtinguisher failed HitBox check | reach: 5.066677511143858 expected: 4.811531027533624 (+1) | vl:1 ping:29 tps:20.0 component: hb.reach.simple
+(12:44:19) Naxtinguisher failed KillAura check | simple packet pattern | var: 4 (+1) | vl:4 ping:29 tps:20.0 component: ka.simple
+(12:44:21) Naxtinguisher failed BadPackets check | send 44 moving packets per second (2.0) [22] (+0) | vl:0 ping:29 tps:20.0 component: packet.timer.main
+(12:44:21) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:5 ping:29 tps:20.0 component: ka.simple
+(12:44:21) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:6 ping:29 tps:20.0 component: ka.simple
+(12:44:21) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:7 ping:29 tps:20.0 component: ka.simple
+(12:44:23) Naxtinguisher failed BadPackets check | send 50 moving packets per second (1.19) [42] (+0) | vl:0 ping:29 tps:10.21 component: packet.timer.main
+(12:44:27) Naxtinguisher failed BadPackets check | send 27 moving packets per second [26/615/614] (+1) | vl:1 ping:29 tps:18.72 component: packet.timer.main
+(12:44:28) Naxtinguisher failed BadPackets check | send 28 moving packets per second [22/615/614] (+1) | vl:2 ping:29 tps:20.0 component: packet.timer.main
+(12:44:28) Naxtinguisher failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:2 ping:29 tps:20.0 component: packet.timer.main
+(12:44:33) Naxtinguisher failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:2 ping:29 tps:20.0 component: packet.timer.main
+(12:44:33) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:1 ping:29 tps:20.0 component: ka.simple
+(12:44:33) Naxtinguisher failed KillAura check | heuristic check | pattern: #2 | val: 78.75003051757812/78.75003051757812 (+2) | vl:3 ping:29 tps:20.0 component: ka.heuristic
+(12:44:33) Naxtinguisher failed HitBox check | angle (angle:102.50213384628296 ,reach: 1.537599130041718 ) (+1) | vl:1 ping:29 tps:20.0 component: hb.angle
+(12:44:35) Naxtinguisher failed BadPackets check | send 39 moving packets per second (1.773) [22] (+0) | vl:2 ping:29 tps:20.0 component: packet.timer.main
+(12:44:35) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:4 ping:29 tps:20.0 component: ka.simple
+(12:44:35) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:5 ping:29 tps:20.0 component: ka.simple
+(12:44:35) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:6 ping:29 tps:20.0 component: ka.simple
+(12:44:35) Naxtinguisher failed KillAura check | heuristic check | pattern: #2 | val: 78.75003051757812/78.75003051757812 (+2) | vl:8 ping:29 tps:20.0 component: ka.heuristic
+(12:44:35) Naxtinguisher failed BadPackets check | send 23 moving packets per second [22/636/614] (+1) | vl:3 ping:29 tps:20.0 component: packet.timer.main
+(12:44:35) Naxtinguisher failed BadPackets check | send 24 moving packets per second [22/636/614] (+1) | vl:4 ping:29 tps:20.0 component: packet.timer.main
+(12:44:35) Naxtinguisher failed BadPackets check | send 25 moving packets per second [22/636/614] (+1) | vl:5 ping:29 tps:20.0 component: packet.timer.main
+(12:44:37) Naxtinguisher failed BadPackets check | send 26 moving packets per second [22/636/614] (+1) | vl:6 ping:29 tps:19.95 component: packet.timer.main
+(12:44:37) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:6 ping:29 tps:19.95 component: packet.timer.main
+(12:44:37) Naxtinguisher failed BadPackets check | send too much moving packets (1.051) [662/30] (+10) | vl:16 ping:29 tps:19.95 component: packet.timer.main
+(12:44:38) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:9 ping:29 tps:20.0 component: ka.simple
+(12:44:38) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:10 ping:29 tps:20.0 component: ka.simple
+(12:44:38) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:11 ping:29 tps:20.0 component: ka.simple
+(12:44:38) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:12 ping:29 tps:20.0 component: ka.simple
+(12:44:38) Naxtinguisher failed KillAura check | heuristic check | pattern: #2 | val: 27.749908447265625/27.749908447265625 (+2) | vl:14 ping:29 tps:20.0 component: ka.heuristic
+(12:44:38) Naxtinguisher failed KillAura check | heuristic check | pattern: #2 | val: 27.749908447265625/27.749908447265625 (+2) | vl:16 ping:29 tps:20.0 component: ka.heuristic
+(12:44:38) Naxtinguisher failed KillAura check | heuristic check | pattern: #2 | val: 27.749908447265625/27.749908447265625 (+2) | vl:18 ping:29 tps:20.0 component: ka.heuristic
+(12:44:38) Naxtinguisher failed HitBox check | reach: 5.463212058970412 expected: 5.065149049747007 (+1) | vl:2 ping:29 tps:20.0 component: hb.reach.simple
+(12:44:43) Synchro99 failed Fly check | ground spoof | tag: fake air packet | loc: -272.491,72.0,-14.606 (+2) | vl:2 ping:209 tps:20.0 component: fly.fg.air
+(12:44:43) Naxtinguisher failed BadPackets check | send 32 moving packets per second (1.455) [22] (+0) | vl:16 ping:31 tps:20.0 component: packet.timer.main
+(12:44:52) Naxtinguisher failed FastUse check | fast use (+1) | vl:1 ping:31 tps:20.0 component: fastuse
+(12:44:54) Naxtinguisher failed FastHeal check | regen health too fast | difficulty: 2 delay: 329 protocol_ver: 14 (+2) | vl:2 ping:31 tps:20.0 component: heal
+(12:44:54) Naxtinguisher failed FastHeal check | regen health too fast | difficulty: 2 delay: 190 protocol_ver: 14 (+2) | vl:4 ping:31 tps:20.0 component: heal
+(12:45:03) Naxtinguisher failed FastUse check | fast use (+1) | vl:2 ping:31 tps:20.0 component: fastuse
+(12:45:08) Naxtinguisher failed Speed check | faster than expected | t-a | 0.327 > 0.2873 | val: true (+9) | vl:21 ping:31 tps:20.0 component: speed.main
+(12:45:08) Naxtinguisher failed Speed check | faster than expected | t-a | 0.395 > 0.2873 | val: true (+9) | vl:30 ping:31 tps:20.0 component: speed.main
+(12:45:08) Naxtinguisher failed Speed check | faster than expected | t-a | 0.458 > 0.2873 | val: true (+9) | vl:39 ping:31 tps:20.0 component: speed.main
+(12:45:09) Naxtinguisher failed Speed check | faster than expected | t-a | 0.342 > 0.2873 | val: true (+9) | vl:48 ping:31 tps:20.0 component: speed.main
+(12:45:10) Synchro99 failed Fly check | ground spoof | tag: fake air packet | loc: -150.481,64.0,-227.494 (+3) | vl:3 ping:172 tps:20.0 component: fly.fg.air
+(12:45:16) Naxtinguisher failed FastUse check | fast use (+1) | vl:3 ping:36 tps:20.0 component: fastuse
+(12:45:23) Naxtinguisher failed BadPackets check | send 39 moving packets per second (1.773) [22] (+0) | vl:0 ping:36 tps:20.0 component: packet.timer.main
+(12:45:37) Naxtinguisher failed BadPackets check | send 29 moving packets per second (1.318) [22] (+0) | vl:0 ping:36 tps:20.0 component: packet.timer.main
+(12:45:43) Naxtinguisher failed BadPackets check | send 29 moving packets per second (1.318) [22] (+0) | vl:0 ping:36 tps:20.0 component: packet.timer.main
+(12:45:45) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:36 tps:19.98 component: packet.timer.main
+(12:45:48) Synchro99 failed KillAura check | machine learning | m: #10,72,7 | amount: 2 | version: 6 (+19) | vl:19 ping:172 tps:20.0 component: ka.ml
+(12:46:03) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -150.481,64.0,-227.494 (+4) | vl:4 ping:36 tps:17.51 component: fly.fg.air
+(12:46:17) Synchro99 failed Fly check | ground spoof | tag: fake air packet | loc: -1074.5,67.0,-231.5 (+1) | vl:1 ping:329 tps:20.0 component: fly.fg.air
+(12:46:19) Naxtinguisher failed BadPackets check | send 31 moving packets per second (1.409) [22] (+0) | vl:0 ping:33 tps:20.0 component: packet.timer.main
+(12:46:21) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.136) [22] (+0) | vl:0 ping:33 tps:20.0 component: packet.timer.main
+(12:46:36) Naxtinguisher failed BadPackets check | send 37 moving packets per second (1.682) [22] (+0) | vl:0 ping:33 tps:20.0 component: packet.timer.main
+(12:46:37) Naxtinguisher failed BadPackets check | send 31 moving packets per second (1.409) [22] (+0) | vl:0 ping:33 tps:20.0 component: packet.timer.main
+(12:46:42) Naxtinguisher failed BadPackets check | send 32 moving packets per second (1.455) [22] (+0) | vl:0 ping:33 tps:20.0 component: packet.timer.main
+(12:46:52) Synchro99 failed Chat check | chat too fast | delay: 1959 (+1) | vl:1 ping:162 tps:20.0 component: chat.delay
+(12:47:09) Synchro99 failed Chat check | chat too fast | delay: 2080 (+1) | vl:2 ping:162 tps:20.0 component: chat.delay
+(12:47:51) Naxtinguisher failed BadPackets check | send 33 moving packets per second (1.5) [22] (+0) | vl:0 ping:33 tps:20.0 component: packet.timer.main
+(12:48:00) Naxtinguisher failed BadPackets check | send 33 moving packets per second (1.5) [22] (+0) | vl:0 ping:33 tps:20.0 component: packet.timer.main
+(12:48:11) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:33 tps:20.0 component: packet.timer.main
+(12:48:25) Naxtinguisher failed BadPackets check | send 32 moving packets per second (1.455) [22] (+0) | vl:0 ping:35 tps:20.0 component: packet.timer.main
+(12:48:39) Naxtinguisher failed BadPackets check | send 33 moving packets per second (1.5) [22] (+0) | vl:0 ping:35 tps:20.0 component: packet.timer.main
+(12:48:40) Naxtinguisher failed KillAura check | simple packet pattern | var: 4 (+1) | vl:1 ping:35 tps:20.0 component: ka.simple
+(12:49:06) Naxtinguisher failed BadPackets check | send 91 moving packets per second (2.167) [42] (+0) | vl:0 ping:773 tps:19.73 component: packet.timer.main
+(12:49:07) Naxtinguisher failed BadPackets check | send too much moving packets (1.067) [672/30] (+3) | vl:3 ping:773 tps:20.0 component: packet.timer.main
+(12:49:08) Naxtinguisher failed Speed check | faster than expected | t-b | 1.685 > 0.429 | t: 7 | vd: 0.0 (+5) | vl:5 ping:773 tps:20.0 component: speed.main
+(12:49:12) Naxtinguisher failed KillAura check | pitch pattern | s: 0.32928994 , d: 169 (+1) | vl:1 ping:773 tps:20.0 component: ka.pitch
+(12:49:15) Naxtinguisher failed BadPackets check | send 49 moving packets per second (1.167) [42] (+0) | vl:3 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:15) Naxtinguisher failed BadPackets check | send too much moving packets (1.086) [684/30] (+3) | vl:6 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 88 moving packets per second (2.095) [42] (+0) | vl:0 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send too much moving packets (1.152) [726/30] (+3) | vl:3 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 43 moving packets per second [42/true] (+1) | vl:4 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 44 moving packets per second [42/true] (+1) | vl:5 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 45 moving packets per second [42/true] (+1) | vl:6 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 46 moving packets per second [42/true] (+1) | vl:7 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 47 moving packets per second [42/true] (+1) | vl:8 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 48 moving packets per second [42/true] (+1) | vl:9 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 49 moving packets per second [42/true] (+1) | vl:10 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 50 moving packets per second [42/true] (+1) | vl:11 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 51 moving packets per second [42/true] (+1) | vl:12 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 52 moving packets per second [42/true] (+1) | vl:13 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 53 moving packets per second [42/true] (+1) | vl:14 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 54 moving packets per second [42/true] (+1) | vl:15 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 55 moving packets per second [42/true] (+1) | vl:16 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 56 moving packets per second [42/true] (+1) | vl:17 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 57 moving packets per second [42/true] (+1) | vl:18 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 58 moving packets per second [42/true] (+1) | vl:19 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 59 moving packets per second [42/true] (+1) | vl:20 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 60 moving packets per second [42/true] (+1) | vl:21 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 61 moving packets per second [42/true] (+1) | vl:22 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 62 moving packets per second [42/true] (+1) | vl:23 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 63 moving packets per second [42/true] (+1) | vl:24 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 64 moving packets per second [42/true] (+1) | vl:25 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 65 moving packets per second [42/true] (+1) | vl:26 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 66 moving packets per second [42/true] (+1) | vl:27 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 67 moving packets per second [42/true] (+1) | vl:28 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 68 moving packets per second [42/true] (+1) | vl:29 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 69 moving packets per second [42/true] (+1) | vl:30 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 70 moving packets per second [42/true] (+1) | vl:31 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 71 moving packets per second [42/true] (+1) | vl:32 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 72 moving packets per second [42/true] (+1) | vl:33 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 73 moving packets per second [42/true] (+1) | vl:34 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 74 moving packets per second [42/true] (+1) | vl:35 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 75 moving packets per second [42/true] (+1) | vl:36 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 76 moving packets per second [42/true] (+1) | vl:37 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 77 moving packets per second [42/true] (+1) | vl:38 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:34) Naxtinguisher failed BadPackets check | send 78 moving packets per second [42/true] (+1) | vl:39 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 79 moving packets per second [42/true] (+1) | vl:40 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 79 moving packets per second (1.881) [42] (+0) | vl:40 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send too much moving packets (1.246) [785/30] (+3) | vl:43 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 43 moving packets per second [42/true] (+1) | vl:44 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 44 moving packets per second [42/true] (+1) | vl:45 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 45 moving packets per second [42/true] (+1) | vl:46 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 46 moving packets per second [42/true] (+1) | vl:47 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 47 moving packets per second [42/true] (+1) | vl:48 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 48 moving packets per second [42/true] (+1) | vl:49 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 49 moving packets per second [42/true] (+1) | vl:50 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 50 moving packets per second [42/true] (+1) | vl:51 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 51 moving packets per second [42/true] (+1) | vl:52 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 52 moving packets per second [42/true] (+1) | vl:53 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 53 moving packets per second [42/true] (+1) | vl:54 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 54 moving packets per second [42/true] (+1) | vl:55 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 55 moving packets per second [42/true] (+1) | vl:56 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 56 moving packets per second [42/true] (+1) | vl:57 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 57 moving packets per second [42/true] (+1) | vl:58 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 58 moving packets per second [42/true] (+1) | vl:59 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 59 moving packets per second [42/true] (+1) | vl:60 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 60 moving packets per second [42/true] (+1) | vl:61 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 61 moving packets per second [42/true] (+1) | vl:62 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 62 moving packets per second [42/true] (+1) | vl:63 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 63 moving packets per second [42/true] (+1) | vl:64 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 64 moving packets per second [42/true] (+1) | vl:65 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 65 moving packets per second [42/true] (+1) | vl:66 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 66 moving packets per second [42/true] (+1) | vl:67 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 67 moving packets per second [42/true] (+1) | vl:68 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 68 moving packets per second [42/true] (+1) | vl:69 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 69 moving packets per second [42/true] (+1) | vl:70 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 70 moving packets per second [42/true] (+1) | vl:71 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 71 moving packets per second [42/true] (+1) | vl:72 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 72 moving packets per second [42/true] (+1) | vl:73 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 73 moving packets per second [42/true] (+1) | vl:74 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 74 moving packets per second [42/true] (+1) | vl:75 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 75 moving packets per second [42/true] (+1) | vl:76 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 76 moving packets per second [42/true] (+1) | vl:77 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 77 moving packets per second [42/true] (+1) | vl:78 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 78 moving packets per second [42/true] (+1) | vl:79 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 79 moving packets per second [42/true] (+1) | vl:80 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 80 moving packets per second [42/true] (+1) | vl:81 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 81 moving packets per second [42/true] (+1) | vl:82 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 82 moving packets per second [42/true] (+1) | vl:83 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 83 moving packets per second [42/true] (+1) | vl:84 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 84 moving packets per second [42/true] (+1) | vl:85 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 85 moving packets per second [42/true] (+1) | vl:86 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 86 moving packets per second [42/true] (+1) | vl:87 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 87 moving packets per second [42/true] (+1) | vl:88 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:41) Naxtinguisher failed BadPackets check | send 88 moving packets per second [42/true] (+1) | vl:89 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:42) Naxtinguisher failed BadPackets check | send 89 moving packets per second [42/true] (+1) | vl:90 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:42) Naxtinguisher failed BadPackets check | send 89 moving packets per second (2.119) [42] (+0) | vl:90 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:42) Naxtinguisher failed BadPackets check | send too much moving packets (1.356) [854/30] (+3) | vl:93 ping:1186 tps:20.0 component: packet.timer.main
+(12:49:58) Naxtinguisher failed BadPackets check | send too much moving packets (1.198) [755/30] (+3) | vl:96 ping:829 tps:20.0 component: packet.timer.main
+(12:49:59) Naxtinguisher failed BadPackets check | send too much moving packets (1.222) [770/30] (+3) | vl:99 ping:829 tps:20.0 component: packet.timer.main
+(12:49:59) Naxtinguisher failed Speed check | faster than expected | t-a | 1.294 > 0.2873 | val: false (+3) | vl:3 ping:829 tps:20.0 component: speed.main
+(12:50:11) Naxtinguisher failed BadPackets check | send 40 moving packets per second (1.818) [22] (+0) | vl:39 ping:30 tps:20.0 component: packet.timer.main
+(12:50:11) Naxtinguisher failed Block check | abort breaking | dig | block at: -1009.0,68.0,-290.0 type: GRASS_BLOCK (+0) | vl:0 ping:30 tps:20.0 component: block.abort
+(12:50:33) Naxtinguisher failed KillAura check | simple packet pattern | var: 0 (+1) | vl:1 ping:30 tps:20.0 component: ka.simple
+(12:50:40) Naxtinguisher failed KillAura check | heuristic check | pattern: #2 | val: 17.550048828125/17.550048828125 (+2) | vl:3 ping:30 tps:20.0 component: ka.heuristic
+(12:50:46) Naxtinguisher failed FastUse check | fast use (+1) | vl:1 ping:87 tps:20.0 component: fastuse
+(12:50:53) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.087) [23] (+0) | vl:0 ping:87 tps:20.0 component: packet.timer.main
+(12:51:05) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.087) [23] (+0) | vl:0 ping:87 tps:20.0 component: packet.timer.main
+(12:51:05) Synchro99 failed Speed check | sprint direction | move: 0.2785014778574601 angle: 483.4975290298462 (+4) | vl:4 ping:172 tps:20.0 component: speed.sprint
+(12:51:05) Naxtinguisher failed Speed check | faster than expected | t-a | 0.213 (+5) | vl:5 ping:87 tps:20.0 component: speed.ground
+(12:51:05) Naxtinguisher failed Speed check | faster than expected | t-a | 0.208 (+5) | vl:10 ping:87 tps:20.0 component: speed.ground
+(12:52:00) Naxtinguisher failed Speed check | t: spin (+1) | vl:1 ping:80 tps:20.0 component: speed.spin
+(12:52:06) Naxtinguisher failed Speed check | faster than expected | t-a | 0.215 (+5) | vl:5 ping:80 tps:20.0 component: speed.ground
+(12:52:07) Naxtinguisher failed BadPackets check | send 36 moving packets per second (1.565) [23] (+0) | vl:0 ping:80 tps:20.0 component: packet.timer.main
+(12:52:08) Naxtinguisher failed BadPackets check | send 45 moving packets per second (1.957) [23] (+0) | vl:0 ping:80 tps:20.0 component: packet.timer.main
+(12:52:12) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.087) [23] (+0) | vl:0 ping:80 tps:20.0 component: packet.timer.main
+(12:52:15) Naxtinguisher failed BadPackets check | send 45 moving packets per second (1.071) [42] (+0) | vl:0 ping:1230 tps:20.0 component: packet.timer.main
+(12:52:16) Naxtinguisher failed BadPackets check | send 48 moving packets per second (1.143) [42] (+0) | vl:0 ping:1230 tps:20.0 component: packet.timer.main
+(12:52:20) Naxtinguisher failed BadPackets check | send 47 moving packets per second (1.119) [42] (+0) | vl:0 ping:1230 tps:20.0 component: packet.timer.main
+(12:52:22) Naxtinguisher failed BadPackets check | send 45 moving packets per second (1.071) [42] (+0) | vl:0 ping:1230 tps:20.0 component: packet.timer.main
+(12:52:25) Naxtinguisher failed BadPackets check | send 53 moving packets per second (1.262) [42] (+0) | vl:0 ping:1230 tps:20.0 component: packet.timer.main
+(12:52:40) Naxtinguisher failed BadPackets check | send too much moving packets (1.165) [734/30] (+3) | vl:3 ping:1230 tps:20.0 component: packet.timer.main
+(12:52:41) Naxtinguisher failed Speed check | faster than expected | t-c | 2.047 > 0.6235 (+6) | vl:6 ping:1230 tps:20.0 component: speed.main
+(12:52:41) Naxtinguisher failed Speed check | faster than expected | t-d | move: 2.047 mv: 1.252203340253729 (+2) | vl:8 ping:1230 tps:20.0 component: speed.main
+(12:52:41) Naxtinguisher failed Fly check | t:step-1  a=1.252203340253729 b=0.41999998688697815 (+2) | vl:2 ping:1230 tps:20.0 component: speed.step
+(12:52:41) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -897.609,90.0,-414.377 (+1) | vl:3 ping:1230 tps:20.0 component: fly.fg.air
+(12:52:42) Naxtinguisher failed BadPackets check | send too much moving packets (1.192) [751/30] (+10) | vl:13 ping:53 tps:20.0 component: packet.timer.main
+(12:52:43) Naxtinguisher failed Speed check | faster than expected | t-c | 1.831 > 0.6235 (+18) | vl:26 ping:53 tps:20.0 component: speed.main
+(12:52:43) Naxtinguisher failed Speed check | faster than expected | t-d | move: 1.831 mv: 1.252203340253729 (+7) | vl:33 ping:53 tps:20.0 component: speed.main
+(12:52:43) Naxtinguisher failed Fly check | t:step-1  a=1.252203340253729 b=0.41999998688697815 (+8) | vl:11 ping:53 tps:20.0 component: speed.step
+(12:52:43) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -896.895,90.0,-409.854 (+4) | vl:15 ping:53 tps:20.0 component: fly.fg.air
+(12:52:52) Naxtinguisher failed BadPackets check | send 24 moving packets per second [23/671/614] (+1) | vl:14 ping:53 tps:20.0 component: packet.timer.main
+(12:52:52) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.043) [23] (+0) | vl:14 ping:53 tps:20.0 component: packet.timer.main
+(12:52:52) Naxtinguisher failed BadPackets check | send too much moving packets (1.103) [695/30] (+10) | vl:24 ping:53 tps:20.0 component: packet.timer.main
+(12:52:58) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.043) [23] (+0) | vl:24 ping:53 tps:20.0 component: packet.timer.main
+(12:53:07) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.043) [23] (+0) | vl:0 ping:53 tps:20.0 component: packet.timer.main
+(12:53:30) Synchro99 failed BadPackets check | send 36 moving packets per second (1.125) [32] (+0) | vl:0 ping:182 tps:20.0 component: packet.timer.main
+(12:53:40) Naxtinguisher failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(12:53:44) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:35 tps:20.0 component: packet.timer.main
+(12:53:46) Synchro99 failed Chat check | chat too fast | delay: 2399 (+1) | vl:1 ping:182 tps:20.0 component: chat.delay
+(12:54:07) Naxtinguisher failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:35 tps:20.0 component: packet.timer.main
+(12:54:10) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.136) [22] (+0) | vl:0 ping:35 tps:20.0 component: packet.timer.main
+(12:54:12) Naxtinguisher failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:41 tps:20.0 component: packet.timer.main
+(12:54:36) Naxtinguisher failed BadPackets check | send 43 moving packets per second (1.955) [22] (+0) | vl:0 ping:41 tps:19.99 component: packet.timer.main
+(12:54:37) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:41 tps:20.0 component: packet.timer.main
+(12:54:47) Naxtinguisher failed BadPackets check | send 43 moving packets per second (1.024) [42] (+0) | vl:0 ping:591 tps:20.0 component: packet.timer.main
+(12:56:10) Synchro99 failed Block check | fast break | type: b | a:0 b:21 (+3) | vl:3 ping:172 tps:20.0 component: block.fastbreak.time
+(12:56:10) Synchro99 failed Block check | fast break | type: b | a:0 b:21 (+3) | vl:6 ping:172 tps:20.0 component: block.fastbreak.time
+(12:56:10) Synchro99 failed Block check | fast break | type: b | a:0 b:21 (+3) | vl:9 ping:172 tps:20.0 component: block.fastbreak.time
+(12:56:25) Naxtinguisher failed Speed check | faster than expected | t-e | 0.373 > 0.365 | tag: a (+5) | vl:5 ping:59 tps:20.0 component: speed.main
+(12:56:25) Naxtinguisher failed Fly check | t:step-2 | val: 0.7531999805212024 (+7) | vl:7 ping:59 tps:20.0 component: speed.step
+(12:56:25) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -1002.7,76.0,-355.051 (+4) | vl:11 ping:59 tps:20.0 component: fly.fg.air
+(12:56:53) Synchro99 failed HitBox check | angle (angle:154.86684322357178 ,reach: 3.3761681893085522 ) (+1) | vl:1 ping:182 tps:20.0 component: hb.angle
+(12:56:53) Synchro99 failed Interact check | attack entity through walls (+1) | vl:1 ping:182 tps:20.0 component: interact.attack
+(12:57:32) Synchro99 failed KillAura check | yaw pattern | 0.6666666666666666|76 (+2) | vl:2 ping:192 tps:20.0 component: ka.yaw
+(12:57:35) Synchro99 failed Speed check | faster than expected | t-b | 0.439 > 0.429 | t: 5 | vd: 0.02572852356084733 (+4) | vl:4 ping:192 tps:20.0 component: speed.main
+(12:58:30) Synchro99 failed Speed check | faster than expected | t-d | move: 0.316 mv: 0.27512500000000273 (+3) | vl:3 ping:189 tps:20.0 component: speed.main
+(12:58:32) Synchro99 failed HitBox check | angle (angle:131.60980939865112 ,reach: 1.5906147187959523 ) (+1) | vl:1 ping:189 tps:20.0 component: hb.angle
+(12:58:35) Naxtinguisher failed Chat check | chat too fast | delay: 2912 (+1) | vl:1 ping:26 tps:20.0 component: chat.delay
+(12:58:38) Naxtinguisher failed Block check | abort breaking | dig | block at: -992.0,57.0,-351.0 type: STONE (+0) | vl:0 ping:26 tps:20.0 component: block.abort
+(12:59:33) Naxtinguisher failed Block check | abort breaking | dig | block at: -992.0,59.0,-352.0 type: STONE (+0) | vl:0 ping:59 tps:20.0 component: block.abort
+(13:00:58) Synchro99 failed KillAura check | non-human like combat style | confidence: 20.0 (sp) (+5) | vl:5 ping:182 tps:20.0 component: ka.style
+(13:01:02) Naxtinguisher failed Block check | abort breaking | dig | block at: -992.0,59.0,-353.0 type: STONE (+0) | vl:0 ping:33 tps:20.0 component: block.abort
+(13:01:04) Naxtinguisher failed Block check | abort breaking | dig | block at: -992.0,60.0,-352.0 type: SANDSTONE (+0) | vl:0 ping:33 tps:20.0 component: block.abort
+(13:01:14) Synchro99 failed Block check | fast break | type: b | a:0 b:21 (+2) | vl:2 ping:182 tps:20.0 component: block.fastbreak.time
+(13:01:14) Synchro99 failed Block check | fast break | type: b | a:0 b:21 (+2) | vl:4 ping:182 tps:20.0 component: block.fastbreak.time
+(13:01:18) Synchro99 failed Speed check | sprint direction | move: 0.2673824106149924 angle: 402.04527854919434 (+2) | vl:2 ping:182 tps:20.0 component: speed.sprint
+(13:01:18) Naxtinguisher failed Block check | place block faster than expect: RED_CONCRETE / 1 (+0) | vl:0 ping:21 tps:20.0 component: block.fastplace
+(13:01:18) Naxtinguisher failed Block check | scaffold | type: simple (+3) | vl:3 ping:21 tps:20.0 component: block.scaffold.simple
+(13:01:18) Synchro99 failed Speed check | sprint direction | move: 0.2732204352236297 angle: 406.1786699295044 (+2) | vl:4 ping:182 tps:20.0 component: speed.sprint
+(13:01:18) Naxtinguisher failed Fly check | simple flight | tag:#4 | val1:false val2:0.164773281826065 val3:-0.15233518685055708 val4:0 (+0) | vl:0 ping:21 tps:14.85 component: fly.main
+(13:01:24) Naxtinguisher failed Fly check | simple flight | tag:#4 | val1:false val2:0.164773281826065 val3:-0.6491940324389494 val4:0 (+5) | vl:5 ping:21 tps:20.0 component: fly.main
+(13:01:27) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:21 tps:20.0 component: packet.timer.main
+(13:01:32) Naxtinguisher failed Block check | abort breaking | dig | block at: -991.0,56.0,-351.0 type: RED_CONCRETE (+0) | vl:3 ping:21 tps:20.0 component: block.abort
+(13:01:33) Naxtinguisher failed Block check | abort breaking | dig | block at: -991.0,56.0,-351.0 type: RED_CONCRETE (+0) | vl:3 ping:21 tps:20.0 component: block.abort
+(13:01:54) Naxtinguisher failed BadPackets check | send 42 moving packets per second (1.556) [27] (+0) | vl:0 ping:179 tps:20.0 component: packet.timer.main
+(13:01:54) Naxtinguisher failed Speed check | faster than expected | t-e | 0.674 > 0.365 | tag: a (+4) | vl:4 ping:179 tps:20.0 component: speed.main
+(13:01:57) Naxtinguisher failed BadPackets check | send 37 moving packets per second (1.37) [27] (+0) | vl:0 ping:179 tps:20.0 component: packet.timer.main
+(13:01:58) Naxtinguisher failed BadPackets check | send 47 moving packets per second (1.741) [27] (+0) | vl:0 ping:179 tps:20.0 component: packet.timer.main
+(13:02:01) Naxtinguisher failed BadPackets check | send 31 moving packets per second (1.148) [27] (+0) | vl:0 ping:179 tps:20.0 component: packet.timer.main
+(13:02:09) Synchro99 failed Velocity check | suspicious reduce the knockback distance | type: delay | val: 0.0 val2: true val3: true (+1) | vl:1 ping:172 tps:20.0 component: vel.delay
+(13:02:13) Naxtinguisher failed Speed check | faster than expected | t-a | 0.262 (+4) | vl:4 ping:179 tps:20.0 component: speed.ground
+(13:02:14) Naxtinguisher failed BadPackets check | send 39 moving packets per second (1.444) [27] (+0) | vl:0 ping:179 tps:20.0 component: packet.timer.main
+(13:02:14) Naxtinguisher failed Speed check | faster than expected | t-a | 3.38 (+4) | vl:8 ping:179 tps:20.0 component: speed.ground
+(13:02:14) Naxtinguisher failed Speed check | faster than expected | t-c | 3.38 > 0.6875 (+17) | vl:25 ping:179 tps:20.0 component: speed.main
+(13:02:28) Naxtinguisher failed Speed check | faster than expected | t-a | 0.512 (+2) | vl:27 ping:191 tps:20.0 component: speed.ground
+(13:02:29) Naxtinguisher failed BadPackets check | send too much moving packets (1.063) [670/30] (+5) | vl:5 ping:191 tps:20.0 component: packet.timer.main
+(13:02:30) Naxtinguisher failed Speed check | faster than expected | t-c | 2.071 > 0.6875 (+9) | vl:36 ping:191 tps:20.0 component: speed.main
+(13:02:30) Naxtinguisher failed Speed check | faster than expected | t-d | move: 2.071 mv: 0.7967356006687112 (+3) | vl:39 ping:191 tps:20.0 component: speed.main
+(13:02:30) Naxtinguisher failed Fly check | fast fall | var1:1 var2:0.3015347236627832 (+5) | vl:5 ping:191 tps:20.0 component: fly.fastfall
+(13:02:30) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -211.01,72.0,-253.134 (+2) | vl:7 ping:191 tps:20.0 component: fly.fg.air
+(13:02:31) Naxtinguisher failed BadPackets check | send too much moving packets (1.068) [673/30] (+5) | vl:10 ping:191 tps:20.0 component: packet.timer.main
+(13:02:32) Naxtinguisher failed Speed check | faster than expected | t-e | 1.463 > 0.4 | tag: a (+10) | vl:49 ping:191 tps:20.0 component: speed.main
+(13:02:32) Naxtinguisher failed Fly check | fast fall | var1:1 var2:3.9215999984741217 (+5) | vl:12 ping:191 tps:20.0 component: fly.fastfall
+(13:02:37) Naxtinguisher failed BadPackets check | send 42 moving packets per second (1.313) [32] (+0) | vl:10 ping:191 tps:20.0 component: packet.timer.main
+(13:02:39) Naxtinguisher failed BadPackets check | send 46 moving packets per second (1.438) [32] (+0) | vl:10 ping:191 tps:20.0 component: packet.timer.main
+(13:02:39) Naxtinguisher failed Speed check | faster than expected | t-a | 0.302 (+2) | vl:51 ping:191 tps:20.0 component: speed.ground
+(13:02:39) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -241.925,63.0,-253.787 (+2) | vl:14 ping:191 tps:20.0 component: fly.fg.air
+(13:02:41) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -242.061,63.0,-253.796 (+2) | vl:2 ping:191 tps:20.0 component: fly.fg.air
+(13:02:55) Synchro99 failed Block check | place block faster than expect: OAK_PLANKS / 1 (+0) | vl:0 ping:182 tps:20.0 component: block.fastplace
+(13:03:19) Naxtinguisher failed Speed check | faster than expected | t-a | 0.3 > 0.2873 | val: false (+3) | vl:3 ping:692 tps:20.0 component: speed.main
+(13:03:19) Naxtinguisher failed Speed check | faster than expected | t-a | 0.301 > 0.2873 | val: false (+3) | vl:6 ping:692 tps:20.0 component: speed.main
+(13:03:19) Naxtinguisher failed Speed check | faster than expected | t-a | 0.299 > 0.2873 | val: false (+3) | vl:9 ping:692 tps:20.0 component: speed.main
+(13:03:19) Naxtinguisher failed Speed check | faster than expected | t-a | 0.295 > 0.2873 | val: false (+3) | vl:12 ping:692 tps:20.0 component: speed.main
+(13:03:21) Naxtinguisher failed Speed check | faster than expected | t-a | 0.298 > 0.2873 | val: true (+3) | vl:15 ping:692 tps:20.0 component: speed.main
+(13:03:21) Naxtinguisher failed Speed check | faster than expected | t-a | 0.341 > 0.2873 | val: true (+3) | vl:18 ping:692 tps:20.0 component: speed.main
+(13:03:21) Naxtinguisher failed Speed check | faster than expected | t-a | 0.365 > 0.2873 | val: true (+3) | vl:21 ping:692 tps:20.0 component: speed.main
+(13:03:21) Naxtinguisher failed Speed check | faster than expected | t-a | 0.377 > 0.2873 | val: true (+3) | vl:24 ping:692 tps:20.0 component: speed.main
+(13:03:21) Naxtinguisher failed Speed check | faster than expected | t-a | 0.384 > 0.2873 | val: true (+3) | vl:27 ping:692 tps:20.0 component: speed.main
+(13:03:21) Naxtinguisher failed Speed check | faster than expected | t-a | 0.388 > 0.2873 | val: true (+3) | vl:30 ping:692 tps:20.0 component: speed.main
+(13:03:21) Naxtinguisher failed Speed check | faster than expected | t-a | 0.39 > 0.2873 | val: true (+3) | vl:33 ping:692 tps:20.0 component: speed.main
+(13:03:21) Naxtinguisher failed Speed check | faster than expected | t-a | 0.391 > 0.2873 | val: true (+3) | vl:36 ping:692 tps:20.0 component: speed.main
+(13:03:21) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+3) | vl:39 ping:692 tps:20.0 component: speed.main
+(13:03:21) Naxtinguisher failed Speed check | faster than expected | t-a | 0.294 > 0.2873 | val: false (+3) | vl:42 ping:692 tps:20.0 component: speed.main
+(13:03:21) Naxtinguisher failed Speed check | faster than expected | t-a | 0.298 > 0.2873 | val: false (+3) | vl:45 ping:692 tps:20.0 component: speed.main
+(13:04:53) Naxtinguisher failed BadPackets check | send 36 moving packets per second (1.636) [22] (+0) | vl:0 ping:32 tps:20.0 component: packet.timer.main
+(13:05:00) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:32 tps:20.0 component: packet.timer.main
+(13:05:14) Naxtinguisher failed BadPackets check | send 33 moving packets per second (1.5) [22] (+0) | vl:0 ping:32 tps:20.0 component: packet.timer.main
+(13:05:16) Naxtinguisher failed BadPackets check | send 46 moving packets per second (1.095) [42] (+0) | vl:0 ping:580 tps:20.0 component: packet.timer.main
+(13:05:16) Naxtinguisher failed Speed check | faster than expected | t-a | 0.462 (+1) | vl:1 ping:580 tps:20.0 component: speed.ground
+(13:05:18) Naxtinguisher failed BadPackets check | send 51 moving packets per second (1.214) [42] (+0) | vl:0 ping:580 tps:19.84 component: packet.timer.main
+(13:06:13) Synchro99 failed Speed check | faster than expected | t-a | 0.214 (+4) | vl:4 ping:172 tps:20.0 component: speed.ground
+(13:06:35) Synchro99 failed HitBox check | reach: 5.151747649101787 expected: 4.423457392117009 (+1) | vl:1 ping:172 tps:20.0 component: hb.reach.simple
+(13:07:12) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.043) [23] (+0) | vl:0 ping:69 tps:20.0 component: packet.timer.main
+(13:11:00) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,66.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:0 ping:71 tps:20.0 component: block.abort
+(13:12:19) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,56.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:0 ping:31 tps:20.0 component: block.abort
+(13:14:14) Naxtinguisher failed Block check | fast break | type: a | val: 30 (+4) | vl:4 ping:27 tps:20.0 component: block.fastbreak.packet
+(13:14:32) Naxtinguisher failed Block check | fast break | type: a | val: 21 (+4) | vl:8 ping:84 tps:20.0 component: block.fastbreak.packet
+(13:14:42) Naxtinguisher failed Block check | fast break | type: a | val: 54 (+4) | vl:4 ping:84 tps:20.0 component: block.fastbreak.packet
+(13:14:42) Naxtinguisher failed Block check | fast break | type: a | val: 54 (+4) | vl:8 ping:84 tps:20.0 component: block.fastbreak.packet
+(13:14:42) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:12 ping:84 tps:20.0 component: block.fastbreak.packet
+(13:14:42) Naxtinguisher failed Interact check | break block through walls ,o=STONE b=QUARTZ_BLOCK (+1) | vl:1 ping:84 tps:20.0 component: interact.break
+(13:14:44) Naxtinguisher failed BadPackets check | send 34 moving packets per second (1.478) [23] (+0) | vl:0 ping:84 tps:20.0 component: packet.timer.main
+(13:14:44) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:16 ping:84 tps:20.0 component: block.fastbreak.packet
+(13:14:44) Naxtinguisher failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:20 ping:84 tps:20.0 component: block.fastbreak.time
+(13:14:44) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:24 ping:84 tps:20.0 component: block.fastbreak.packet
+(13:14:44) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:28 ping:84 tps:20.0 component: block.fastbreak.packet
+(13:14:44) Naxtinguisher failed Block check | fast break | type: a | val: 1 (+4) | vl:32 ping:84 tps:20.0 component: block.fastbreak.packet
+(13:15:52) Synchro99 failed Block check | place block faster than expect: IRON_TRAPDOOR / 0 (+0) | vl:0 ping:182 tps:19.69 component: block.fastplace
+(13:16:23) Naxtinguisher failed BadPackets check | send 41 moving packets per second (1.864) [22] (+0) | vl:0 ping:32 tps:20.0 component: packet.timer.main
+(13:16:54) Naxtinguisher failed Speed check | faster than expected | t-c | 2.432 > 0.6235 (+6) | vl:6 ping:652 tps:20.0 component: speed.main
+(13:16:54) Naxtinguisher failed Speed check | faster than expected | t-d | move: 2.432 mv: 0.12129684053920187 (+2) | vl:8 ping:652 tps:20.0 component: speed.main
+(13:16:54) Naxtinguisher failed BadPackets check | send 51 moving packets per second (1.214) [42] (+0) | vl:0 ping:652 tps:20.0 component: packet.timer.main
+(13:16:58) Naxtinguisher failed BadPackets check | send 52 moving packets per second (1.238) [42] (+0) | vl:0 ping:652 tps:20.0 component: packet.timer.main
+(13:17:06) Naxtinguisher failed Speed check | faster than expected | t-a | 0.49 (+5) | vl:13 ping:26 tps:20.0 component: speed.ground
+(13:17:08) Naxtinguisher failed BadPackets check | send 40 moving packets per second (1.818) [22] (+0) | vl:0 ping:26 tps:20.0 component: packet.timer.main
+(13:17:10) Naxtinguisher failed BadPackets check | send 39 moving packets per second (1.773) [22] (+0) | vl:0 ping:26 tps:20.0 component: packet.timer.main
+(13:17:12) Naxtinguisher failed BadPackets check | send 40 moving packets per second (1.818) [22] (+0) | vl:0 ping:26 tps:20.0 component: packet.timer.main
+(13:17:13) Naxtinguisher failed BadPackets check | send 38 moving packets per second (1.727) [22] (+0) | vl:0 ping:26 tps:20.0 component: packet.timer.main
+(13:17:17) Naxtinguisher failed BadPackets check | send 38 moving packets per second (1.727) [22] (+0) | vl:0 ping:26 tps:20.0 component: packet.timer.main
+(13:17:19) Naxtinguisher failed BadPackets check | send 43 moving packets per second (1.955) [22] (+0) | vl:0 ping:26 tps:20.0 component: packet.timer.main
+(13:17:21) Naxtinguisher failed BadPackets check | send 36 moving packets per second (1.636) [22] (+0) | vl:0 ping:26 tps:20.0 component: packet.timer.main
+(13:17:21) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -122.423,70.0,-96.196 (+4) | vl:4 ping:26 tps:20.0 component: fly.fg.air
+(13:19:06) Naxtinguisher failed Fly check | fast fall | var1:1 var2:0.41999998688697815 (+3) | vl:3 ping:3009 tps:20.0 component: fly.fastfall
+(13:19:11) Naxtinguisher failed Speed check | faster than expected | t-a | 0.204 (+1) | vl:1 ping:3009 tps:20.0 component: speed.ground
+(13:19:13) Naxtinguisher failed BadPackets check | send 51 moving packets per second (1.214) [42] (+0) | vl:0 ping:3009 tps:20.0 component: packet.timer.main
+(13:19:29) Naxtinguisher failed Speed check | sprint direction | move: 0.24464679026699576 angle: 460.00391006469727 (+1) | vl:2 ping:3009 tps:20.0 component: speed.sprint
+(13:19:29) Naxtinguisher failed Speed check | sprint direction | move: 0.2609719646288072 angle: 461.11451625823975 (+1) | vl:3 ping:3009 tps:20.0 component: speed.sprint
+(13:19:39) Naxtinguisher failed BadPackets check | send 55 moving packets per second (1.31) [42] (+0) | vl:0 ping:836 tps:20.0 component: packet.timer.main
+(13:19:43) Naxtinguisher failed Speed check | faster than expected | t-a | 0.49 (+1) | vl:1 ping:836 tps:20.0 component: speed.ground
+(13:19:44) Naxtinguisher failed BadPackets check | send 45 moving packets per second (1.071) [42] (+0) | vl:0 ping:836 tps:20.0 component: packet.timer.main
+(13:19:46) Naxtinguisher failed Speed check | faster than expected | t-a | 0.481 (+1) | vl:2 ping:836 tps:20.0 component: speed.ground
+(13:19:48) Naxtinguisher failed Speed check | faster than expected | t-e | 0.377 > 0.365 | tag: a (+1) | vl:3 ping:836 tps:20.0 component: speed.main
+(13:19:48) Naxtinguisher failed Speed check | faster than expected | t-e | 0.368 > 0.365 | tag: a (+1) | vl:4 ping:836 tps:20.0 component: speed.main
+(13:19:49) Naxtinguisher failed Speed check | faster than expected | t-e | 0.347 > 0.342 | tag: b (+1) | vl:5 ping:836 tps:20.0 component: speed.main
+(13:20:12) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,67.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:0 ping:30 tps:20.0 component: block.abort
+(13:20:14) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,66.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:0 ping:30 tps:20.0 component: block.abort
+(13:20:14) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:4 ping:30 tps:20.0 component: block.fastbreak.packet
+(13:20:16) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,63.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:4 ping:30 tps:20.0 component: block.abort
+(13:20:18) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,62.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:4 ping:30 tps:20.0 component: block.abort
+(13:20:18) Naxtinguisher failed Block check | fast break | type: a | val: 8 (+4) | vl:8 ping:30 tps:20.0 component: block.fastbreak.packet
+(13:20:20) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,60.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:8 ping:30 tps:20.0 component: block.abort
+(13:20:22) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,59.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:8 ping:30 tps:20.0 component: block.abort
+(13:20:22) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:12 ping:30 tps:20.0 component: block.fastbreak.packet
+(13:20:26) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,54.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:12 ping:30 tps:20.0 component: block.abort
+(13:20:30) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,50.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:12 ping:30 tps:20.0 component: block.abort
+(13:20:34) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,45.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:12 ping:31 tps:20.0 component: block.abort
+(13:20:36) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,44.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:12 ping:31 tps:20.0 component: block.abort
+(13:20:36) Naxtinguisher failed Block check | fast break | type: a | val: 2 (+4) | vl:16 ping:31 tps:20.0 component: block.fastbreak.packet
+(13:20:38) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,41.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:16 ping:31 tps:20.0 component: block.abort
+(13:20:40) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,39.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:16 ping:31 tps:20.0 component: block.abort
+(13:20:40) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:20 ping:31 tps:20.0 component: block.fastbreak.packet
+(13:21:13) Naxtinguisher failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:4 ping:0 tps:20.0 component: block.fastbreak.time
+(13:21:13) Naxtinguisher failed Fly check | move unexpected: -0.078 -> -0.447 (+8) | vl:8 ping:0 tps:20.0 component: fly.fg.pattern.9plus.2
+(13:21:13) Naxtinguisher failed Fly check | send illegal packet to anti fall damage |  val1: 0.0 val2: 0.07840000152587834 val3: false (+10) | vl:18 ping:0 tps:20.0 component: nofall.packet
+(13:21:36) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,35.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:0 ping:46 tps:20.0 component: block.abort
+(13:21:40) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,35.0,-15.0 type: IRON_TRAPDOOR (+0) | vl:0 ping:46 tps:20.0 component: block.abort
+(13:21:46) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,30.0,-13.0 type: QUARTZ_BLOCK (+0) | vl:0 ping:46 tps:20.0 component: block.abort
+(13:21:46) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:4 ping:46 tps:20.0 component: block.fastbreak.packet
+(13:21:56) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:8 ping:46 tps:20.0 component: block.fastbreak.packet
+(13:22:00) Naxtinguisher failed Block check | abort breaking | dig | block at: -268.0,30.0,-8.0 type: QUARTZ_BLOCK (+0) | vl:8 ping:46 tps:20.0 component: block.abort
+(13:22:10) Naxtinguisher failed Block check | fast break | type: b | a:6 b:21 (+1) | vl:9 ping:1597 tps:20.0 component: block.fastbreak.time
+(13:23:41) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.087) [23] (+0) | vl:0 ping:80 tps:20.0 component: packet.timer.main
+(13:24:15) Naxtinguisher failed Block check | abort breaking | dig | block at: -254.0,30.0,17.0 type: OBSIDIAN (+0) | vl:0 ping:34 tps:20.0 component: block.abort
+(13:24:16) Naxtinguisher failed Block check | fast break | type: a | val: 26 (+4) | vl:4 ping:34 tps:20.0 component: block.fastbreak.packet
+(13:24:17) Naxtinguisher failed Block check | abort breaking | dig | block at: -254.0,29.0,17.0 type: GRANITE (+0) | vl:4 ping:34 tps:20.0 component: block.abort
+(13:24:21) Naxtinguisher failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:34 tps:20.0 component: packet.timer.main
+(13:24:23) Naxtinguisher failed BadPackets check | send 38 moving packets per second (1.727) [22] (+0) | vl:0 ping:34 tps:20.0 component: packet.timer.main
+(13:24:27) Naxtinguisher failed Block check | abort breaking | dig | block at: -252.0,32.0,26.0 type: OAK_WALL_SIGN (+0) | vl:4 ping:34 tps:20.0 component: block.abort
+(13:24:28) Naxtinguisher failed BadPackets check | send 37 moving packets per second (1.682) [22] (+0) | vl:0 ping:34 tps:20.0 component: packet.timer.main
+(13:24:28) Naxtinguisher failed Block check | fast break | type: a | val: 44 (+4) | vl:8 ping:34 tps:20.0 component: block.fastbreak.packet
+(13:24:28) Synchro99 failed BadPackets check | send 35 moving packets per second (1.296) [27] (+0) | vl:0 ping:172 tps:20.0 component: packet.timer.main
+(13:24:29) Naxtinguisher failed Block check | abort breaking | dig | block at: -252.0,32.0,25.0 type: OBSIDIAN (+0) | vl:8 ping:34 tps:20.0 component: block.abort
+(13:24:30) Naxtinguisher failed Velocity check | suspicious reduce the knockback distance | type: delay | val: 0.0 val2: true val3: true (+1) | vl:1 ping:34 tps:19.83 component: vel.delay
+(13:25:05) Synchro99 failed Fly check | ground spoof | tag: fake air packet | loc: -267.5,31.0,9.5 (+0) | vl:0 ping:173 tps:16.56 component: fly.fg.air
+(13:25:08) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:30 tps:20.0 component: packet.timer.main
+(13:25:09) Naxtinguisher failed Speed check | t: spin (+1) | vl:1 ping:30 tps:20.0 component: speed.spin
+(13:25:28) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:1 ping:172 tps:19.84 component: phase.clip
+(13:25:28) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:2 ping:172 tps:19.84 component: phase.clip
+(13:25:28) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:3 ping:172 tps:19.84 component: phase.clip
+(13:25:29) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:4 ping:172 tps:19.84 component: phase.clip
+(13:25:29) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:5 ping:172 tps:19.84 component: phase.clip
+(13:25:29) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:6 ping:172 tps:20.0 component: phase.clip
+(13:25:30) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:7 ping:172 tps:20.0 component: phase.clip
+(13:25:30) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:8 ping:172 tps:20.0 component: phase.clip
+(13:25:30) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:9 ping:172 tps:20.0 component: phase.clip
+(13:25:30) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:10 ping:172 tps:20.0 component: phase.clip
+(13:25:31) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:11 ping:172 tps:20.0 component: phase.clip
+(13:25:31) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:12 ping:172 tps:20.0 component: phase.clip
+(13:25:31) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:13 ping:172 tps:20.0 component: phase.clip
+(13:25:31) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:14 ping:172 tps:20.0 component: phase.clip
+(13:25:32) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:15 ping:172 tps:20.0 component: phase.clip
+(13:25:32) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:16 ping:172 tps:20.0 component: phase.clip
+(13:25:32) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:17 ping:172 tps:20.0 component: phase.clip
+(13:25:32) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:18 ping:172 tps:20.0 component: phase.clip
+(13:25:33) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:19 ping:172 tps:20.0 component: phase.clip
+(13:25:33) Synchro99 failed Phase check | no clip | block: STONE (+1) | vl:20 ping:172 tps:20.0 component: phase.clip
+(13:26:22) Synchro99 failed Fly check | ground spoof | tag: fake air packet | loc: -267.5,31.0,12.5 (+0) | vl:0 ping:166 tps:16.77 component: fly.fg.air
+(13:26:26) Naxtinguisher failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:28 tps:20.0 component: packet.timer.main
+(13:26:41) Naxtinguisher failed Speed check | faster than expected | t-a | 0.217 (+5) | vl:5 ping:28 tps:20.0 component: speed.ground
+(13:26:43) Naxtinguisher failed BadPackets check | send 43 moving packets per second (1.955) [22] (+0) | vl:0 ping:28 tps:20.0 component: packet.timer.main
+(13:26:44) Synchro99 failed Fly check | simple flight | tag:#4 | val1:false val2:0.033890786745502055 val3:-0.1552320045166016 val4:0 (+4) | vl:4 ping:166 tps:20.0 component: fly.main
+(13:26:44) Naxtinguisher failed Speed check | faster than expected | t-a | 6.682 > 0.2873 | val: false (+9) | vl:14 ping:28 tps:20.0 component: speed.main
+(13:26:44) Synchro99 failed Fly check | ground spoof | tag: fake air packet | loc: -267.532,30.0,-0.439 (+3) | vl:7 ping:166 tps:20.0 component: fly.fg.air
+(13:26:46) Naxtinguisher failed BadPackets check | send 42 moving packets per second (1.615) [26] (+0) | vl:0 ping:28 tps:18.55 component: packet.timer.main
+(13:26:49) Naxtinguisher failed Block check | abort breaking | dig | block at: -269.0,32.0,16.0 type: QUARTZ_BLOCK (+0) | vl:0 ping:28 tps:20.0 component: block.abort
+(13:26:53) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:28 tps:20.0 component: packet.timer.main
+(13:31:12) Synchro99 failed Interact check | interact block through walls ,o=STONE b=FURNACE (+0) | vl:0 ping:809 tps:20.0 component: interact.through
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.21467567858105605 angle: 471.53865337371826 (+4) | vl:4 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.24295281935974888 angle: 492.7233839035034 (+4) | vl:8 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.2595681473640157 angle: 502.2721338272095 (+4) | vl:12 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.2689187284107692 angle: 506.980676651001 (+4) | vl:16 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.27409769953037016 angle: 509.4150924682617 (+4) | vl:20 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.2769459650290121 angle: 510.70568561553955 (+4) | vl:24 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.2785070323124998 angle: 511.3991975784302 (+4) | vl:28 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.2793611050013924 angle: 511.77462100982666 (+4) | vl:32 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.2798279391281367 angle: 511.9785976409912 (+4) | vl:36 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.2800829818877421 angle: 512.0897054672241 (+4) | vl:40 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.2614801623383221 angle: 447.53326892852783 (+4) | vl:44 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.26651476328232626 angle: 411.03033542633057 (+4) | vl:48 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.2621557594861601 angle: 458.1561040878296 (+4) | vl:52 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.26740033659769724 angle: 483.5941743850708 (+4) | vl:56 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.2724378915906351 angle: 496.9268989562988 (+4) | vl:60 ping:166 tps:20.0 component: speed.sprint
+(13:36:13) Synchro99 failed Speed check | sprint direction | move: 0.2757179888098276 angle: 505.07025718688965 (+4) | vl:64 ping:166 tps:20.0 component: speed.sprint
+(13:36:14) Synchro99 failed FastHeal check | regen health too fast | difficulty: 2 delay: 135 protocol_ver: 14 (+1) | vl:1 ping:166 tps:20.0 component: heal
+(13:36:14) Synchro99 failed FastHeal check | regen health too fast | difficulty: 2 delay: 158 protocol_ver: 14 (+1) | vl:2 ping:166 tps:20.0 component: heal
+(13:40:15) Synchro99 failed HitBox check | angle (angle:100.862295627594 ,reach: 1.501521684885677 ) (+1) | vl:1 ping:166 tps:20.0 component: hb.angle
+(13:42:13) Synchro99 failed Fly check | ground spoof | tag: fake air packet | loc: 14428.5,75.0,15817.5 (+2) | vl:2 ping:180 tps:20.0 component: fly.fg.air
+(13:42:47) Synchro99 failed Fly check | ground spoof | tag: fake air packet | loc: 14142.5,70.0,16126.5 (+3) | vl:3 ping:164 tps:19.93 component: fly.fg.air
+(13:46:52) Synchro99 failed FastHeal check | regen health too fast | difficulty: 2 delay: 372 protocol_ver: 14 (+1) | vl:1 ping:176 tps:20.0 component: heal
+(13:52:27) Synchro99 failed Block check | place block faster than expect: REDSTONE_LAMP / 1 (+0) | vl:0 ping:166 tps:20.0 component: block.fastplace
+(13:52:35) Synchro99 failed Block check | place block faster than expect: REDSTONE_LAMP / 1 (+0) | vl:0 ping:166 tps:20.0 component: block.fastplace
+(13:55:14) Synchro99 failed Fly check | ground spoof | tag: fake air packet | loc: -22.5,39.0,-50.5 (+3) | vl:3 ping:172 tps:20.0 component: fly.fg.air
+(16:07:16) mushroombasher failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:0 tps:20.0 component: packet.timer.main
+(16:11:40) mushroombasher failed Block check | fast break | type: b | a:3 b:21 (+4) | vl:4 ping:35 tps:20.0 component: block.fastbreak.time
+(16:11:42) mushroombasher failed Block check | abort breaking | dig | block at: 338.0,20.0,-421.0 type: AIR (+0) | vl:0 ping:35 tps:20.0 component: block.abort
+(16:12:31) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:32) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:32) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:32) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:32) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:33) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:37) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:37) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:37) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:37) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:37) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:38) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:38) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:12:41) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:12:41) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:12:41) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:12:42) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:12:42) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:12:42) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:12:42) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:12:42) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:12:42) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:12:42) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:12:42) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:12:42) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:35 tps:20.0 component: block.fastplace
+(16:14:24) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:24) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:24) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:24) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:25) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:25) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:25) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:26) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:26) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:26) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:27) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:27) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:27) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:28) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:28) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:28) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:29) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:29) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:29) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:30) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:30) XCL failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:30) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:32) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:32) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:14:32) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:16:40) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:4 ping:40 tps:20.0 component: block.fastbreak.time
+(16:25:31) mushroombasher failed Interact check | break block through walls ,o=STONE b=STONE (+1) | vl:1 ping:30 tps:20.0 component: interact.break
+(16:30:30) mushroombasher failed Interact check | break block through walls ,o=BEDROCK b=COAL_ORE (+1) | vl:1 ping:35 tps:20.0 component: interact.break
+(16:31:40) XCL failed Block check | abort breaking | dig | block at: 423.0,8.0,-448.0 type: STONE (+0) | vl:0 ping:43 tps:20.0 component: block.abort
+(16:34:40) XCL failed Velocity check | suspicious velocity pattern: #C1 (0.9996582980650793) (+7) | vl:7 ping:32 tps:20.0 component: vel.pattern
+(16:37:09) mushroombasher failed Jesus check | liquid speed | 0.12169703089723458 >- 0.12 | d: false (+3) | vl:3 ping:72 tps:20.0 component: jesus.speed.in
+(16:37:44) XCL failed Interact check | interact block through walls ,o=STONE_BRICKS b=CHEST (+1) | vl:1 ping:42 tps:20.0 component: interact.through
+(16:41:40) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:33 tps:20.0 component: block.fastplace
+(16:46:40) mushroombasher failed Block check | fast break | type: b | a:3 b:21 (+4) | vl:4 ping:36 tps:20.0 component: block.fastbreak.time
+(16:46:40) XCL failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:0 ping:32 tps:20.0 component: block.fastplace
+(16:51:40) mushroombasher failed Block check | fast break | type: b | a:2 b:21 (+4) | vl:4 ping:25 tps:20.0 component: block.fastbreak.time
+(16:52:41) XCL failed Interact check | interact block through walls ,o=OBSIDIAN b=CHEST (+1) | vl:1 ping:52 tps:20.0 component: interact.through
+(16:54:23) XCL failed Block check | place block faster than expect: OAK_FENCE / 1 (+0) | vl:0 ping:40 tps:20.0 component: block.fastplace
+(16:55:32) mushroombasher failed Interact check | break block through walls ,o=DIRT b=DIRT (+1) | vl:1 ping:27 tps:20.0 component: interact.break
+(16:56:20) mushroombasher failed Interact check | break block through walls ,o=STONE b=DIRT (+1) | vl:1 ping:43 tps:20.0 component: interact.break
+(16:56:42) mushroombasher failed Block check | fast break | type: b | a:0 b:12 (+4) | vl:4 ping:30 tps:19.9 component: block.fastbreak.time
+(16:59:15) XCL failed Fly check | simple flight | tag:#4 | val1:false val2:0.033890786745502055 val3:-0.1552320045166016 val4:0 (+5) | vl:5 ping:34 tps:20.0 component: fly.main
+(16:59:16) XCL failed Fly check | simple flight | tag:#4 | val1:false val2:0.033890786745502055 val3:-0.1552320045166016 val4:0 (+5) | vl:10 ping:34 tps:20.0 component: fly.main
+(16:59:40) XCL failed FastUse check | fast use (+1) | vl:1 ping:54 tps:20.0 component: fastuse
+(16:59:48) XCL failed KillAura check | dead hit | (var=6) (+3) | vl:3 ping:54 tps:20.0 component: ka.dead
+(16:59:48) XCL failed KillAura check | dead hit | (var=7) (+3) | vl:6 ping:54 tps:20.0 component: ka.dead
+(17:00:23) XCL failed Block check | abort breaking | dig | block at: 344.0,65.0,-504.0 type: OAK_LEAVES (+0) | vl:0 ping:48 tps:20.0 component: block.abort
+(17:02:50) XCL failed KillAura check | machine learning | m: #0,3,57 | amount: 2 | version: 6 (+20) | vl:20 ping:42 tps:20.0 component: ka.ml
+(17:03:06) XCL failed KillAura check | non-human like combat style | confidence: 44.0 (cp) (+10) | vl:30 ping:42 tps:20.0 component: ka.style
+(17:03:32) XCL failed KillAura check | non-human like combat style | confidence: 55.88235294117647 (cp) (+10) | vl:30 ping:33 tps:20.0 component: ka.style
+(17:04:14) XCL failed KillAura check | auto clicker | delay | d: 33,a: 149 | var: 143 (+3) | vl:13 ping:52 tps:20.0 component: ka.autoclicker.delay
+(17:06:05) XCL failed Block check | abort breaking | dig | block at: 246.0,82.0,-572.0 type: OAK_LEAVES (+0) | vl:0 ping:32 tps:20.0 component: block.abort
+(17:07:34) XCL failed Block check | abort breaking | dig | block at: 239.0,88.0,-610.0 type: SPRUCE_LOG (+0) | vl:0 ping:46 tps:20.0 component: block.abort
+(17:09:43) MR_SQUEAKY failed Fly check | ground spoof | tag: fake air packet | loc: 331.5,80.0,-420.5 (+4) | vl:4 ping:30 tps:18.7 component: fly.fg.air
+(17:13:29) XCL failed Interact check | interact block through walls ,o=STONE_BRICKS b=CHEST (+1) | vl:1 ping:45 tps:20.0 component: interact.through
+(17:16:50) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 349.0,86.0,-432.0 type: COAL_ORE (+0) | vl:0 ping:34 tps:20.0 component: block.abort
+(17:16:51) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 349.0,86.0,-433.0 type: STONE (+0) | vl:0 ping:34 tps:20.0 component: block.abort
+(17:16:52) MR_SQUEAKY failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:34 tps:20.0 component: packet.timer.main
+(17:16:54) MR_SQUEAKY failed BadPackets check | send 29 moving packets per second (1.318) [22] (+0) | vl:0 ping:34 tps:20.0 component: packet.timer.main
+(17:16:55) MR_SQUEAKY failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:34 tps:20.0 component: packet.timer.main
+(17:16:57) MR_SQUEAKY failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:34 tps:20.0 component: packet.timer.main
+(17:16:58) MR_SQUEAKY failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:34 tps:20.0 component: packet.timer.main
+(17:17:48) MR_SQUEAKY failed Speed check | faster than expected | t-a | 0.287 > 0.2873 | val: true (+4) | vl:4 ping:200 tps:20.0 component: speed.main
+(17:19:03) MR_SQUEAKY failed BadPackets check | send 29 moving packets per second (1.261) [23] (+0) | vl:0 ping:81 tps:20.0 component: packet.timer.main
+(17:19:04) MR_SQUEAKY failed BadPackets check | send 27 moving packets per second (1.174) [23] (+0) | vl:0 ping:81 tps:20.0 component: packet.timer.main
+(17:19:05) MR_SQUEAKY failed BadPackets check | send 29 moving packets per second (1.261) [23] (+0) | vl:0 ping:81 tps:20.0 component: packet.timer.main
+(17:19:44) Naxtinguisher failed BadPackets check | send 38 moving packets per second (1.727) [22] (+0) | vl:0 ping:31 tps:20.0 component: packet.timer.main
+(17:19:46) Naxtinguisher failed Block check | fast break | type: b | a:3 b:21 (+4) | vl:4 ping:31 tps:20.0 component: block.fastbreak.time
+(17:20:02) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:8 ping:27 tps:20.0 component: block.fastbreak.packet
+(17:20:02) Naxtinguisher failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:12 ping:27 tps:20.0 component: block.fastbreak.time
+(17:20:06) Naxtinguisher failed Block check | abort breaking | dig | block at: -267.0,28.0,-1.0 type: STONE (+0) | vl:12 ping:27 tps:20.0 component: block.abort
+(17:20:07) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(17:20:08) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 418.0,45.0,-454.0 type: STONE (+0) | vl:0 ping:46 tps:20.0 component: block.abort
+(17:20:15) Naxtinguisher failed BadPackets check | send 29 moving packets per second (1.318) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(17:20:16) Naxtinguisher failed BadPackets check | send 31 moving packets per second (1.409) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(17:21:11) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 403.0,28.0,-453.0 type: GRAVEL (+0) | vl:0 ping:44 tps:20.0 component: block.abort
+(17:21:40) MR_SQUEAKY failed Block check | fast break | type: b | a:4 b:21 (+4) | vl:4 ping:43 tps:20.0 component: block.fastbreak.time
+(17:21:40) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:8 ping:43 tps:20.0 component: block.fastbreak.time
+(17:22:07) Naxtinguisher failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:28 tps:20.0 component: packet.timer.main
+(17:22:17) MR_SQUEAKY failed BadPackets check | send 29 moving packets per second (1.318) [22] (+0) | vl:0 ping:43 tps:20.0 component: packet.timer.main
+(17:22:18) MR_SQUEAKY failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:43 tps:20.0 component: packet.timer.main
+(17:22:18) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 0 (+1) | vl:1 ping:43 tps:20.0 component: ka.simple
+(17:22:18) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 0 (+1) | vl:2 ping:43 tps:20.0 component: ka.simple
+(17:22:18) MR_SQUEAKY failed HitBox check | angle (angle:90.5657958984375 ,reach: 2.3883859083509895 ) (+1) | vl:1 ping:43 tps:20.0 component: hb.angle
+(17:22:19) MR_SQUEAKY failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:43 tps:20.0 component: packet.timer.main
+(17:23:22) MR_SQUEAKY failed Block check | fast break | type: a | val: 58 (+4) | vl:4 ping:41 tps:20.0 component: block.fastbreak.packet
+(17:24:31) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.174) [23] (+0) | vl:0 ping:94 tps:20.0 component: packet.timer.main
+(17:24:35) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.13) [23] (+0) | vl:0 ping:94 tps:20.0 component: packet.timer.main
+(17:24:43) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.087) [23] (+0) | vl:0 ping:94 tps:20.0 component: packet.timer.main
+(17:24:58) Naxtinguisher failed BadPackets check | send 46 moving packets per second (1.704) [27] (+0) | vl:0 ping:110 tps:20.0 component: packet.timer.main
+(17:25:04) Naxtinguisher failed BadPackets check | send 36 moving packets per second (1.333) [27] (+0) | vl:0 ping:110 tps:20.0 component: packet.timer.main
+(17:25:05) Naxtinguisher failed Block check | abort breaking | dig | block at: -266.0,31.0,0.0 type: PISTON_HEAD (+0) | vl:0 ping:110 tps:20.0 component: block.abort
+(17:25:09) Naxtinguisher failed BadPackets check | send 40 moving packets per second (1.481) [27] (+0) | vl:0 ping:110 tps:20.0 component: packet.timer.main
+(17:25:11) Naxtinguisher failed BadPackets check | send 33 moving packets per second (1.222) [27] (+0) | vl:0 ping:110 tps:20.0 component: packet.timer.main
+(17:25:13) Naxtinguisher failed BadPackets check | send 34 moving packets per second (1.259) [27] (+0) | vl:0 ping:110 tps:20.0 component: packet.timer.main
+(17:25:15) Naxtinguisher failed BadPackets check | send 47 moving packets per second (1.741) [27] (+0) | vl:0 ping:110 tps:20.0 component: packet.timer.main
+(17:25:15) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -267.708,30.0,11.269 (+4) | vl:4 ping:110 tps:20.0 component: fly.fg.air
+(17:25:15) Naxtinguisher failed Speed check | faster than expected | t-a | 0.204 (+5) | vl:5 ping:110 tps:20.0 component: speed.ground
+(17:25:17) Naxtinguisher failed BadPackets check | send 41 moving packets per second (1.519) [27] (+0) | vl:0 ping:110 tps:20.0 component: packet.timer.main
+(17:25:51) Naxtinguisher failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:49 tps:20.0 component: packet.timer.main
+(17:26:04) Naxtinguisher failed Block check | fast break | type: b | a:5 b:21 (+4) | vl:4 ping:49 tps:20.0 component: block.fastbreak.time
+(17:26:27) Naxtinguisher failed BadPackets check | send 29 moving packets per second (1.318) [22] (+0) | vl:0 ping:31 tps:20.0 component: packet.timer.main
+(17:26:29) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:31 tps:20.0 component: packet.timer.main
+(17:26:36) Naxtinguisher failed Block check | abort breaking | dig | block at: -275.0,30.0,8.0 type: STONE (+0) | vl:0 ping:31 tps:20.0 component: block.abort
+(17:26:38) MR_SQUEAKY failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:36 tps:20.0 component: packet.timer.main
+(17:26:41) MR_SQUEAKY failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:36 tps:20.0 component: packet.timer.main
+(17:26:41) MR_SQUEAKY failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:36 tps:20.0 component: packet.timer.main
+(17:26:45) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:31 tps:20.0 component: packet.timer.main
+(17:26:48) Naxtinguisher failed Block check | abort breaking | dig | block at: -273.0,31.0,16.0 type: STONE (+0) | vl:0 ping:31 tps:20.0 component: block.abort
+(17:26:50) Naxtinguisher failed Block check | abort breaking | dig | block at: -272.0,32.0,16.0 type: STONE (+0) | vl:0 ping:25 tps:20.0 component: block.abort
+(17:26:53) Naxtinguisher failed Block check | abort breaking | dig | block at: -272.0,30.0,16.0 type: STONE (+0) | vl:0 ping:25 tps:20.0 component: block.abort
+(17:27:21) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.136) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(17:27:33) Naxtinguisher failed Block check | abort breaking | dig | block at: -272.0,28.0,14.0 type: STONE (+0) | vl:0 ping:27 tps:20.0 component: block.abort
+(17:27:35) Naxtinguisher failed BadPackets check | send 40 moving packets per second (1.818) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(17:27:35) Naxtinguisher failed Block check | abort breaking | dig | block at: -272.0,28.0,13.0 type: STONE (+0) | vl:0 ping:27 tps:20.0 component: block.abort
+(17:27:38) Naxtinguisher failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(17:27:40) Naxtinguisher failed BadPackets check | send 29 moving packets per second (1.318) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(17:27:41) MR_SQUEAKY failed Block check | fast break | type: a | val: 7 (+4) | vl:4 ping:35 tps:20.0 component: block.fastbreak.packet
+(17:27:46) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(17:27:59) Naxtinguisher failed BadPackets check | send 33 moving packets per second (1.5) [22] (+0) | vl:0 ping:46 tps:19.92 component: packet.timer.main
+(17:28:07) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:46 tps:20.0 component: packet.timer.main
+(17:28:10) Naxtinguisher failed Block check | abort breaking | dig | block at: -269.0,31.0,36.0 type: QUARTZ_BLOCK (+0) | vl:0 ping:46 tps:20.0 component: block.abort
+(17:28:17) Naxtinguisher failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:46 tps:20.0 component: packet.timer.main
+(17:28:25) Naxtinguisher failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:29 tps:20.0 component: packet.timer.main
+(17:28:28) Naxtinguisher failed Block check | abort breaking | dig | block at: -226.0,31.0,32.0 type: IRON_DOOR (+0) | vl:0 ping:29 tps:20.0 component: block.abort
+(17:28:28) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:4 ping:29 tps:20.0 component: block.fastbreak.packet
+(17:28:29) Naxtinguisher failed Block check | abort breaking | dig | block at: -225.0,30.0,32.0 type: QUARTZ_BLOCK (+0) | vl:4 ping:29 tps:20.0 component: block.abort
+(17:28:35) Naxtinguisher failed BadPackets check | send 33 moving packets per second (1.5) [22] (+0) | vl:0 ping:29 tps:20.0 component: packet.timer.main
+(17:28:49) Naxtinguisher failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:28:59) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:29:05) Naxtinguisher failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:29:19) Naxtinguisher failed BadPackets check | send 33 moving packets per second (1.5) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(17:29:37) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(17:29:49) Naxtinguisher failed BadPackets check | send 31 moving packets per second (1.409) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:29:49) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 0 (+1) | vl:1 ping:50 tps:20.0 component: ka.simple
+(17:29:52) MR_SQUEAKY failed BadPackets check | send 24 moving packets per second (1.043) [23] (+0) | vl:0 ping:50 tps:20.0 component: packet.timer.main
+(17:29:52) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 350.0,16.0,-434.0 type: STONE (+0) | vl:0 ping:50 tps:20.0 component: block.abort
+(17:29:52) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 0 (+1) | vl:2 ping:50 tps:20.0 component: ka.simple
+(17:29:53) MR_SQUEAKY failed BadPackets check | send 27 moving packets per second (1.174) [23] (+0) | vl:0 ping:50 tps:19.99 component: packet.timer.main
+(17:29:54) Naxtinguisher failed BadPackets check | send 40 moving packets per second (1.818) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:29:57) Naxtinguisher failed BadPackets check | send 35 moving packets per second (1.591) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:29:59) Naxtinguisher failed BadPackets check | send 40 moving packets per second (1.818) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:30:00) MR_SQUEAKY failed Speed check | faster than expected | t-a | 0.316 > 0.2873 | val: false (+9) | vl:9 ping:50 tps:20.0 component: speed.main
+(17:30:05) Naxtinguisher failed BadPackets check | send 38 moving packets per second (1.727) [22] (+0) | vl:0 ping:25 tps:19.91 component: packet.timer.main
+(17:30:09) XCL failed HitBox check | reach: 3.660059806165008 expected: 3.6480652396305313 (+1) | vl:1 ping:35 tps:20.0 component: hb.reach.simple
+(17:30:13) Naxtinguisher failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:30:15) Naxtinguisher failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:30:17) Naxtinguisher failed BadPackets check | send 35 moving packets per second (1.591) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:30:23) Naxtinguisher failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:31 tps:20.0 component: packet.timer.main
+(17:30:30) Naxtinguisher failed Block check | scaffold | type: simple (+3) | vl:3 ping:31 tps:20.0 component: block.scaffold.simple
+(17:30:33) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.136) [22] (+0) | vl:0 ping:31 tps:20.0 component: packet.timer.main
+(17:30:37) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 338.0,12.0,-463.0 type: IRON_ORE (+0) | vl:0 ping:31 tps:20.0 component: block.abort
+(17:30:37) MR_SQUEAKY failed Block check | fast break | type: a | val: 9 (+4) | vl:4 ping:31 tps:20.0 component: block.fastbreak.packet
+(17:30:38) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 337.0,12.0,-462.0 type: STONE (+0) | vl:4 ping:31 tps:20.0 component: block.abort
+(17:30:39) MR_SQUEAKY failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:31 tps:20.0 component: packet.timer.main
+(17:30:39) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 337.0,14.0,-462.0 type: IRON_ORE (+0) | vl:4 ping:31 tps:20.0 component: block.abort
+(17:30:40) MR_SQUEAKY failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:31 tps:20.0 component: packet.timer.main
+(17:30:41) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 337.0,15.0,-462.0 type: STONE (+0) | vl:0 ping:31 tps:20.0 component: block.abort
+(17:30:41) MR_SQUEAKY failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:31 tps:20.0 component: packet.timer.main
+(17:30:42) Naxtinguisher failed Block check | abort breaking | dig | block at: -160.0,24.0,50.0 type: RAIL (+0) | vl:0 ping:31 tps:20.0 component: block.abort
+(17:30:46) Naxtinguisher failed Block check | abort breaking | dig | block at: -162.0,24.0,49.0 type: RAIL (+0) | vl:0 ping:31 tps:20.0 component: block.abort
+(17:30:48) Naxtinguisher failed Block check | abort breaking | dig | block at: -162.0,24.0,48.0 type: RAIL (+0) | vl:0 ping:31 tps:20.0 component: block.abort
+(17:30:48) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:4 ping:31 tps:20.0 component: block.fastbreak.packet
+(17:30:52) Naxtinguisher failed Block check | abort breaking | dig | block at: -164.0,23.0,47.0 type: POLISHED_ANDESITE (+0) | vl:4 ping:25 tps:20.0 component: block.abort
+(17:31:10) Naxtinguisher failed Block check | abort breaking | dig | block at: -168.0,23.0,46.0 type: POLISHED_ANDESITE (+0) | vl:0 ping:25 tps:20.0 component: block.abort
+(17:31:11) Naxtinguisher failed Block check | abort breaking | dig | block at: -169.0,24.0,46.0 type: RAIL (+0) | vl:0 ping:25 tps:20.0 component: block.abort
+(17:31:14) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:4 ping:25 tps:19.89 component: block.fastbreak.packet
+(17:31:15) Naxtinguisher failed Block check | fast break | type: a | val: 13 (+4) | vl:8 ping:25 tps:19.89 component: block.fastbreak.packet
+(17:31:15) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:12 ping:25 tps:19.89 component: block.fastbreak.packet
+(17:31:16) Naxtinguisher failed BadPackets check | send 40 moving packets per second (1.818) [22] (+0) | vl:0 ping:25 tps:19.89 component: packet.timer.main
+(17:31:30) XCL failed Block check | abort breaking | dig | block at: 420.0,13.0,-465.0 type: STONE (+0) | vl:0 ping:33 tps:20.0 component: block.abort
+(17:31:41) XCL failed Block check | fast break | type: b | a:5 b:21 (+4) | vl:4 ping:35 tps:20.0 component: block.fastbreak.time
+(17:31:41) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:8 ping:35 tps:20.0 component: block.fastbreak.time
+(17:31:41) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:12 ping:35 tps:20.0 component: block.fastbreak.time
+(17:31:41) MR_SQUEAKY failed FastHeal check | regen health too fast | difficulty: 2 delay: 163 protocol_ver: 14 (+2) | vl:2 ping:29 tps:20.0 component: heal
+(17:31:41) MR_SQUEAKY failed FastHeal check | regen health too fast | difficulty: 2 delay: 198 protocol_ver: 14 (+2) | vl:2 ping:29 tps:20.0 component: heal
+(17:31:41) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 342.0,17.0,-465.0 type: COBBLESTONE (+0) | vl:0 ping:29 tps:20.0 component: block.abort
+(17:31:42) XCL failed Block check | abort breaking | dig | block at: 422.0,12.0,-469.0 type: AIR (+0) | vl:0 ping:35 tps:20.0 component: block.abort
+(17:31:42) Naxtinguisher failed Block check | fast break | type: b | a:6 b:21 (+4) | vl:4 ping:29 tps:20.0 component: block.fastbreak.time
+(17:31:43) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 1 (+1) | vl:1 ping:29 tps:20.0 component: ka.simple
+(17:31:43) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 1 (+1) | vl:2 ping:29 tps:20.0 component: ka.simple
+(17:31:43) MR_SQUEAKY failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:29 tps:20.0 component: packet.timer.main
+(17:31:43) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 0 (+1) | vl:3 ping:29 tps:20.0 component: ka.simple
+(17:31:43) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 0 (+1) | vl:4 ping:29 tps:20.0 component: ka.simple
+(17:31:44) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 0 (+1) | vl:5 ping:29 tps:20.0 component: ka.simple
+(17:31:44) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 0 (+1) | vl:6 ping:29 tps:20.0 component: ka.simple
+(17:31:44) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 0 (+1) | vl:7 ping:29 tps:20.0 component: ka.simple
+(17:31:45) MR_SQUEAKY failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:29 tps:20.0 component: packet.timer.main
+(17:31:45) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 0 (+1) | vl:8 ping:29 tps:20.0 component: ka.simple
+(17:31:45) MR_SQUEAKY failed KillAura check | simple packet pattern | var: 0 (+1) | vl:9 ping:29 tps:20.0 component: ka.simple
+(17:31:46) MR_SQUEAKY failed BadPackets check | send 29 moving packets per second (1.318) [22] (+0) | vl:0 ping:29 tps:20.0 component: packet.timer.main
+(17:31:54) MR_SQUEAKY failed FastHeal check | regen health too fast | difficulty: 2 delay: 439 protocol_ver: 14 (+2) | vl:4 ping:29 tps:20.0 component: heal
+(17:31:57) Naxtinguisher failed BadPackets check | send 48 moving packets per second (2.182) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:32:01) Naxtinguisher failed FastBow check | fast bow (+1) | vl:1 ping:25 tps:20.0 component: fastbow
+(17:32:13) Naxtinguisher failed BadPackets check | send 41 moving packets per second (1.864) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:32:16) Naxtinguisher failed Speed check | faster than expected | t-a | 1.751 > 0.2873 | val: false (+9) | vl:9 ping:25 tps:20.0 component: speed.main
+(17:32:17) Naxtinguisher failed BadPackets check | send 35 moving packets per second (1.591) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:32:23) Naxtinguisher failed BadPackets check | send 36 moving packets per second (1.636) [22] (+0) | vl:0 ping:5188 tps:20.0 component: packet.timer.main
+(17:32:29) Naxtinguisher failed BadPackets check | send 43 moving packets per second (1.024) [42] (+0) | vl:0 ping:5188 tps:20.0 component: packet.timer.main
+(17:32:30) Naxtinguisher failed BadPackets check | send 58 moving packets per second (1.381) [42] (+0) | vl:0 ping:5188 tps:20.0 component: packet.timer.main
+(17:32:34) Naxtinguisher failed BadPackets check | send 44 moving packets per second (1.048) [42] (+0) | vl:0 ping:5188 tps:20.0 component: packet.timer.main
+(17:32:39) Naxtinguisher failed BadPackets check | send 49 moving packets per second (1.167) [42] (+0) | vl:0 ping:5188 tps:20.0 component: packet.timer.main
+(17:32:41) Naxtinguisher failed BadPackets check | send 47 moving packets per second (1.119) [42] (+0) | vl:0 ping:5188 tps:20.0 component: packet.timer.main
+(17:32:46) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 327.0,13.0,-474.0 type: REDSTONE_ORE (+0) | vl:0 ping:45 tps:20.0 component: block.abort
+(17:32:49) MR_SQUEAKY failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:45 tps:20.0 component: packet.timer.main
+(17:32:50) MR_SQUEAKY failed BadPackets check | send 29 moving packets per second (1.318) [22] (+0) | vl:0 ping:45 tps:20.0 component: packet.timer.main
+(17:32:52) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:37 tps:20.0 component: packet.timer.main
+(17:32:57) XCL failed Block check | abort breaking | dig | block at: 421.0,11.0,-479.0 type: STONE (+0) | vl:0 ping:35 tps:19.75 component: block.abort
+(17:33:05) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.136) [22] (+0) | vl:0 ping:37 tps:20.0 component: packet.timer.main
+(17:33:07) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:37 tps:20.0 component: packet.timer.main
+(17:33:08) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:37 tps:20.0 component: packet.timer.main
+(17:33:20) Naxtinguisher failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:33:27) Naxtinguisher failed BadPackets check | send 84 moving packets per second (3.818) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:33:28) Naxtinguisher failed Speed check | faster than expected | t-a | 0.292 > 0.2873 | val: false (+9) | vl:9 ping:25 tps:20.0 component: speed.main
+(17:33:28) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:33:51) MR_SQUEAKY failed Block check | scaffold | type: simple (+3) | vl:3 ping:43 tps:20.0 component: block.scaffold.simple
+(17:33:52) MR_SQUEAKY failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:43 tps:20.0 component: packet.timer.main
+(17:33:52) MR_SQUEAKY failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:3 ping:43 tps:20.0 component: block.fastplace
+(17:33:53) MR_SQUEAKY failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:43 tps:20.0 component: packet.timer.main
+(17:33:54) MR_SQUEAKY failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:43 tps:20.0 component: packet.timer.main
+(17:34:03) Naxtinguisher failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:32 tps:20.0 component: packet.timer.main
+(17:34:04) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:32 tps:20.0 component: packet.timer.main
+(17:34:42) Naxtinguisher failed Block check | fast break | type: a | val: 56 (+4) | vl:4 ping:26 tps:20.0 component: block.fastbreak.packet
+(17:34:47) Naxtinguisher failed Block check | abort breaking | dig | block at: -187.0,18.0,36.0 type: GRAVEL (+0) | vl:4 ping:26 tps:20.0 component: block.abort
+(17:34:47) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:8 ping:26 tps:20.0 component: block.fastbreak.packet
+(17:34:48) Naxtinguisher failed Block check | abort breaking | dig | block at: -188.0,19.0,35.0 type: STONE (+0) | vl:8 ping:26 tps:20.0 component: block.abort
+(17:34:49) Naxtinguisher failed Block check | fast break | type: a | val: 0 (+4) | vl:12 ping:26 tps:20.0 component: block.fastbreak.packet
+(17:34:54) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 365.0,12.0,-463.0 type: DIAMOND_ORE (+0) | vl:0 ping:42 tps:20.0 component: block.abort
+(17:34:54) Naxtinguisher failed Interact check | break block through walls ,o=STONE b=STONE (+0) | vl:0 ping:1112 tps:20.0 component: interact.break
+(17:34:54) MR_SQUEAKY failed Block check | fast break | type: a | val: 4 (+4) | vl:4 ping:42 tps:20.0 component: block.fastbreak.packet
+(17:34:55) Naxtinguisher failed Interact check | break block through walls ,o=STONE b=STONE (+0) | vl:0 ping:1112 tps:20.0 component: interact.break
+(17:34:55) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 365.0,12.0,-462.0 type: DIAMOND_ORE (+0) | vl:4 ping:42 tps:20.0 component: block.abort
+(17:34:57) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 364.0,12.0,-463.0 type: DIAMOND_ORE (+0) | vl:4 ping:42 tps:20.0 component: block.abort
+(17:34:57) MR_SQUEAKY failed Block check | fast break | type: a | val: 3 (+4) | vl:8 ping:42 tps:20.0 component: block.fastbreak.packet
+(17:34:58) Naxtinguisher failed Block check | fast break | type: b | a:5 b:21 (+1) | vl:13 ping:1112 tps:19.87 component: block.fastbreak.time
+(17:34:58) Naxtinguisher failed Block check | fast break | type: b | a:1 b:21 (+1) | vl:14 ping:1112 tps:19.87 component: block.fastbreak.time
+(17:35:02) Naxtinguisher failed Interact check | break block through walls ,o=STONE b=STONE (+0) | vl:0 ping:1112 tps:20.0 component: interact.break
+(17:35:13) Naxtinguisher failed Block check | fast break | type: b | a:6 b:21 (+1) | vl:1 ping:1112 tps:20.0 component: block.fastbreak.time
+(17:35:36) Naxtinguisher failed Block check | abort breaking | dig | block at: -186.0,18.0,33.0 type: STONE (+0) | vl:1 ping:126 tps:20.0 component: block.abort
+(17:35:37) Naxtinguisher failed Block check | abort breaking | dig | block at: -185.0,17.0,33.0 type: STONE (+0) | vl:1 ping:126 tps:20.0 component: block.abort
+(17:35:37) Naxtinguisher failed BadPackets check | send 31 moving packets per second (1.148) [27] (+0) | vl:0 ping:126 tps:20.0 component: packet.timer.main
+(17:35:46) Naxtinguisher failed Block check | scaffold | type: simple (+2) | vl:2 ping:126 tps:20.0 component: block.scaffold.simple
+(17:35:48) Naxtinguisher failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:2 ping:30 tps:20.0 component: block.fastplace
+(17:35:49) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:30 tps:20.0 component: packet.timer.main
+(17:35:49) Naxtinguisher failed Block check | place block faster than expect: COBBLESTONE / 1 (+0) | vl:2 ping:30 tps:20.0 component: block.fastplace
+(17:35:51) Naxtinguisher failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:2 ping:30 tps:19.98 component: block.fastplace
+(17:35:52) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:30 tps:19.98 component: packet.timer.main
+(17:35:56) Naxtinguisher failed Block check | fast break | type: a | val: 6 (+4) | vl:6 ping:30 tps:20.0 component: block.fastbreak.packet
+(17:35:57) Naxtinguisher failed Block check | abort breaking | dig | block at: -186.0,26.0,37.0 type: STONE (+0) | vl:6 ping:30 tps:20.0 component: block.abort
+(17:35:59) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 361.0,16.0,-462.0 type: COAL_ORE (+0) | vl:0 ping:40 tps:20.0 component: block.abort
+(17:36:00) Naxtinguisher failed Block check | fast break | type: a | val: 57 (+4) | vl:10 ping:30 tps:20.0 component: block.fastbreak.packet
+(17:36:02) Naxtinguisher failed Block check | abort breaking | dig | block at: -186.0,22.0,37.0 type: COBBLESTONE (+0) | vl:10 ping:30 tps:20.0 component: block.abort
+(17:36:03) Naxtinguisher failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:30 tps:20.0 component: packet.timer.main
+(17:36:04) Naxtinguisher failed Block check | tower | dt: 0.6936883722505855 dl: 147 av: 367 (+2) | vl:12 ping:30 tps:20.0 component: block.tower
+(17:36:06) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:30 tps:20.0 component: packet.timer.main
+(17:36:11) Naxtinguisher failed Block check | fast break | type: b | a:6 b:21 (+4) | vl:4 ping:30 tps:20.0 component: block.fastbreak.time
+(17:36:13) Naxtinguisher failed Block check | fast break | type: a | val: 21 (+4) | vl:8 ping:30 tps:20.0 component: block.fastbreak.packet
+(17:36:19) Naxtinguisher failed Block check | fast break | type: a | val: 28 (+4) | vl:12 ping:23 tps:20.0 component: block.fastbreak.packet
+(17:36:20) Naxtinguisher failed Block check | fast break | type: b | a:6 b:21 (+4) | vl:16 ping:23 tps:20.0 component: block.fastbreak.time
+(17:36:22) Naxtinguisher failed Block check | fast break | type: a | val: 5 (+4) | vl:20 ping:23 tps:20.0 component: block.fastbreak.packet
+(17:36:32) Naxtinguisher failed Block check | fast break | type: b | a:4 b:21 (+4) | vl:4 ping:0 tps:20.0 component: block.fastbreak.time
+(17:36:34) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.136) [22] (+0) | vl:0 ping:0 tps:20.0 component: packet.timer.main
+(17:36:40) Naxtinguisher failed Block check | place block faster than expect: COBBLESTONE / 0 (+0) | vl:4 ping:0 tps:20.0 component: block.fastplace
+(17:36:47) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:0 tps:20.0 component: packet.timer.main
+(17:37:14) Naxtinguisher failed Block check | fast break | type: b | a:6 b:21 (+2) | vl:2 ping:209 tps:20.0 component: block.fastbreak.time
+(17:37:24) MR_SQUEAKY failed Interact check | interact block through walls ,o=STONE b=FURNACE (+1) | vl:1 ping:39 tps:20.0 component: interact.through
+(17:37:24) Naxtinguisher failed BadPackets check | send 36 moving packets per second (1.125) [32] (+0) | vl:0 ping:209 tps:20.0 component: packet.timer.main
+(17:37:26) Naxtinguisher failed BadPackets check | send 51 moving packets per second (1.594) [32] (+0) | vl:0 ping:209 tps:20.0 component: packet.timer.main
+(17:37:30) Naxtinguisher failed BadPackets check | send 44 moving packets per second (1.048) [42] (+0) | vl:0 ping:481 tps:20.0 component: packet.timer.main
+(17:37:30) Naxtinguisher failed Speed check | faster than expected | t-a | 0.295 > 0.2873 | val: false (+3) | vl:3 ping:481 tps:20.0 component: speed.main
+(17:37:30) Naxtinguisher failed Speed check | faster than expected | t-a | 0.317 > 0.2873 | val: false (+3) | vl:6 ping:481 tps:20.0 component: speed.main
+(17:37:30) Naxtinguisher failed Speed check | faster than expected | t-a | 0.308 > 0.2873 | val: false (+3) | vl:9 ping:481 tps:20.0 component: speed.main
+(17:37:31) Naxtinguisher failed BadPackets check | send 54 moving packets per second (1.286) [42] (+0) | vl:0 ping:481 tps:20.0 component: packet.timer.main
+(17:37:36) Naxtinguisher failed BadPackets check | send 59 moving packets per second (1.405) [42] (+0) | vl:0 ping:481 tps:20.0 component: packet.timer.main
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 3 (+4) | vl:4 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:8 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:12 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:16 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 22 (+4) | vl:20 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:24 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:28 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:32 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:36 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:5 b:21 (+4) | vl:4 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:40 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 1 (+4) | vl:8 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:12 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 0 (+4) | vl:16 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:44 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: a | val: 0 (+4) | vl:20 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:24 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:48 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 1 (+4) | vl:28 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 2 (+4) | vl:52 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:32 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 1 (+4) | vl:36 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:40 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 0 (+4) | vl:44 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:56 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:48 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:60 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: a | val: 0 (+4) | vl:52 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: a | val: 1 (+4) | vl:56 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:60 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:64 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 0 (+4) | vl:64 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: a | val: 0 (+4) | vl:68 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:72 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 0 (+4) | vl:76 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:80 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 2 (+4) | vl:68 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:72 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 0 (+4) | vl:76 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:80 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed BadPackets check | tick rate | 125.0 > 1.000 | val1: 5955 val2: 29 val3: 992 (+15) | vl:15 ping:55 tps:20.0 component: packet.tick
+(17:38:00) XCL failed Block check | fast break | type: a | val: 2 (+4) | vl:84 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: a | val: 2 (+4) | vl:88 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:92 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 0 (+4) | vl:84 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:88 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 3 (+4) | vl:96 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:100 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed BadPackets check | tick rate | 142.857 > 1.000 | val1: 5958 val2: 30 val3: 993 (+15) | vl:30 ping:55 tps:20.0 component: packet.tick
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 0 (+4) | vl:92 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:96 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 0 (+4) | vl:100 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:104 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 0 (+4) | vl:108 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed BadPackets check | tick rate | 250.0 > 1.000 | val1: 5976 val2: 14 val3: 996 (+15) | vl:45 ping:55 tps:20.0 component: packet.tick
+(17:38:00) XCL failed Block check | fast break | type: a | val: 2 (+4) | vl:104 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:108 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:112 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 0 (+4) | vl:116 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:120 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 1 (+4) | vl:112 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:124 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:116 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed BadPackets check | tick rate | 250.0 > 1.000 | val1: 5980 val2: 14 val3: 996 (+15) | vl:60 ping:55 tps:20.0 component: packet.tick
+(17:38:00) XCL failed Block check | fast break | type: a | val: 0 (+4) | vl:120 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:128 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 0 (+4) | vl:124 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:128 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 1 (+4) | vl:132 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:132 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:136 ping:55 tps:20.0 component: block.fastbreak.time
+(17:38:00) XCL failed Block check | fast break | type: a | val: 1 (+4) | vl:140 ping:55 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:136 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:140 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:144 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:148 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:152 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:156 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:160 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed BadPackets check | tick rate | 166.667 > 1.000 | val1: 5967 val2: 13 val3: 994 (+15) | vl:15 ping:37 tps:20.0 component: packet.tick
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:164 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 2 (+4) | vl:168 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:172 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:176 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:180 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed BadPackets check | tick rate | 200.0 > 1.000 | val1: 5970 val2: 12 val3: 995 (+15) | vl:30 ping:37 tps:20.0 component: packet.tick
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 0 (+4) | vl:184 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:188 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:192 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) Naxtinguisher failed Block check | fast break | type: b | a:5 b:21 (+1) | vl:1 ping:481 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:196 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: a | val: 0 (+4) | vl:200 ping:37 tps:20.0 component: block.fastbreak.packet
+(17:38:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:204 ping:37 tps:20.0 component: block.fastbreak.time
+(17:38:01) Naxtinguisher failed BadPackets check | send 190 moving packets per second (8.636) [22] (+0) | vl:0 ping:24 tps:20.0 component: packet.timer.main
+(17:38:01) Naxtinguisher failed BadPackets check | send too much moving packets (1.275) [803/30] (+10) | vl:10 ping:24 tps:20.0 component: packet.timer.main
+(17:38:07) Naxtinguisher failed Block check | scaffold | type: simple (+3) | vl:4 ping:24 tps:19.01 component: block.scaffold.simple
+(17:38:10) Naxtinguisher failed BadPackets check | send 25 moving packets per second [24/723/614] (+1) | vl:11 ping:24 tps:19.21 component: packet.timer.main
+(17:38:10) Naxtinguisher failed BadPackets check | send 26 moving packets per second [24/723/614] (+1) | vl:12 ping:24 tps:19.21 component: packet.timer.main
+(17:38:10) Naxtinguisher failed BadPackets check | send 27 moving packets per second [24/723/614] (+1) | vl:13 ping:24 tps:19.21 component: packet.timer.main
+(17:38:10) Naxtinguisher failed BadPackets check | send 28 moving packets per second [24/723/614] (+1) | vl:14 ping:24 tps:19.21 component: packet.timer.main
+(17:38:10) Naxtinguisher failed BadPackets check | send 29 moving packets per second [24/723/614] (+1) | vl:15 ping:24 tps:19.21 component: packet.timer.main
+(17:38:10) Naxtinguisher failed BadPackets check | send 30 moving packets per second [24/723/614] (+1) | vl:16 ping:24 tps:19.21 component: packet.timer.main
+(17:38:10) Naxtinguisher failed BadPackets check | send 31 moving packets per second [24/723/614] (+1) | vl:17 ping:24 tps:19.21 component: packet.timer.main
+(17:38:10) Naxtinguisher failed BadPackets check | send 32 moving packets per second [24/723/614] (+1) | vl:18 ping:24 tps:19.21 component: packet.timer.main
+(17:38:10) Naxtinguisher failed BadPackets check | send 33 moving packets per second [24/723/614] (+1) | vl:19 ping:24 tps:19.21 component: packet.timer.main
+(17:38:10) Naxtinguisher failed BadPackets check | send 33 moving packets per second (1.375) [24] (+0) | vl:19 ping:24 tps:19.21 component: packet.timer.main
+(17:38:10) Naxtinguisher failed BadPackets check | send too much moving packets (1.2) [756/30] (+10) | vl:29 ping:24 tps:19.21 component: packet.timer.main
+(17:38:13) MR_SQUEAKY failed Block check | fast break | type: b | a:2 b:21 (+4) | vl:4 ping:7 tps:20.0 component: block.fastbreak.time
+(17:38:13) MR_SQUEAKY failed Block check | fast break | type: a | val: 20 (+4) | vl:8 ping:7 tps:20.0 component: block.fastbreak.packet
+(17:38:15) MR_SQUEAKY failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:7 tps:20.0 component: packet.timer.main
+(17:38:25) Naxtinguisher failed BadPackets check | send 23 moving packets per second [22/656/614] (+1) | vl:30 ping:24 tps:20.0 component: packet.timer.main
+(17:38:25) Naxtinguisher failed BadPackets check | send 24 moving packets per second [22/656/614] (+1) | vl:31 ping:24 tps:20.0 component: packet.timer.main
+(17:38:25) Naxtinguisher failed BadPackets check | send 25 moving packets per second [22/656/614] (+1) | vl:32 ping:24 tps:20.0 component: packet.timer.main
+(17:38:25) Naxtinguisher failed BadPackets check | send 26 moving packets per second [22/656/614] (+1) | vl:33 ping:24 tps:20.0 component: packet.timer.main
+(17:38:25) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:33 ping:24 tps:20.0 component: packet.timer.main
+(17:38:25) Naxtinguisher failed BadPackets check | send too much moving packets (1.083) [682/30] (+10) | vl:43 ping:24 tps:20.0 component: packet.timer.main
+(17:38:26) Naxtinguisher failed Speed check | faster than expected | t-a | 0.332 > 0.2873 | val: false (+9) | vl:9 ping:24 tps:20.0 component: speed.main
+(17:38:38) Naxtinguisher failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:38:39) Naxtinguisher failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:38:41) Naxtinguisher failed Speed check | faster than expected | t-a | 0.309 > 0.2873 | val: false (+9) | vl:9 ping:25 tps:20.0 component: speed.main
+(17:38:41) Naxtinguisher failed Speed check | faster than expected | t-a | 0.33 > 0.2873 | val: false (+9) | vl:18 ping:25 tps:20.0 component: speed.main
+(17:38:41) Naxtinguisher failed Speed check | faster than expected | t-a | 0.349 > 0.2873 | val: false (+9) | vl:27 ping:25 tps:20.0 component: speed.main
+(17:38:41) Naxtinguisher failed Speed check | faster than expected | t-a | 0.367 > 0.2873 | val: false (+9) | vl:36 ping:25 tps:20.0 component: speed.main
+(17:38:41) Naxtinguisher failed Speed check | faster than expected | t-a | 0.383 > 0.2873 | val: false (+9) | vl:45 ping:25 tps:20.0 component: speed.main
+(17:38:41) Naxtinguisher failed Speed check | faster than expected | t-a | 0.397 > 0.2873 | val: false (+9) | vl:54 ping:25 tps:20.0 component: speed.main
+(17:38:41) Naxtinguisher failed Speed check | faster than expected | t-a | 0.411 > 0.2873 | val: false (+9) | vl:63 ping:25 tps:20.0 component: speed.main
+(17:38:41) Naxtinguisher failed Speed check | faster than expected | t-a | 0.423 > 0.2873 | val: false (+9) | vl:72 ping:25 tps:20.0 component: speed.main
+(17:38:41) Naxtinguisher failed Speed check | faster than expected | t-a | 0.434 > 0.2873 | val: false (+9) | vl:81 ping:25 tps:20.0 component: speed.main
+(17:38:49) Naxtinguisher failed BadPackets check | send 29 moving packets per second (1.318) [22] (+0) | vl:0 ping:25 tps:20.0 component: packet.timer.main
+(17:39:03) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.136) [22] (+0) | vl:0 ping:49 tps:20.0 component: packet.timer.main
+(17:39:09) Naxtinguisher failed BadPackets check | send 49 moving packets per second (2.227) [22] (+0) | vl:0 ping:49 tps:20.0 component: packet.timer.main
+(17:39:09) Naxtinguisher failed Speed check | faster than expected | t-a | 4.963 > 0.2873 | val: false (+9) | vl:40 ping:49 tps:20.0 component: speed.main
+(17:39:09) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -248.635,31.0,32.29 (+4) | vl:4 ping:49 tps:20.0 component: fly.fg.air
+(17:39:11) Naxtinguisher failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:49 tps:20.0 component: packet.timer.main
+(17:39:13) Naxtinguisher failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:49 tps:20.0 component: packet.timer.main
+(17:39:15) Naxtinguisher failed Speed check | faster than expected | t-a | 0.309 > 0.2873 | val: false (+9) | vl:49 ping:49 tps:20.0 component: speed.main
+(17:39:16) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:58 ping:49 tps:20.0 component: speed.main
+(17:39:17) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:67 ping:49 tps:20.0 component: speed.main
+(17:39:17) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:76 ping:49 tps:20.0 component: speed.main
+(17:39:17) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 422.0,8.0,-503.0 type: STONE (+0) | vl:0 ping:33 tps:20.0 component: block.abort
+(17:39:17) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:85 ping:49 tps:20.0 component: speed.main
+(17:39:18) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 421.0,8.0,-503.0 type: STONE (+0) | vl:0 ping:33 tps:20.0 component: block.abort
+(17:39:18) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:94 ping:49 tps:20.0 component: speed.main
+(17:39:18) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 421.0,9.0,-503.0 type: GRANITE (+0) | vl:0 ping:33 tps:20.0 component: block.abort
+(17:39:19) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 421.0,9.0,-504.0 type: GRANITE (+0) | vl:0 ping:33 tps:20.0 component: block.abort
+(17:39:21) Naxtinguisher failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:49 tps:20.0 component: packet.timer.main
+(17:39:27) Naxtinguisher failed Speed check | faster than expected | t-a | 0.309 > 0.2873 | val: false (+9) | vl:103 ping:49 tps:20.0 component: speed.main
+(17:39:27) Naxtinguisher failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: false (+9) | vl:112 ping:49 tps:20.0 component: speed.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3847200088500955 b:-0.1552320045166016 c:8 (+3) | vl:3 ping:49 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.38083201127052035 b:-0.1552320045166016 c:8 (+3) | vl:6 ping:49 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.37849921272277953 b:-0.1552320045166016 c:8 (+3) | vl:9 ping:49 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3770995335941336 b:-0.30431682745754424 c:8 (+3) | vl:12 ping:49 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3762597261169418 b:-0.30431682745754424 c:8 (+3) | vl:15 ping:49 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.37575584163062814 b:-0.30431682745754424 c:8 (+3) | vl:18 ping:49 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.37545351093883994 b:-0.30431682745754424 c:8 (+3) | vl:21 ping:49 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.375272112523767 b:-0.37663049823865513 c:8 (+3) | vl:24 ping:49 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3751632734747261 b:-0.5169479491049732 c:8 (+3) | vl:27 ping:49 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.375097970045303 b:-0.5850090015087522 c:8 (+3) | vl:30 ping:51 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3750587879876477 b:-0.5850090015087522 c:8 (+3) | vl:33 ping:51 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3750352787530531 b:-0.6517088341626173 c:8 (+3) | vl:36 ping:51 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.37502117321229633 b:-0.9657237242233685 c:8 (+3) | vl:39 ping:51 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.37501270988784086 b:-0.9657237242233685 c:8 (+3) | vl:42 ping:51 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.375007631893169 b:-0.9657237242233685 c:8 (+3) | vl:45 ping:51 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.37500458509636303 b:-0.9657237242233685 c:8 (+3) | vl:48 ping:51 tps:20.0 component: fly.main
+(17:39:30) Naxtinguisher failed Fly check | pattern | type:#f | a:0.37500275701828656 b:-0.9657237242233685 c:8 (+3) | vl:51 ping:51 tps:20.0 component: fly.main
+(17:39:31) Naxtinguisher failed Fly check | pattern | type:#f | a:0.375001660171435 b:-1.0248092696844984 c:8 (+3) | vl:54 ping:51 tps:20.0 component: fly.main
+(17:39:31) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-1.1394588654330982 c:8 (+3) | vl:57 ping:51 tps:20.0 component: fly.main
+(17:39:31) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-1.302977000006099 c:8 (+3) | vl:60 ping:51 tps:20.0 component: fly.main
+(17:39:31) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-1.35531748638417 c:8 (+3) | vl:63 ping:51 tps:20.0 component: fly.main
+(17:39:31) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-1.6017302796669999 c:8 (+3) | vl:66 ping:51 tps:20.0 component: fly.main
+(17:39:31) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-1.781701953346132 c:8 (+3) | vl:69 ping:51 tps:20.0 component: fly.main
+(17:39:31) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-1.8244679497883562 c:8 (+3) | vl:72 ping:51 tps:20.0 component: fly.main
+(17:39:31) Naxtinguisher failed Fly check | up | val1: 0 val2: true val3: AIR val4: 0.15000000596046448 val5: -1.8244679497883562 (+5) | vl:77 ping:51 tps:20.0 component: fly.main
+(17:39:31) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-1.9074510916993102 c:8 (+3) | vl:80 ping:51 tps:20.0 component: fly.main
+(17:39:32) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-1.987148104292835 c:8 (+3) | vl:83 ping:51 tps:20.0 component: fly.main
+(17:39:32) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-2.2420421918098206 c:8 (+3) | vl:86 ping:51 tps:20.0 component: fly.main
+(17:39:32) Naxtinguisher failed Fly check | up | val1: 0 val2: true val3: AIR val4: 0.15000000596046448 val5: -2.2420421918098206 (+5) | vl:91 ping:51 tps:20.0 component: fly.main
+(17:39:32) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-2.2756013922630642 c:8 (+3) | vl:94 ping:51 tps:20.0 component: fly.main
+(17:39:32) Naxtinguisher failed Fly check | up | val1: 0 val2: true val3: AIR val4: 0.15000000596046448 val5: -2.2756013922630642 (+5) | vl:99 ping:51 tps:20.0 component: fly.main
+(17:39:32) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-2.3407196667172077 c:8 (+3) | vl:102 ping:51 tps:20.0 component: fly.main
+(17:39:32) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-2.3723053195544272 c:8 (+3) | vl:105 ping:51 tps:20.0 component: fly.main
+(17:39:32) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-2.433594122103015 c:8 (+3) | vl:108 ping:51 tps:20.0 component: fly.main
+(17:39:32) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-2.603278959908224 c:8 (+3) | vl:111 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-2.629613431889544 c:8 (+3) | vl:114 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | up | val1: 0 val2: true val3: AIR val4: 0.15000000596046448 val5: -2.629613431889544 (+5) | vl:119 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-2.6807128428088767 c:8 (+3) | vl:122 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | up | val1: 0 val2: true val3: AIR val4: 0.15000000596046448 val5: -2.6807128428088767 (+5) | vl:127 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-2.729788718966106 c:8 (+3) | vl:130 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-2.7535929981792506 c:8 (+3) | vl:133 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-2.822187221377698 c:8 (+3) | vl:136 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | up | val1: 0 val2: true val3: AIR val4: 0.15000000596046448 val5: -2.822187221377698 (+5) | vl:141 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-2.8656607174324846 c:8 (+3) | vl:144 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | up | val1: 0 val2: true val3: AIR val4: 0.15000000596046448 val5: -2.8656607174324846 (+5) | vl:149 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-2.9074126646687164 c:8 (+3) | vl:152 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-2.927664468355717 c:8 (+3) | vl:155 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-2.966961069373339 c:8 (+3) | vl:158 ping:51 tps:20.0 component: fly.main
+(17:39:33) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-2.9860219061020428 c:8 (+3) | vl:161 ping:51 tps:20.0 component: fly.main
+(17:39:41) Naxtinguisher failed Fly check | simple flight | tag:#4 | val1:false val2:0.164773281826065 val3:-0.5143294551172826 val4:0 (+5) | vl:166 ping:51 tps:20.0 component: fly.main
+(17:40:14) Naxtinguisher failed BadPackets check | send 57 moving packets per second (1.357) [42] (+0) | vl:0 ping:4573 tps:20.0 component: packet.timer.main
+(17:40:16) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3847200088500955 b:-0.5850090015087522 c:8 (+1) | vl:127 ping:4573 tps:20.0 component: fly.main
+(17:40:17) Naxtinguisher failed Fly check | pattern | type:#f | a:0.2940000116825132 b:-0.7811331932098841 c:8 (+1) | vl:128 ping:4573 tps:20.0 component: fly.main
+(17:40:17) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.9054323524772837 c:8 (+1) | vl:129 ping:4573 tps:20.0 component: fly.main
+(17:40:17) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-1.0248092696844984 c:8 (+1) | vl:130 ping:4573 tps:20.0 component: fly.main
+(17:40:17) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.30431682745754424 c:8 (+1) | vl:131 ping:4573 tps:20.0 component: fly.main
+(17:40:17) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.44749789698341763 c:8 (+1) | vl:132 ping:4573 tps:20.0 component: fly.main
+(17:40:17) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.5850090015087522 c:8 (+1) | vl:133 ping:4573 tps:20.0 component: fly.main
+(17:40:17) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.7170746714356033 c:8 (+1) | vl:134 ping:4573 tps:20.0 component: fly.main
+(17:40:17) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.9054323524772837 c:8 (+1) | vl:135 ping:4573 tps:20.0 component: fly.main
+(17:40:18) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.37663049823865513 c:8 (+1) | vl:136 ping:4573 tps:20.0 component: fly.main
+(17:40:18) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.5169479491049732 c:8 (+1) | vl:137 ping:4573 tps:20.0 component: fly.main
+(17:40:18) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.6517088341626173 c:8 (+1) | vl:138 ping:4573 tps:20.0 component: fly.main
+(17:40:18) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-1.082713105363373 c:8 (+1) | vl:139 ping:4573 tps:20.0 component: fly.main
+(17:40:19) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.230527368912964 c:8 (+1) | vl:140 ping:4573 tps:20.0 component: fly.main
+(17:40:19) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.44749789698341763 c:8 (+1) | vl:141 ping:4573 tps:20.0 component: fly.main
+(17:40:19) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.5850090015087522 c:8 (+1) | vl:142 ping:4573 tps:20.0 component: fly.main
+(17:40:19) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.7811331932098841 c:8 (+1) | vl:143 ping:4573 tps:20.0 component: fly.main
+(17:40:19) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.9054323524772837 c:8 (+1) | vl:144 ping:4573 tps:20.0 component: fly.main
+(17:40:19) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-1.0248092696844984 c:8 (+1) | vl:145 ping:4573 tps:20.0 component: fly.main
+(17:40:19) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.1552320045166016 c:8 (+1) | vl:146 ping:4573 tps:20.0 component: fly.main
+(17:40:19) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.30431682745754424 c:8 (+1) | vl:147 ping:4573 tps:20.0 component: fly.main
+(17:40:20) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.44749789698341763 c:8 (+1) | vl:148 ping:4573 tps:20.0 component: fly.main
+(17:40:20) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.9657237242233685 c:8 (+1) | vl:149 ping:4573 tps:20.0 component: fly.main
+(17:40:20) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.1552320045166016 c:8 (+1) | vl:150 ping:4573 tps:20.0 component: fly.main
+(17:40:24) MR_SQUEAKY failed Block check | fast break | type: a | val: 42 (+4) | vl:4 ping:32 tps:20.0 component: block.fastbreak.packet
+(17:40:25) MR_SQUEAKY failed Block check | fast break | type: a | val: 26 (+4) | vl:8 ping:32 tps:20.0 component: block.fastbreak.packet
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.2940000116825132 b:-0.37663049823865513 c:8 (+3) | vl:3 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.32640001296996957 b:-0.37663049823865513 c:8 (+3) | vl:6 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3458400137424462 b:-0.37663049823865513 c:8 (+3) | vl:9 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.35750401420592937 b:-0.37663049823865513 c:8 (+3) | vl:12 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3645024144840221 b:-0.44749789698341763 c:8 (+3) | vl:15 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.368701454650882 b:-0.5169479491049732 c:8 (+3) | vl:18 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3712208787509894 b:-0.5850090015087522 c:8 (+3) | vl:21 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3727325332110567 b:-0.6517088341626173 c:8 (+3) | vl:24 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3736395258870999 b:-1.0248092696844984 c:8 (+3) | vl:27 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | ground spoof | send illegal ground moving packets | location: -267.5,47.31,-14.5 | block: AIR,AIR (+5) | vl:32 ping:65 tps:20.0 component: fly.fg.ground
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3741837214927273 b:-1.0248092696844984 c:8 (+3) | vl:35 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | ground spoof | send illegal ground moving packets | location: -267.5,47.684,-14.5 | block: AIR,AIR (+5) | vl:40 ping:65 tps:20.0 component: fly.fg.ground
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3745102388560966 b:-1.0248092696844984 c:8 (+3) | vl:43 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | ground spoof | send illegal ground moving packets | location: -267.5,48.059,-14.5 | block: AIR,AIR (+5) | vl:48 ping:65 tps:20.0 component: fly.fg.ground
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.37470614927412527 b:-1.0248092696844984 c:8 (+3) | vl:51 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | ground spoof | send illegal ground moving packets | location: -267.5,48.433,-14.5 | block: AIR,AIR (+5) | vl:56 ping:65 tps:20.0 component: fly.fg.ground
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3748236955249382 b:-1.0248092696844984 c:8 (+3) | vl:59 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | ground spoof | send illegal ground moving packets | location: -267.5,48.808,-14.5 | block: AIR,AIR (+5) | vl:64 ping:65 tps:20.0 component: fly.fg.ground
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.374894223275426 b:-1.0248092696844984 c:8 (+3) | vl:67 ping:65 tps:20.0 component: fly.main
+(17:40:36) Naxtinguisher failed Fly check | ground spoof | send illegal ground moving packets | location: -267.5,49.183,-14.5 | block: AIR,AIR (+5) | vl:72 ping:65 tps:20.0 component: fly.fg.ground
+(17:40:36) Naxtinguisher failed Fly check | pattern | type:#f | a:0.37493653992572007 b:-1.082713105363373 c:8 (+3) | vl:75 ping:65 tps:20.0 component: fly.main
+(17:40:37) Naxtinguisher failed Fly check | pattern | type:#f | a:0.09000000357627869 b:-0.1552320045166016 c:8 (+3) | vl:78 ping:65 tps:20.0 component: fly.main
+(17:40:52) Naxtinguisher failed Block check | fast break | type: a | val: 22 (+4) | vl:4 ping:65 tps:20.0 component: block.fastbreak.packet
+(17:40:59) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.1552320045166016 c:8 (+3) | vl:41 ping:65 tps:20.0 component: fly.main
+(17:40:59) Naxtinguisher failed Fly check | pattern | type:#f | a:0.2940000116825132 b:-0.230527368912964 c:8 (+3) | vl:44 ping:65 tps:20.0 component: fly.main
+(17:40:59) Naxtinguisher failed Fly check | pattern | type:#f | a:0.32640001296996957 b:-0.30431682745754424 c:8 (+3) | vl:47 ping:65 tps:20.0 component: fly.main
+(17:40:59) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3458400137424462 b:-0.37663049823865513 c:8 (+3) | vl:50 ping:65 tps:20.0 component: fly.main
+(17:40:59) Naxtinguisher failed Fly check | pattern | type:#f | a:0.35750401420592937 b:-0.44749789698341763 c:8 (+3) | vl:53 ping:65 tps:20.0 component: fly.main
+(17:40:59) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-0.5169479491049732 c:8 (+3) | vl:56 ping:65 tps:20.0 component: fly.main
+(17:40:59) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-0.6517088341626173 c:8 (+3) | vl:59 ping:65 tps:20.0 component: fly.main
+(17:40:59) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-0.7170746714356033 c:8 (+3) | vl:62 ping:65 tps:20.0 component: fly.main
+(17:40:59) Naxtinguisher failed Fly check | up | val1: 0 val2: true val3: AIR val4: 0.15000000596046448 val5: -0.0784000015258789 (+5) | vl:67 ping:65 tps:20.0 component: fly.main
+(17:40:59) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3645024144840221 b:-0.5850090015087522 c:8 (+3) | vl:70 ping:65 tps:20.0 component: fly.main
+(17:41:00) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-0.6517088341626173 c:8 (+3) | vl:73 ping:65 tps:20.0 component: fly.main
+(17:41:00) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-1.2495683414761176 c:8 (+3) | vl:76 ping:65 tps:20.0 component: fly.main
+(17:41:03) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3458400137424462 b:-0.5169479491049732 c:8 (+3) | vl:79 ping:65 tps:20.0 component: fly.main
+(17:41:03) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-0.6517088341626173 c:8 (+3) | vl:82 ping:65 tps:20.0 component: fly.main
+(17:41:03) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-0.7811331932098841 c:8 (+3) | vl:85 ping:65 tps:20.0 component: fly.main
+(17:41:03) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-0.8439105457704985 c:8 (+3) | vl:88 ping:32 tps:20.0 component: fly.main
+(17:41:03) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-0.9657237242233685 c:8 (+3) | vl:91 ping:32 tps:20.0 component: fly.main
+(17:41:03) Naxtinguisher failed Fly check | pattern | type:#f | a:0.24000000953674316 b:-0.1552320045166016 c:8 (+3) | vl:94 ping:32 tps:20.0 component: fly.main
+(17:41:03) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-0.230527368912964 c:8 (+3) | vl:97 ping:32 tps:20.0 component: fly.main
+(17:41:04) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-0.8439105457704985 c:8 (+3) | vl:100 ping:32 tps:20.0 component: fly.main
+(17:41:09) Naxtinguisher failed Fly check | pattern | type:#f | a:0.3458400137424462 b:-0.37663049823865513 c:8 (+3) | vl:103 ping:32 tps:20.0 component: fly.main
+(17:41:09) Naxtinguisher failed Fly check | pattern | type:#f | a:0.15000000596046448 b:-0.44749789698341763 c:8 (+3) | vl:106 ping:32 tps:20.0 component: fly.main
+(17:41:09) Naxtinguisher failed Fly check | pattern | type:#f | a:0.39000001549720764 b:-0.5850090015087522 c:8 (+3) | vl:109 ping:32 tps:20.0 component: fly.main
+(17:41:15) Naxtinguisher failed Block check | abort breaking | dig | block at: -269.0,53.0,-15.0 type: STONE (+0) | vl:0 ping:32 tps:20.0 component: block.abort
+(17:41:21) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:32 tps:20.0 component: packet.timer.main
+(17:41:22) Naxtinguisher failed Block check | fast break | type: a | val: 1 (+4) | vl:4 ping:32 tps:20.0 component: block.fastbreak.packet
+(17:41:22) Naxtinguisher failed Block check | fast break | type: a | val: 1 (+4) | vl:8 ping:32 tps:20.0 component: block.fastbreak.packet
+(17:41:26) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 425.0,13.0,-531.0 type: COAL_ORE (+0) | vl:0 ping:44 tps:20.0 component: block.abort
+(17:41:26) MR_SQUEAKY failed Block check | fast break | type: a | val: 6 (+4) | vl:4 ping:44 tps:20.0 component: block.fastbreak.packet
+(17:41:27) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 426.0,13.0,-531.0 type: COAL_ORE (+0) | vl:4 ping:44 tps:20.0 component: block.abort
+(17:41:28) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 426.0,12.0,-531.0 type: COAL_ORE (+0) | vl:4 ping:44 tps:20.0 component: block.abort
+(17:41:28) MR_SQUEAKY failed Block check | fast break | type: a | val: 2 (+4) | vl:8 ping:44 tps:20.0 component: block.fastbreak.packet
+(17:41:51) Naxtinguisher failed Speed check | faster than expected | t-a | 0.309 > 0.2873 | val: false (+9) | vl:9 ping:32 tps:20.0 component: speed.main
+(17:41:51) Naxtinguisher failed Speed check | faster than expected | t-a | 0.33 > 0.2873 | val: false (+9) | vl:18 ping:32 tps:20.0 component: speed.main
+(17:41:51) Naxtinguisher failed Speed check | faster than expected | t-a | 0.32 > 0.2873 | val: false (+9) | vl:27 ping:32 tps:20.0 component: speed.main
+(17:41:51) Naxtinguisher failed Speed check | faster than expected | t-a | 0.311 > 0.2873 | val: false (+9) | vl:36 ping:32 tps:20.0 component: speed.main
+(17:41:51) Naxtinguisher failed Speed check | faster than expected | t-a | 0.381 > 0.2873 | val: false (+9) | vl:45 ping:32 tps:20.0 component: speed.main
+(17:41:51) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -271.849,72.0,-12.756 (+4) | vl:73 ping:32 tps:20.0 component: fly.fg.air
+(17:41:53) Naxtinguisher failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:32 tps:20.0 component: packet.timer.main
+(17:41:55) Naxtinguisher failed BadPackets check | send 25 moving packets per second (1.136) [22] (+0) | vl:0 ping:32 tps:20.0 component: packet.timer.main
+(17:41:57) Naxtinguisher failed Speed check | faster than expected | t-a | 0.216 (+5) | vl:50 ping:32 tps:20.0 component: speed.ground
+(17:42:01) Naxtinguisher failed Fly check | ground spoof | tag: fake air packet | loc: -299.068,68.0,5.654 (+4) | vl:77 ping:32 tps:20.0 component: fly.fg.air
+(17:42:04) Naxtinguisher failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:27 tps:20.0 component: packet.timer.main
+(17:42:30) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 443.0,14.0,-522.0 type: IRON_ORE (+0) | vl:0 ping:30 tps:20.0 component: block.abort
+(17:42:32) MR_SQUEAKY failed Block check | fast break | type: a | val: 25 (+4) | vl:4 ping:30 tps:20.0 component: block.fastbreak.packet
+(17:42:35) MR_SQUEAKY failed BadPackets check | send 30 moving packets per second (1.364) [22] (+0) | vl:0 ping:30 tps:20.0 component: packet.timer.main
+(17:43:36) MR_SQUEAKY failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:28 tps:20.0 component: packet.timer.main
+(17:43:38) MR_SQUEAKY failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:28 tps:20.0 component: packet.timer.main
+(17:43:39) MR_SQUEAKY failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:28 tps:20.0 component: packet.timer.main
+(17:44:40) MR_SQUEAKY failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:43 tps:20.0 component: packet.timer.main
+(17:44:42) MR_SQUEAKY failed BadPackets check | send 30 moving packets per second (1.111) [27] (+0) | vl:0 ping:176 tps:20.0 component: packet.timer.main
+(17:44:43) MR_SQUEAKY failed BadPackets check | send 29 moving packets per second (1.074) [27] (+0) | vl:0 ping:176 tps:20.0 component: packet.timer.main
+(17:45:24) XCL failed FastUse check | fast use (+1) | vl:1 ping:38 tps:20.0 component: fastuse
+(17:45:43) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 374.0,13.0,-538.0 type: OBSIDIAN (+0) | vl:0 ping:41 tps:20.0 component: block.abort
+(17:45:46) MR_SQUEAKY failed BadPackets check | send 25 moving packets per second (1.136) [22] (+0) | vl:0 ping:41 tps:20.0 component: packet.timer.main
+(17:46:48) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 377.0,13.0,-540.0 type: OBSIDIAN (+0) | vl:0 ping:40 tps:20.0 component: block.abort
+(17:47:50) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 375.0,13.0,-539.0 type: OBSIDIAN (+0) | vl:0 ping:39 tps:20.0 component: block.abort
+(17:47:52) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 375.0,13.0,-539.0 type: OBSIDIAN (+0) | vl:0 ping:39 tps:20.0 component: block.abort
+(17:48:59) MR_SQUEAKY failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:37 tps:20.0 component: packet.timer.main
+(17:50:01) MR_SQUEAKY failed Block check | fast break | type: a | val: 5 (+4) | vl:4 ping:36 tps:20.0 component: block.fastbreak.packet
+(17:50:02) MR_SQUEAKY failed Block check | fast break | type: a | val: 3 (+4) | vl:8 ping:36 tps:20.0 component: block.fastbreak.packet
+(17:50:03) MR_SQUEAKY failed Block check | fast break | type: a | val: 18 (+4) | vl:12 ping:36 tps:20.0 component: block.fastbreak.packet
+(17:51:03) MR_SQUEAKY failed Block check | fast break | type: a | val: 2 (+4) | vl:4 ping:34 tps:20.0 component: block.fastbreak.packet
+(17:51:05) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 368.0,11.0,-476.0 type: COAL_ORE (+0) | vl:4 ping:34 tps:20.0 component: block.abort
+(17:51:07) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:8 ping:34 tps:20.0 component: block.fastbreak.packet
+(17:52:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:4 ping:33 tps:20.0 component: block.fastbreak.time
+(17:52:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:4 ping:47 tps:20.0 component: block.fastbreak.time
+(17:52:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:8 ping:33 tps:20.0 component: block.fastbreak.time
+(17:52:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:8 ping:47 tps:20.0 component: block.fastbreak.time
+(17:52:00) MR_SQUEAKY failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:12 ping:33 tps:20.0 component: block.fastbreak.time
+(17:52:00) XCL failed Block check | fast break | type: b | a:0 b:21 (+4) | vl:12 ping:47 tps:20.0 component: block.fastbreak.time
+(17:52:01) XCL failed Block check | fast break | type: b | a:3 b:21 (+4) | vl:4 ping:47 tps:20.0 component: block.fastbreak.time
+(17:52:07) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 375.0,11.0,-465.0 type: DIORITE (+0) | vl:0 ping:33 tps:20.0 component: block.abort
+(17:52:07) MR_SQUEAKY failed Block check | fast break | type: a | val: 9 (+4) | vl:4 ping:33 tps:20.0 component: block.fastbreak.packet
+(17:52:08) MR_SQUEAKY failed Block check | fast break | type: a | val: 2 (+4) | vl:8 ping:33 tps:20.0 component: block.fastbreak.packet
+(17:52:09) MR_SQUEAKY failed Block check | fast break | type: a | val: 1 (+4) | vl:12 ping:33 tps:20.0 component: block.fastbreak.packet
+(17:52:09) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 375.0,12.0,-464.0 type: DIORITE (+0) | vl:12 ping:33 tps:20.0 component: block.abort
+(17:52:09) MR_SQUEAKY failed Block check | fast break | type: a | val: 2 (+4) | vl:16 ping:33 tps:20.0 component: block.fastbreak.packet
+(17:52:10) MR_SQUEAKY failed Block check | fast break | type: a | val: 49 (+4) | vl:20 ping:49 tps:20.0 component: block.fastbreak.packet
+(17:52:51) MR_SQUEAKY failed Block check | fast break | type: b | a:6 b:21 (+1) | vl:1 ping:384 tps:20.0 component: block.fastbreak.time
+(17:52:52) XCL failed Interact check | break block through walls ,o=STONE b=STONE (+1) | vl:1 ping:34 tps:20.0 component: interact.break
+(17:54:17) MR_SQUEAKY failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:31 tps:20.0 component: packet.timer.main
+(17:54:19) MR_SQUEAKY failed BadPackets check | send 27 moving packets per second (1.227) [22] (+0) | vl:0 ping:414 tps:20.0 component: packet.timer.main
+(17:55:20) MR_SQUEAKY failed Block check | fast break | type: a | val: 29 (+4) | vl:4 ping:29 tps:20.0 component: block.fastbreak.packet
+(17:55:22) MR_SQUEAKY failed Block check | fast break | type: b | a:4 b:21 (+4) | vl:8 ping:29 tps:20.0 component: block.fastbreak.time
+(17:56:24) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 369.0,17.0,-435.0 type: STONE (+0) | vl:0 ping:28 tps:20.0 component: block.abort
+(17:56:25) MR_SQUEAKY failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:28 tps:20.0 component: packet.timer.main
+(17:56:27) MR_SQUEAKY failed Block check | abort breaking | dig | block at: 361.0,17.0,-438.0 type: LAPIS_ORE (+0) | vl:0 ping:28 tps:20.0 component: block.abort
+(17:56:27) MR_SQUEAKY failed BadPackets check | send 28 moving packets per second (1.273) [22] (+0) | vl:0 ping:28 tps:20.0 component: packet.timer.main
+(17:56:28) MR_SQUEAKY failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:28 tps:20.0 component: packet.timer.main
+(17:56:33) MR_SQUEAKY failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:28 tps:20.0 component: packet.timer.main
+(17:58:15) XCL failed Fly check | ground spoof | tag: fake air packet | loc: 331.5,80.0,-420.5 (+4) | vl:4 ping:34 tps:20.0 component: fly.fg.air

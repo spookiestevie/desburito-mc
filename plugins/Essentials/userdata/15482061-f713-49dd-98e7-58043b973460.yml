@@ -1,0 +1,22 @@
+geolocation: United Kingdom
+lastAccountName: Custom_Url
+timestamps:
+  login: 1563455126432
+  lastteleport: 1563455482609
+  logout: 1563458954372
+ipAddress: 87.115.181.45
+lastlocation:
+  world: survival
+  x: -82.39528306430007
+  y: 67.0
+  z: -150.6700225631243
+  yaw: 157.79248
+  pitch: 34.799995
+money: '0.0'
+logoutlocation:
+  world: survival
+  x: -82.21279499321857
+  y: 71.0
+  z: -146.94837686007287
+  yaw: -201.60254
+  pitch: 27.449917

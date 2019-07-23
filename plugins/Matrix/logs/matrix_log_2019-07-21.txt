@@ -1,0 +1,95 @@
+(00:01:18) Synchro99 failed BadPackets check | send 31 moving packets per second (1.069) [29] (+0) | vl:0 ping:145 tps:19.32 component: packet.timer.main
+(00:01:54) Synchro99 failed BadPackets check | send 31 moving packets per second (1.148) [27] (+0) | vl:0 ping:141 tps:20.0 component: packet.timer.main
+(00:01:54) Synchro99 failed BadPackets check | send 65 moving packets per second (2.407) [27] (+0) | vl:0 ping:141 tps:20.0 component: packet.timer.main
+(00:49:25) Synchro99 failed BadPackets check | send 30 moving packets per second (1.111) [27] (+0) | vl:0 ping:100 tps:20.0 component: packet.timer.main
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5997 val2: 5 val3: 999 (+15) | vl:15 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5997 val2: 5 val3: 999 (+15) | vl:30 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5997 val2: 5 val3: 999 (+15) | vl:45 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5998 val2: 4 val3: 999 (+15) | vl:60 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5998 val2: 4 val3: 999 (+15) | vl:75 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:90 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:105 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:120 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:135 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:150 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:165 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:180 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:195 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:210 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:225 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:240 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:255 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:270 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:285 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:300 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:315 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:330 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 333.333 > 1.000 | val1: 5983 val2: 21 val3: 997 (+15) | vl:345 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 500.0 > 1.000 | val1: 5989 val2: 17 val3: 998 (+15) | vl:360 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:375 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:390 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:405 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:420 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:435 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:450 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:465 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:480 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:495 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:510 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:525 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:540 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:555 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:570 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:585 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:600 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:615 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:630 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:645 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:660 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:675 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:690 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:705 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:720 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 9.223372036854776E15 > 1.000 | val1: 6000 val2: 0 val3: 1000 (+15) | vl:735 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:750 ping:22 tps:20.0 component: packet.tick
+(17:39:42) Naxtinguisher failed BadPackets check | tick rate | 1000.0 > 1.000 | val1: 5999 val2: 5 val3: 999 (+15) | vl:765 ping:22 tps:20.0 component: packet.tick
+(20:37:45) Synchro99 failed BadPackets check | send 29 moving packets per second (1.074) [27] (+0) | vl:0 ping:149 tps:20.0 component: packet.timer.main
+(20:38:50) ninjaharg failed Fly check | ground spoof | tag: fake air packet | loc: -267.5,31.0,-14.5 (+3) | vl:3 ping:125 tps:17.05 component: fly.fg.air
+(20:42:03) ninjaharg failed Speed check | faster than expected | t-b | 0.46 > 0.429 | t: 1 | vd: 0.11453882371483051 (+7) | vl:7 ping:125 tps:20.0 component: speed.main
+(20:42:09) ninjaharg failed KillAura check | pitch pattern | s: 0.3864584 , d: 144 (+4) | vl:4 ping:125 tps:20.0 component: ka.pitch
+(20:42:09) ninjaharg failed KillAura check | pitch pattern | s: 0.3641447 , d: 152 (+4) | vl:8 ping:125 tps:20.0 component: ka.pitch
+(20:42:09) ninjaharg failed KillAura check | pitch pattern | s: 0.3598485 , d: 198 (+4) | vl:12 ping:125 tps:20.0 component: ka.pitch
+(20:42:13) ninjaharg failed KillAura check | snap | tag: b (+4) | vl:16 ping:125 tps:20.0 component: ka.snap
+(20:42:13) ninjaharg failed KillAura check | attack accuracy | accuracy: 83.333336 , var: 534 (+19) | vl:35 ping:125 tps:20.0 component: ka.accuracy
+(20:42:15) ninjaharg failed Velocity check | suspicious reduce the knockback distance | type: delay | val: 0.0 val2: true val3: true (+1) | vl:1 ping:125 tps:20.0 component: vel.delay
+(20:42:23) ninjaharg failed Speed check | fast climb | 0.268 > 0.118 / 20 (+0) | vl:0 ping:125 tps:15.19 component: speed.ladder
+(20:42:23) ninjaharg failed Speed check | fast climb | 0.15 > 0.118 / 20 (+4) | vl:4 ping:125 tps:20.0 component: speed.ladder
+(20:42:23) ninjaharg failed Speed check | fast climb | 0.15 > 0.118 / 20 (+4) | vl:8 ping:125 tps:20.0 component: speed.ladder
+(20:42:23) ninjaharg failed Speed check | fast climb | 0.15 > 0.118 / 20 (+4) | vl:12 ping:125 tps:20.0 component: speed.ladder
+(20:48:15) ninjaharg failed Block check | place block faster than expect: OAK_PLANKS / 0 (+0) | vl:0 ping:128 tps:20.0 component: block.fastplace
+(20:53:44) ninjaharg failed Speed check | t: spin (+1) | vl:1 ping:132 tps:20.0 component: speed.spin
+(20:53:44) ninjaharg failed Speed check | t: spin (+1) | vl:2 ping:132 tps:20.0 component: speed.spin
+(21:02:09) ninjaharg failed Block check | place block faster than expect: STRIPPED_DARK_OAK_WOOD / 0 (+0) | vl:0 ping:130 tps:20.0 component: block.fastplace
+(21:02:10) ninjaharg failed Block check | place block faster than expect: STRIPPED_DARK_OAK_WOOD / 0 (+0) | vl:0 ping:130 tps:20.0 component: block.fastplace
+(21:02:41) ninjaharg failed Block check | place block faster than expect: STRIPPED_DARK_OAK_WOOD / 1 (+0) | vl:0 ping:129 tps:20.0 component: block.fastplace
+(21:03:18) Synchro99 failed BadPackets check | send 28 moving packets per second (1.037) [27] (+0) | vl:0 ping:151 tps:20.0 component: packet.timer.main
+(21:03:18) ninjaharg failed BadPackets check | send 28 moving packets per second (1.037) [27] (+0) | vl:0 ping:124 tps:20.0 component: packet.timer.main
+(21:03:18) ninjaharg failed Block check | place block faster than expect: OAK_STAIRS / 1 (+0) | vl:0 ping:124 tps:20.0 component: block.fastplace
+(21:03:21) ninjaharg failed BadPackets check | send 60 moving packets per second (2.222) [27] (+0) | vl:0 ping:124 tps:20.0 component: packet.timer.main
+(21:03:21) Synchro99 failed BadPackets check | send 31 moving packets per second (1.148) [27] (+0) | vl:0 ping:151 tps:20.0 component: packet.timer.main
+(21:03:52) ninjaharg failed Block check | place block faster than expect: OAK_PLANKS / 1 (+0) | vl:0 ping:119 tps:20.0 component: block.fastplace
+(21:04:00) ninjaharg failed Block check | place block faster than expect: OAK_PLANKS / 1 (+0) | vl:0 ping:122 tps:20.0 component: block.fastplace
+(21:04:36) ninjaharg failed Block check | place block faster than expect: OAK_PLANKS / 1 (+0) | vl:0 ping:129 tps:20.0 component: block.fastplace
+(22:43:55) ninjaharg failed Block check | (fast break) nuker protection | blockT: SAND (+1) | vl:1 ping:124 tps:20.0 component: block.fastbreak
+(22:45:22) ninjaharg failed Block check | place block faster than expect: GRASS_BLOCK / 0 (+0) | vl:0 ping:131 tps:20.0 component: block.fastplace
+(22:45:43) ninjaharg failed Block check | place block faster than expect: GRASS_BLOCK / 1 (+0) | vl:0 ping:124 tps:20.0 component: block.fastplace
+(22:48:17) ninjaharg failed Block check | place block faster than expect: JUNGLE_LEAVES / 1 (+0) | vl:0 ping:134 tps:20.0 component: block.fastplace
+(22:48:17) ninjaharg failed Block check | place block faster than expect: JUNGLE_LEAVES / 1 (+0) | vl:0 ping:134 tps:20.0 component: block.fastplace
+(22:58:55) ninjaharg failed Block check | place block faster than expect: BONE_BLOCK / 0 (+0) | vl:0 ping:131 tps:20.0 component: block.fastplace
+(22:59:16) ninjaharg failed BadPackets check | send 29 moving packets per second (1.074) [27] (+0) | vl:0 ping:122 tps:20.0 component: packet.timer.main
+(23:02:11) ninjaharg failed Block check | place block faster than expect: BONE_BLOCK / 0 (+0) | vl:0 ping:130 tps:20.0 component: block.fastplace
+(23:03:57) ninjaharg failed BadPackets check | send 37 moving packets per second (1.37) [27] (+0) | vl:0 ping:130 tps:20.0 component: packet.timer.main
+(23:10:24) ninjaharg failed BadPackets check | send 28 moving packets per second (1.037) [27] (+0) | vl:0 ping:129 tps:20.0 component: packet.timer.main
+(23:13:56) ninjaharg failed Block check | place block faster than expect: SPRUCE_PLANKS / 0 (+0) | vl:0 ping:125 tps:20.0 component: block.fastplace
+(23:19:09) ninjaharg failed Block check | place block faster than expect: SPRUCE_SLAB / 1 (+0) | vl:0 ping:127 tps:20.0 component: block.fastplace
+(23:22:09) ninjaharg failed Block check | place block faster than expect: SPRUCE_PLANKS / 1 (+0) | vl:0 ping:128 tps:20.0 component: block.fastplace

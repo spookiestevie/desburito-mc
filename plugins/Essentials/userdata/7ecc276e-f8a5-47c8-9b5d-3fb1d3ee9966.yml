@@ -1,25 +1,25 @@
 geolocation: United States
 lastAccountName: Synchro99
 timestamps:
-  login: 1563308688885
-  logout: 1563310014750
-  lastteleport: 1563310008897
+  login: 1563851090182
+  logout: 1563852145376
+  lastteleport: 1563759711189
 ipAddress: 97.117.115.249
 logoutlocation:
-  world: survival
-  x: -272.4906317235729
-  y: 72.0
-  z: -14.605813384379239
-  yaw: 53.84967
-  pitch: 46.65002
+  world: world
+  x: -3710.900834600285
+  y: 75.40446150290286
+  z: -2461.4705442202107
+  yaw: -239.69794
+  pitch: -6.299669
 lastlocation:
-  world: survival_the_end
-  x: 63.24219389240917
-  y: 57.55321338701522
-  z: -47.39366061717402
-  yaw: -117.60007
-  pitch: -1.1999528
-money: '1169351.00'
+  world: world
+  x: -715.3264130846409
+  y: 70.4994412483758
+  z: -281.2525404101115
+  yaw: -206.09824
+  pitch: 28.37324
+money: '0.00'
 homes:
   home:
     world: survival
@@ -28,5 +28,12 @@ homes:
     z: -14.311032373495081
     yaw: 53.84967
     pitch: 46.65002
+  house:
+    world: world
+    x: 14514.179489980777
+    y: 78.0
+    z: 15549.68456224188
+    yaw: 56.098488
+    pitch: 29.774511
 nickname: §r§lSync
 afk: false

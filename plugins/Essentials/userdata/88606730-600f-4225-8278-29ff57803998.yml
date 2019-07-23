@@ -1,0 +1,21 @@
+lastAccountName: millermatt1212
+timestamps:
+  login: 1563870805358
+  logout: 1563870806978
+ipAddress: 173.249.30.10
+geolocation: Germany
+lastlocation:
+  world: world
+  x: -502.5
+  y: 83.0
+  z: -215.5
+  yaw: 315.0
+  pitch: 0.32322073
+money: '0.0'
+logoutlocation:
+  world: Lobby-World
+  x: 0.5
+  y: 51.0
+  z: 0.5
+  yaw: 0.22797276
+  pitch: -0.88594043
