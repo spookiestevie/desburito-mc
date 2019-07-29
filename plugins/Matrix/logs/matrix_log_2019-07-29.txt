@@ -1,0 +1,112 @@
+(10:15:00) PirateStoney02 failed Block check | place block faster than expect: GLOWSTONE / 0 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(10:15:00) PirateStoney02 failed Block check | place block faster than expect: GLOWSTONE / 0 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(10:16:41) PirateStoney02 failed Block check | place block faster than expect: STONE / 0 (+0) | vl:0 ping:51 tps:20.0 component: block.fastplace
+(10:23:42) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:34 tps:20.0 component: speed.spin
+(10:23:42) PirateStoney02 failed Speed check | t: spin (+1) | vl:2 ping:34 tps:20.0 component: speed.spin
+(10:32:51) PirateStoney02 failed Block check | (fast break) nuker protection | blockT: COAL_ORE (+1) | vl:1 ping:37 tps:19.99 component: block.fastbreak
+(10:32:52) PirateStoney02 failed Block check | (fast break) nuker protection | blockT: COAL_ORE (+1) | vl:2 ping:37 tps:20.0 component: block.fastbreak
+(15:52:43) PirateStoney02 failed KillAura check | snap | tag: b (+5) | vl:5 ping:28 tps:19.99 component: ka.snap
+(15:58:48) PirateStoney02 failed Block check | place block faster than expect: GLOWSTONE / 1 (+0) | vl:0 ping:24 tps:20.0 component: block.fastplace
+(15:58:49) PirateStoney02 failed Block check | place block faster than expect: GLOWSTONE / 1 (+0) | vl:0 ping:24 tps:20.0 component: block.fastplace
+(16:00:09) PirateStoney02 failed KillAura check | simple packet pattern | var: 0 (+1) | vl:1 ping:23 tps:20.0 component: ka.simple
+(16:00:09) PirateStoney02 failed KillAura check | heuristic check | pattern: #2 | val: 15.450927734375/15.450927734375 (+2) | vl:3 ping:23 tps:20.0 component: ka.heuristic
+(16:00:10) PirateStoney02 failed KillAura check | simple packet pattern | var: 0 (+1) | vl:4 ping:23 tps:20.0 component: ka.simple
+(16:00:10) PirateStoney02 failed KillAura check | heuristic check | pattern: #2 | val: 15.450927734375/15.450927734375 (+2) | vl:6 ping:23 tps:20.0 component: ka.heuristic
+(16:00:13) PirateStoney02 failed KillAura check | heuristic check | pattern: #2 | val: 15.450927734375/15.450927734375 (+2) | vl:2 ping:23 tps:20.0 component: ka.heuristic
+(16:10:07) PirateStoney02 failed KillAura check | non-human like combat style | confidence: 22.22222222222222 (sp) (+10) | vl:10 ping:33 tps:19.97 component: ka.style
+(16:10:08) PirateStoney02 failed KillAura check | non-human like combat style | confidence: 26.31578947368421 (sp) (+10) | vl:20 ping:33 tps:20.0 component: ka.style
+(16:10:46) PirateStoney02 failed KillAura check | heuristic check | pattern: #2 | val: 22.5/22.5 (+2) | vl:2 ping:34 tps:20.0 component: ka.heuristic
+(16:18:33) PirateStoney02 failed KillAura check | non-human like combat style | confidence: 25.0 (sp) (+10) | vl:10 ping:19 tps:20.0 component: ka.style
+(16:19:38) PirateStoney02 failed KillAura check | non-human like combat style | confidence: 26.08695652173913 (sp) (+10) | vl:10 ping:38 tps:19.99 component: ka.style
+(16:26:30) PirateStoney02 failed Speed check | fast climb | 0.268 > 0.118 / 20 (+5) | vl:5 ping:21 tps:20.0 component: speed.ladder
+(16:26:30) PirateStoney02 failed Speed check | fast climb | 0.15 > 0.118 / 20 (+5) | vl:10 ping:21 tps:20.0 component: speed.ladder
+(16:26:30) PirateStoney02 failed Speed check | fast climb | 0.15 > 0.118 / 20 (+5) | vl:15 ping:21 tps:20.0 component: speed.ladder
+(16:26:30) PirateStoney02 failed Speed check | fast climb | 0.15 > 0.118 / 20 (+5) | vl:20 ping:21 tps:20.0 component: speed.ladder
+(16:31:30) PirateStoney02 failed Block check | place block faster than expect: STONE / 1 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(16:33:45) PirateStoney02 failed KillAura check | snap | tag: b (+5) | vl:5 ping:20 tps:20.0 component: ka.snap
+(16:35:17) PirateStoney02 failed KillAura check | simple packet pattern | var: 3 (+1) | vl:1 ping:24 tps:19.99 component: ka.simple
+(16:43:05) PirateStoney02 failed Fly check | ground spoof | tag: fake air packet | loc: 100.0,49.0,0.0 (+4) | vl:4 ping:41 tps:20.0 component: fly.fg.air
+(16:49:05) PirateStoney02 failed BadPackets check | send 66 moving packets per second (3.0) [22] (+0) | vl:0 ping:49 tps:20.0 component: packet.timer.main
+(16:49:13) PirateStoney02 failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:49 tps:19.83 component: packet.timer.main
+(16:52:19) PirateStoney02 failed KillAura check | non-human like combat style | confidence: 31.25 (sp) (+10) | vl:10 ping:45 tps:20.0 component: ka.style
+(16:59:16) PirateStoney02 failed KillAura check | non-human like combat style | confidence: 20.0 (sp) (+10) | vl:10 ping:29 tps:20.0 component: ka.style
+(16:59:28) PirateStoney02 failed KillAura check | non-human like combat style | confidence: 20.0 (sp) (+10) | vl:10 ping:29 tps:20.0 component: ka.style
+(17:00:39) PirateStoney02 failed KillAura check | snap | tag: b (+5) | vl:5 ping:34 tps:19.94 component: ka.snap
+(17:01:09) PirateStoney02 failed Interact check | attack entity through walls (+1) | vl:1 ping:34 tps:19.99 component: interact.attack
+(17:02:16) PirateStoney02 failed KillAura check | non-human like combat style | confidence: 20.0 (sp) (+10) | vl:10 ping:36 tps:20.0 component: ka.style
+(17:09:22) PirateStoney02 failed Block check | (fast break) nuker protection | blockT: COAL_ORE (+1) | vl:1 ping:19 tps:20.0 component: block.fastbreak
+(17:12:29) PirateStoney02 failed Block check | abort breaking | dig | block at: 924.0,24.0,1076.0 type: STONE (+0) | vl:0 ping:26 tps:20.0 component: block.abort
+(17:14:15) PirateStoney02 failed KillAura check | heuristic check | pattern: #2 | val: 15.150009155273438/15.150009155273438 (+2) | vl:2 ping:30 tps:20.0 component: ka.heuristic
+(17:38:43) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:29 tps:20.0 component: speed.spin
+(17:38:44) PirateStoney02 failed Speed check | t: spin (+1) | vl:2 ping:29 tps:20.0 component: speed.spin
+(17:45:08) PirateStoney02 failed KillAura check | heuristic check | pattern: #1 | val: 3.0 (+3) | vl:3 ping:43 tps:20.0 component: ka.heuristic
+(17:45:26) PirateStoney02 failed FastHeal check | regen health too fast | difficulty: 2 delay: 202 protocol_ver: 14 (+2) | vl:2 ping:44 tps:20.0 component: heal
+(17:47:35) PirateStoney02 failed KillAura check | non-human like combat style | confidence: 20.0 (sp) (+10) | vl:10 ping:49 tps:20.0 component: ka.style
+(17:49:53) PirateStoney02 failed BadPackets check | send 72 moving packets per second (3.13) [23] (+0) | vl:0 ping:53 tps:20.0 component: packet.timer.main
+(17:50:37) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:22 tps:20.0 component: speed.spin
+(17:50:37) PirateStoney02 failed Speed check | t: spin (+1) | vl:2 ping:22 tps:20.0 component: speed.spin
+(17:57:24) PirateStoney02 failed BadPackets check | send 26 moving packets per second (1.182) [22] (+0) | vl:0 ping:7 tps:20.0 component: packet.timer.main
+(18:00:25) PirateStoney02 failed Block check | place block faster than expect: STONE / 0 (+0) | vl:0 ping:27 tps:20.0 component: block.fastplace
+(18:01:32) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:31 tps:19.99 component: speed.spin
+(18:06:05) PirateStoney02 failed Speed check | fast climb | 0.145 > 0.118 / 20 (+5) | vl:5 ping:41 tps:19.99 component: speed.ladder
+(18:06:05) PirateStoney02 failed Speed check | fast climb | 0.24 > 0.118 / 20 (+5) | vl:10 ping:41 tps:19.99 component: speed.ladder
+(18:33:16) PirateStoney02 failed Speed check | faster than expected | t-a | 0.299 > 0.2873 | val: true (+0) | vl:0 ping:104 tps:6.93 component: speed.main
+(18:33:16) PirateStoney02 failed Speed check | faster than expected | t-a | 0.29 > 0.2873 | val: true (+0) | vl:0 ping:104 tps:6.93 component: speed.main
+(18:33:29) PirateStoney02 failed Fly check | fast fall | var1:1 var2:0.4426249999999996 (+0) | vl:0 ping:104 tps:6.91 component: fly.fastfall
+(18:33:29) PirateStoney02 failed Fly check | ground spoof | tag: fake air packet | loc: 931.455,22.0,1076.281 (+0) | vl:0 ping:104 tps:6.91 component: fly.fg.air
+(18:33:29) PirateStoney02 failed Fly check | ground spoof | tag: fake air packet | loc: 931.455,22.0,1076.281 (+0) | vl:0 ping:104 tps:6.91 component: fly.fg.air
+(18:40:24) PirateStoney02 failed KillAura check | yaw pattern | 0.5|79 (+5) | vl:5 ping:46 tps:20.0 component: ka.yaw
+(18:43:05) PirateStoney02 failed Block check | place block faster than expect: ANDESITE / 0 (+0) | vl:0 ping:44 tps:20.0 component: block.fastplace
+(18:51:17) PirateStoney02 failed Speed check | fast climb | 0.352 > 0.34 / 5 (+5) | vl:5 ping:29 tps:20.0 component: speed.ladder
+(18:51:18) PirateStoney02 failed Speed check | fast climb | 0.346 > 0.34 / 10 (+5) | vl:10 ping:29 tps:20.0 component: speed.ladder
+(18:52:17) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:31 tps:20.0 component: speed.spin
+(18:59:49) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:32 tps:20.0 component: speed.spin
+(18:59:49) PirateStoney02 failed Speed check | t: spin (+1) | vl:2 ping:32 tps:20.0 component: speed.spin
+(19:16:04) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:19 tps:20.0 component: speed.spin
+(19:16:04) PirateStoney02 failed Speed check | t: spin (+1) | vl:2 ping:19 tps:20.0 component: speed.spin
+(19:21:36) PirateStoney02 failed Speed check | t: spin (+0) | vl:0 ping:601 tps:20.0 component: speed.spin
+(19:21:36) PirateStoney02 failed Speed check | t: spin (+0) | vl:0 ping:601 tps:20.0 component: speed.spin
+(19:21:58) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:135 tps:19.99 component: speed.spin
+(19:21:58) PirateStoney02 failed Speed check | t: spin (+1) | vl:2 ping:135 tps:19.99 component: speed.spin
+(19:29:20) PirateStoney02 failed KillAura check | t: ka.yaw.ag | val1: 1.0278653260320425 val2: 0.485552167519927 (+2) | vl:2 ping:101 tps:20.0 component: ka.yaw.ag
+(19:31:49) PirateStoney02 failed Velocity check | suspicious reduce the knockback distance | type: delay | val: 0.043 val2: true val3: true (+1) | vl:1 ping:242 tps:20.0 component: vel.delay
+(19:32:51) Zedphox failed Velocity check | suspicious reduce the knockback distance | type: delay | val: 0.0 val2: true val3: true (+1) | vl:1 ping:34 tps:20.0 component: vel.delay
+(19:32:52) Zedphox failed Velocity check | ignore velocity | expect | 0.0 <- 1.011 / 0.462 & 0.314 (+2) | vl:3 ping:34 tps:20.0 component: vel.expect
+(19:36:44) PirateStoney02 failed Block check | abort breaking | dig | block at: 924.0,24.0,1077.0 type: STONE (+0) | vl:0 ping:68 tps:18.79 component: block.abort
+(19:36:48) PirateStoney02 failed Interact check | interact block through walls ,o=STONE b=DISPENSER (+1) | vl:1 ping:68 tps:20.0 component: interact.through
+(19:37:04) PirateStoney02 failed Interact check | interact block through walls ,o=STONE b=DISPENSER (+1) | vl:2 ping:68 tps:20.0 component: interact.through
+(19:39:50) PirateStoney02 failed Phase check | no clip | block: STONE (+0) | vl:0 ping:757 tps:20.0 component: phase.clip
+(19:39:57) PirateStoney02 failed Phase check | no clip | block: STONE (+0) | vl:0 ping:17142 tps:20.0 component: phase.clip
+(19:39:57) PirateStoney02 failed Phase check | no clip | block: STONE (+0) | vl:0 ping:17142 tps:20.0 component: phase.clip
+(19:39:57) PirateStoney02 failed Phase check | no clip | block: STONE (+0) | vl:0 ping:17142 tps:20.0 component: phase.clip
+(19:39:57) PirateStoney02 failed Phase check | no clip | block: STONE (+0) | vl:0 ping:17142 tps:20.0 component: phase.clip
+(19:39:57) PirateStoney02 failed Phase check | no clip | block: STONE (+0) | vl:0 ping:17142 tps:20.0 component: phase.clip
+(19:39:58) PirateStoney02 failed Phase check | phase into block | block: STONE | box: 1.0,1.0,1.0 | block: AIR (+0) | vl:0 ping:17142 tps:20.0 component: phase.main
+(19:39:58) PirateStoney02 failed Phase check | phase into block | block: STONE | box: 1.0,1.0,1.0 | block: AIR (+0) | vl:0 ping:17142 tps:20.0 component: phase.main
+(19:43:05) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:133 tps:20.0 component: speed.spin
+(19:43:05) PirateStoney02 failed Speed check | t: spin (+1) | vl:2 ping:133 tps:20.0 component: speed.spin
+(19:43:06) PirateStoney02 failed KillAura check | heuristic check | pattern: #1 | val: 33.0 (+2) | vl:2 ping:133 tps:20.0 component: ka.heuristic
+(19:43:06) PirateStoney02 failed KillAura check | heuristic check | pattern: #2 | val: 33.0/33.0 (+1) | vl:3 ping:133 tps:20.0 component: ka.heuristic
+(19:43:31) PirateStoney02 failed KillAura check | dead hit | (var=6) (+1) | vl:1 ping:1100 tps:20.0 component: ka.dead
+(19:43:39) PirateStoney02 failed Block check | place block faster than expect: WHITE_WALL_BANNER / 0 (+0) | vl:0 ping:1100 tps:20.0 component: block.fastplace
+(19:46:14) Zedphox failed Velocity check | suspicious reduce the knockback distance | type: delay | val: 0.0 val2: true val3: true (+1) | vl:1 ping:14 tps:20.0 component: vel.delay
+(19:46:15) Zedphox failed Velocity check | ignore velocity | expect | 0.0 <- 1.287 / 0.519 & 0.314 (+2) | vl:3 ping:14 tps:20.0 component: vel.expect
+(19:50:08) PirateStoney02 failed KillAura check | heuristic check | pattern: #2 | val: 16.649658203125/16.64990234375 (+2) | vl:2 ping:117 tps:20.0 component: ka.heuristic
+(19:50:08) PirateStoney02 failed KillAura check | heuristic check | pattern: #2 | val: 16.649658203125/16.64990234375 (+2) | vl:4 ping:117 tps:20.0 component: ka.heuristic
+(19:50:09) PirateStoney02 failed KillAura check | heuristic check | pattern: #2 | val: 16.649658203125/16.64990234375 (+2) | vl:6 ping:117 tps:20.0 component: ka.heuristic
+(19:55:35) Zedphox failed Speed check | fast climb | 0.352 > 0.34 / 5 (+5) | vl:5 ping:35 tps:20.0 component: speed.ladder
+(19:56:18) PirateStoney02 failed Speed check | fast climb | 0.18 > 0.118 / 16 (+5) | vl:5 ping:102 tps:20.0 component: speed.ladder
+(19:56:59) Zedphox failed Block check | place block faster than expect: BARRIER / 0 (+0) | vl:0 ping:13 tps:20.0 component: block.fastplace
+(20:06:14) Zedphox failed Speed check | fast climb | 0.352 > 0.34 / 11 (+5) | vl:5 ping:10 tps:20.0 component: speed.ladder
+(20:12:20) PirateStoney02 failed BadPackets check | tick rate | 250.0 > 1.000 | val1: 5978 val2: 10 val3: 996 (+15) | vl:15 ping:119 tps:20.0 component: packet.tick
+(20:12:20) PirateStoney02 failed BadPackets check | tick rate | 250.0 > 1.000 | val1: 5980 val2: 10 val3: 996 (+15) | vl:30 ping:119 tps:20.0 component: packet.tick
+(20:12:20) PirateStoney02 failed BadPackets check | tick rate | 200.0 > 1.000 | val1: 5973 val2: 13 val3: 995 (+15) | vl:45 ping:119 tps:20.0 component: packet.tick
+(20:12:20) PirateStoney02 failed BadPackets check | tick rate | 250.0 > 1.000 | val1: 5976 val2: 14 val3: 996 (+15) | vl:60 ping:119 tps:20.0 component: packet.tick
+(20:12:20) PirateStoney02 failed BadPackets check | tick rate | 250.0 > 1.000 | val1: 5977 val2: 15 val3: 996 (+15) | vl:75 ping:119 tps:20.0 component: packet.tick
+(20:12:20) PirateStoney02 failed BadPackets check | tick rate | 333.333 > 1.000 | val1: 5983 val2: 11 val3: 997 (+15) | vl:90 ping:119 tps:20.0 component: packet.tick
+(20:12:20) PirateStoney02 failed BadPackets check | tick rate | 333.333 > 1.000 | val1: 5985 val2: 13 val3: 997 (+15) | vl:105 ping:119 tps:20.0 component: packet.tick
+(20:12:21) PirateStoney02 failed BadPackets check | send 250 moving packets per second (9.259) [27] (+0) | vl:105 ping:124 tps:20.0 component: packet.timer.main
+(20:12:30) Zedphox failed BadPackets check | send 32 moving packets per second (1.333) [24] (+0) | vl:0 ping:14 tps:19.23 component: packet.timer.main
+(20:12:36) PirateStoney02 failed Block check | place block faster than expect: DIORITE / 0 (+0) | vl:0 ping:124 tps:20.0 component: block.fastplace
+(20:14:11) Zedphox failed BadPackets check | send 23 moving packets per second (1.045) [22] (+0) | vl:0 ping:14 tps:20.0 component: packet.timer.main
+(20:16:21) PirateStoney02 failed KillAura check | snap | tag: b (+5) | vl:5 ping:79 tps:20.0 component: ka.snap

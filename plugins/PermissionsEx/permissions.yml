@@ -8,6 +8,8 @@ groups:
     - modifyworld.*
   Admin:
     permissions:
+    - Zedphox
+    - PirateStoney02
     - Synchro99
     - essentials.*
     - modifyworld.*
@@ -254,11 +256,11 @@ users:
     options:
       name: PirateStoney02
     group:
-    - VIP
+    - Admin
   76816463-674c-44bf-bf35-f84aa6ab78e5:
     group:
     - default
-    - Mod
+    - Admin
     options:
       name: Zedphox
   0b1b797c-03cb-431a-99a4-60f228f5016d:

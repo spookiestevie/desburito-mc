@@ -1,22 +1,22 @@
 geolocation: United Kingdom
 lastAccountName: Zedphox
 timestamps:
-  login: 1563199127513
-  lastteleport: 1563199161208
-  logout: 1563199801884
-ipAddress: 86.182.158.231
+  login: 1564428535374
+  lastteleport: 1564430006170
+  logout: 1564431660674
+ipAddress: 86.181.208.129
 lastlocation:
-  world: world
-  x: -539.2606633974385
-  y: 68.20000004768372
-  z: -338.6480595982979
-  yaw: -300.49658
-  pitch: 0.83877456
+  world: survival
+  x: 926.6999999880791
+  y: 23.275125
+  z: 1077.699999988079
+  yaw: -18.993256
+  pitch: 33.340687
 money: '0.0'
 logoutlocation:
-  world: world
-  x: -412.3534174035066
-  y: 117.0
-  z: -223.60257731968773
-  yaw: -124.29826
-  pitch: 32.95257
+  world: survival
+  x: 959.4723060352356
+  y: 33.0
+  z: 1075.300000011921
+  yaw: 182.48315
+  pitch: 16.13617

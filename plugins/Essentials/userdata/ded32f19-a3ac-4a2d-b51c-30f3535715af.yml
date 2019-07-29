@@ -1,7 +1,7 @@
 lastAccountName: ninjaharg
 timestamps:
-  login: 1563848660599
-  logout: 1563852849512
+  login: 1563988894402
+  logout: 1563989259601
   lastteleport: 1563759244937
 ipAddress: 104.159.179.53
 geolocation: United States
@@ -15,8 +15,8 @@ lastlocation:
 money: '0.0'
 logoutlocation:
   world: world
-  x: -745.7481581271796
-  y: 63.0
-  z: 127.31128303617064
-  yaw: -120.807495
-  pitch: 3.2998633
+  x: -501.30000001192093
+  y: 87.0
+  z: -255.46120744981138
+  yaw: -167.16199
+  pitch: 17.399582

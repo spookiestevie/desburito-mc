@@ -1,0 +1,20 @@
+(16:42:49) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:109 tps:19.86 component: speed.spin
+(16:45:01) PirateStoney02 failed Block check | abort breaking | dig | block at: 945.0,31.0,1098.0 type: COBBLESTONE (+0) | vl:0 ping:129 tps:20.0 component: block.abort
+(19:27:40) Zedphox failed Fly check | ground spoof | tag: fake air packet | loc: -144.5,64.0,-278.5 (+0) | vl:0 ping:12 tps:15.24 component: fly.fg.air
+(19:29:04) Zedphox failed Chat check | chat too fast | delay: 831 (+1) | vl:1 ping:14 tps:19.85 component: chat.delay
+(19:29:35) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:20 tps:20.0 component: speed.spin
+(19:29:56) PirateStoney02 failed BadPackets check | send 24 moving packets per second (1.091) [22] (+0) | vl:0 ping:21 tps:20.0 component: packet.timer.main
+(19:30:02) PirateStoney02 failed Block check | place block faster than expect: STONE_BRICKS / 1 (+0) | vl:0 ping:21 tps:19.99 component: block.fastplace
+(19:30:02) PirateStoney02 failed Block check | place block faster than expect: STONE_BRICKS / 0 (+0) | vl:0 ping:21 tps:19.99 component: block.fastplace
+(19:30:11) PirateStoney02 failed Block check | place block faster than expect: STONE_BRICKS / 0 (+0) | vl:0 ping:43 tps:20.0 component: block.fastplace
+(19:32:50) PirateStoney02 failed Block check | place block faster than expect: OAK_LOG / 1 (+0) | vl:0 ping:48 tps:20.0 component: block.fastplace
+(19:33:59) Zedphox failed Speed check | faster than expected | t-a | 0.289 > 0.2873 | val: true (+9) | vl:9 ping:13 tps:20.0 component: speed.main
+(19:33:59) Zedphox failed Speed check | faster than expected | t-a | 0.288 > 0.2873 | val: true (+9) | vl:18 ping:13 tps:20.0 component: speed.main
+(19:35:34) PirateStoney02 failed Block check | place block faster than expect: STONE_BRICK_SLAB / 1 (+0) | vl:0 ping:51 tps:20.0 component: block.fastplace
+(19:35:55) PirateStoney02 failed Block check | place block faster than expect: STONE_BRICK_SLAB / 1 (+0) | vl:0 ping:39 tps:20.0 component: block.fastplace
+(19:39:44) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:45 tps:20.0 component: speed.spin
+(19:39:45) PirateStoney02 failed Speed check | t: spin (+1) | vl:2 ping:45 tps:20.0 component: speed.spin
+(19:45:10) Zedphox failed Speed check | fast climb | 0.169 > 0.118 / 20 (+5) | vl:5 ping:13 tps:20.0 component: speed.ladder
+(19:48:45) PirateStoney02 failed Block check | place block faster than expect: STONE / 1 (+0) | vl:0 ping:50 tps:20.0 component: block.fastplace
+(19:49:33) PirateStoney02 failed HitBox check | reach: 4.738727877150541 expected: 4.535911378487775 (+1) | vl:1 ping:51 tps:20.0 component: hb.reach.simple
+(19:56:21) PirateStoney02 failed Speed check | t: spin (+1) | vl:1 ping:33 tps:20.0 component: speed.spin

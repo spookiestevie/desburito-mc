@@ -1,22 +1,23 @@
 lastAccountName: PirateStoney02
 timestamps:
-  login: 1563487005650
-  lastteleport: 1563487252409
-  logout: 1563487302532
-ipAddress: 86.140.210.193
+  login: 1564425158616
+  lastteleport: 1564429263474
+  logout: 1564431719365
+ipAddress: 86.175.100.14
 geolocation: United Kingdom
 lastlocation:
-  world: world
-  x: -572.0287410174882
-  y: 112.00131226870752
-  z: -200.68881170464869
-  yaw: 245.54956
-  pitch: 19.373228
+  world: survival
+  x: -192.80281970299674
+  y: 48.0
+  z: -259.818679428633
+  yaw: 220.94771
+  pitch: 8.129719
 money: '0.0'
 logoutlocation:
   world: survival
-  x: -119.18148935434706
-  y: 66.0
-  z: -314.87872762817494
-  yaw: 258.14996
-  pitch: 27.000002
+  x: 929.4323008340209
+  y: 22.0
+  z: 1075.4271363020591
+  yaw: -223.66466
+  pitch: 8.699923
+afk: false
